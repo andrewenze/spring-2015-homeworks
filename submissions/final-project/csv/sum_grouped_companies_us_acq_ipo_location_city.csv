@@ -1,0 +1,666 @@
+country_code,state_code,region,city,funding_total_usd,funding_rounds
+USA,AK,Anchorage,Anchorage,1,1
+USA,AL,AL - Other,Normal,1,1
+USA,AL,Birmingham,Birmingham,5,5
+USA,AL,Birmingham,Columbiana,1,1
+USA,AR,Little Rock,Pine Bluff,1,1
+USA,AZ,Phoenix,Chandler,3,3
+USA,AZ,Phoenix,Phoenix,5,5
+USA,AZ,Phoenix,Scottsdale,9,9
+USA,AZ,Phoenix,Tempe,4,4
+USA,AZ,Tucson,Tucson,5,5
+USA,CA,Anaheim,Aliso Viejo,14,14
+USA,CA,Anaheim,Anaheim,1,1
+USA,CA,Anaheim,Costa Mesa,3,3
+USA,CA,Anaheim,Huntington Beach,1,1
+USA,CA,Anaheim,Irvine,35,35
+USA,CA,Anaheim,Lake Forest,2,2
+USA,CA,Anaheim,Newport Beach,5,5
+USA,CA,Anaheim,Orange,1,1
+USA,CA,CA - Other,Alviso,1,1
+USA,CA,CA - Other,Lucerne Valley,4,4
+USA,CA,CA - Other,Mather,1,1
+USA,CA,CA - Other,Moffett Field,1,1
+USA,CA,CA - Other,Playa Vista,2,2
+USA,CA,CA - Other,West Hills,1,1
+USA,CA,Los Angeles,Agoura Hills,3,3
+USA,CA,Los Angeles,Arcadia,1,1
+USA,CA,Los Angeles,Baldwin Park,1,1
+USA,CA,Los Angeles,Beverly Hills,4,4
+USA,CA,Los Angeles,Burbank,1,1
+USA,CA,Los Angeles,Calabasas,5,5
+USA,CA,Los Angeles,Carson,2,2
+USA,CA,Los Angeles,Chatsworth,3,3
+USA,CA,Los Angeles,Culver City,6,6
+USA,CA,Los Angeles,El Segundo,9,9
+USA,CA,Los Angeles,Encino,1,1
+USA,CA,Los Angeles,Gardena,1,1
+USA,CA,Los Angeles,Glendale,1,1
+USA,CA,Los Angeles,Hawthorne,1,1
+USA,CA,Los Angeles,Hermosa Beach,1,1
+USA,CA,Los Angeles,Laguna Hills,2,2
+USA,CA,Los Angeles,Los Angeles,49,49
+USA,CA,Los Angeles,Marina Del Rey,2,2
+USA,CA,Los Angeles,Monrovia,2,2
+USA,CA,Los Angeles,North Hollywood,1,1
+USA,CA,Los Angeles,Pasadena,17,17
+USA,CA,Los Angeles,Rancho Santa Margarita,1,1
+USA,CA,Los Angeles,Redondo Beach,1,1
+USA,CA,Los Angeles,Santa Monica,32,32
+USA,CA,Los Angeles,Sherman Oaks,3,3
+USA,CA,Los Angeles,South Pasadena,1,1
+USA,CA,Los Angeles,Thousand Oaks,3,3
+USA,CA,Los Angeles,Toluca Lake,1,1
+USA,CA,Los Angeles,Torrance,3,3
+USA,CA,Los Angeles,Valencia,1,1
+USA,CA,Los Angeles,Van Nuys,2,2
+USA,CA,Los Angeles,Venice,6,6
+USA,CA,Los Angeles,West Hollywood,5,5
+USA,CA,Los Angeles,Westlake Village,6,6
+USA,CA,Los Angeles,Woodland Hills,4,4
+USA,CA,Napa Valley,Petaluma,4,4
+USA,CA,Napa Valley,Santa Rosa,2,2
+USA,CA,Ontario - Inland Empire,Azusa,1,1
+USA,CA,Ontario - Inland Empire,Ontario,1,1
+USA,CA,Ontario - Inland Empire,Redlands,1,1
+USA,CA,Ontario - Inland Empire,San Dimas,1,1
+USA,CA,Ontario - Inland Empire,Temecula,1,1
+USA,CA,Ontario - Inland Empire,Walnut,1,1
+USA,CA,"Orange County, California",Foothill Ranch,1,1
+USA,CA,"Orange County, California",Laguna Niguel,1,1
+USA,CA,"Orange County, California",Long Beach,2,2
+USA,CA,"Orange County, California",Mission Viejo,1,1
+USA,CA,"Orange County, California",San Juan Capistrano,2,2
+USA,CA,"Orange County, California",Santa Ana,3,3
+USA,CA,"Orange County, California",Trabuco Canyon,1,1
+USA,CA,"Orange County, California",Tustin,1,1
+USA,CA,SF Bay Area,Alameda,5,5
+USA,CA,SF Bay Area,Alamo,1,1
+USA,CA,SF Bay Area,Atherton,2,2
+USA,CA,SF Bay Area,Belmont,5,5
+USA,CA,SF Bay Area,Benicia,1,1
+USA,CA,SF Bay Area,Berkeley,4,4
+USA,CA,SF Bay Area,Brisbane,6,6
+USA,CA,SF Bay Area,Burlingame,10,10
+USA,CA,SF Bay Area,Campbell,17,17
+USA,CA,SF Bay Area,Cupertino,26,26
+USA,CA,SF Bay Area,Daly City,1,1
+USA,CA,SF Bay Area,Emeryville,13,13
+USA,CA,SF Bay Area,Foster City,11,11
+USA,CA,SF Bay Area,Fremont,25,25
+USA,CA,SF Bay Area,Hayward,6,6
+USA,CA,SF Bay Area,Lafayette,1,1
+USA,CA,SF Bay Area,Larkspur,1,1
+USA,CA,SF Bay Area,Los Altos,7,7
+USA,CA,SF Bay Area,Los Gatos,10,10
+USA,CA,SF Bay Area,Menlo Park,39,39
+USA,CA,SF Bay Area,Mill Valley,1,1
+USA,CA,SF Bay Area,Milpitas,16,16
+USA,CA,SF Bay Area,Morgan Hill,1,1
+USA,CA,SF Bay Area,Mountain View,118,118
+USA,CA,SF Bay Area,Newark,5,5
+USA,CA,SF Bay Area,Novato,2,2
+USA,CA,SF Bay Area,Oakland,7,7
+USA,CA,SF Bay Area,Palo Alto,103,103
+USA,CA,SF Bay Area,Pleasanton,13,13
+USA,CA,SF Bay Area,Redwood City,50,50
+USA,CA,SF Bay Area,Redwood Shores,5,5
+USA,CA,SF Bay Area,Richmond,3,3
+USA,CA,SF Bay Area,San Bruno,10,10
+USA,CA,SF Bay Area,San Carlos,8,8
+USA,CA,SF Bay Area,San Francisco,434,434
+USA,CA,SF Bay Area,San Jose,73,73
+USA,CA,SF Bay Area,San Mateo,70,70
+USA,CA,SF Bay Area,San Rafael,2,2
+USA,CA,SF Bay Area,San Ramon,6,6
+USA,CA,SF Bay Area,Santa Clara,86,86
+USA,CA,SF Bay Area,Santa Cruz,2,2
+USA,CA,SF Bay Area,Saratoga,1,1
+USA,CA,SF Bay Area,Scotts Valley,1,1
+USA,CA,SF Bay Area,South San Francisco,30,30
+USA,CA,SF Bay Area,Sunnyvale,86,86
+USA,CA,Sacramento,Davis,2,2
+USA,CA,Sacramento,Folsom,2,2
+USA,CA,Sacramento,Mi Wuk Village,1,1
+USA,CA,Sacramento,Roseville,1,1
+USA,CA,Sacramento,Sacramento,1,1
+USA,CA,Sacramento,West Sacramento,1,1
+USA,CA,Sacramento Valley,Chico,1,1
+USA,CA,Sacramento Valley,Nevada City,1,1
+USA,CA,Sacramento Valley,Yuba City,1,1
+USA,CA,San Diego,Carlsbad,14,14
+USA,CA,San Diego,Chula Vista,1,1
+USA,CA,San Diego,El Cajon,1,1
+USA,CA,San Diego,Encinitas,1,1
+USA,CA,San Diego,Escondido,1,1
+USA,CA,San Diego,La Jolla,7,7
+USA,CA,San Diego,National City,1,1
+USA,CA,San Diego,Poway,2,2
+USA,CA,San Diego,San Diego,92,92
+USA,CA,San Diego,Solana Beach,3,3
+USA,CA,San Diego,Vista,2,2
+USA,CA,San Luis Obispo,San Luis Obispo,1,1
+USA,CA,Santa Barbara,Camarillo,1,1
+USA,CA,Santa Barbara,Carpinteria,1,1
+USA,CA,Santa Barbara,Goleta,2,2
+USA,CA,Santa Barbara,Moorpark,1,1
+USA,CA,Santa Barbara,Oxnard,1,1
+USA,CA,Santa Barbara,Santa Barbara,8,8
+USA,CO,CO - Other,Loveland,1,1
+USA,CO,CO - Other,Niwot,1,1
+USA,CO,Colorado Springs,Colorado Springs,1,1
+USA,CO,Denver,Arvada,1,1
+USA,CO,Denver,Boulder,30,30
+USA,CO,Denver,Broomfield,6,6
+USA,CO,Denver,Denver,17,17
+USA,CO,Denver,Englewood,5,5
+USA,CO,Denver,Golden,1,1
+USA,CO,Denver,Greenwood Village,7,7
+USA,CO,Denver,Lafayette,2,2
+USA,CO,Denver,Littleton,2,2
+USA,CO,Denver,Longmont,4,4
+USA,CO,Denver,Louisville,3,3
+USA,CO,Denver,Westminster,5,5
+USA,CO,Denver,Wheat Ridge,1,1
+USA,CO,Fort Collins,Fort Collins,2,2
+USA,CT,CT - Other,Middlefield,1,1
+USA,CT,CT - Other,South Glastonbury,1,1
+USA,CT,Hartford,Branford,3,3
+USA,CT,Hartford,Cheshire,1,1
+USA,CT,Hartford,Danbury,2,2
+USA,CT,Hartford,Fairfield,2,2
+USA,CT,Hartford,Farmington,1,1
+USA,CT,Hartford,Glastonbury,1,1
+USA,CT,Hartford,Guilford,1,1
+USA,CT,Hartford,Hamden,2,2
+USA,CT,Hartford,Hartford,2,2
+USA,CT,Hartford,Milford,1,1
+USA,CT,Hartford,New Haven,4,4
+USA,CT,Hartford,Norwalk,1,1
+USA,CT,Hartford,Orange,1,1
+USA,CT,Hartford,Shelton,2,2
+USA,CT,Hartford,Stamford,6,6
+USA,CT,Hartford,Wallingford,1,1
+USA,CT,Hartford,West Haven,1,1
+USA,CT,Hartford,Westport,2,2
+USA,CT,Hartford,Windsor,1,1
+USA,DC,"Washington, D.C.",Washington,13,13
+USA,DE,"Wilmington, Delaware",Newark,1,1
+USA,DE,"Wilmington, Delaware",Wilmington,3,3
+USA,FL,Daytona Beach,Daytona Beach,1,1
+USA,FL,Florida's Space Coast,Melbourne Beach,2,2
+USA,FL,Florida's Space Coast,Satellite Beach,1,1
+USA,FL,Fort Myers,Fort Myers,1,1
+USA,FL,Ft. Lauderdale,Fort Lauderdale,5,5
+USA,FL,Ft. Lauderdale,Hollywood,2,2
+USA,FL,Ft. Lauderdale,Pompano Beach,2,2
+USA,FL,Ft. Lauderdale,Sunrise,1,1
+USA,FL,Ft. Lauderdale,Weston,2,2
+USA,FL,Gainesville,Alachua,3,3
+USA,FL,Jacksonville,Jacksonville,7,7
+USA,FL,Miami,Coral Gables,1,1
+USA,FL,Miami,Miami,9,9
+USA,FL,Miami,Miami Beach,1,1
+USA,FL,Miami,North Miami Beach,1,1
+USA,FL,Orlando,Lake Mary,1,1
+USA,FL,Orlando,Maitland,1,1
+USA,FL,Orlando,Orlando,4,4
+USA,FL,Orlando,Winter Park,1,1
+USA,FL,Palm Beaches,Boca Raton,7,7
+USA,FL,Palm Beaches,Delray Beach,2,2
+USA,FL,Palm Beaches,Palm Beach Gardens,1,1
+USA,FL,Palm Beaches,West Palm Beach,3,3
+USA,FL,Pensacola,Gulf Breeze,1,1
+USA,FL,Pensacola,Santa Rosa Beach,1,1
+USA,FL,Sarasota - Bradenton,Sarasota,1,1
+USA,FL,Tallahassee,Tallahassee,1,1
+USA,FL,Tampa,Clearwater,2,2
+USA,FL,Tampa,Lakeland,1,1
+USA,FL,Tampa,St. Petersburg,2,2
+USA,FL,Tampa,Tampa,12,12
+USA,GA,Atlanta,Alpharetta,6,6
+USA,GA,Atlanta,Atlanta,42,42
+USA,GA,Atlanta,Carrollton,1,1
+USA,GA,Atlanta,Duluth,2,2
+USA,GA,Atlanta,Kennesaw,4,4
+USA,GA,Atlanta,Norcross,5,5
+USA,GA,Atlanta,Roswell,2,2
+USA,GA,GA - Other,Boston,1,1
+USA,GA,Savannah,Savannah,1,1
+USA,IA,Cedar Rapids,Cedar Rapids,1,1
+USA,IA,Des Moines,Ames,4,4
+USA,IA,Des Moines,Ankeny,1,1
+USA,IA,Des Moines,Des Moines,1,1
+USA,IA,Des Moines,West Des Moines,1,1
+USA,ID,Boise,Boise,3,3
+USA,ID,ID - Other,Coeur D'alene,1,1
+USA,IL,Chicago,Arlington Heights,3,3
+USA,IL,Chicago,Bloomingdale,1,1
+USA,IL,Chicago,Bolingbrook,1,1
+USA,IL,Chicago,Bridgeview,1,1
+USA,IL,Chicago,Buffalo Grove,1,1
+USA,IL,Chicago,Chicago,54,54
+USA,IL,Chicago,Chicago Heights,1,1
+USA,IL,Chicago,Deerfield,2,2
+USA,IL,Chicago,Des Plaines,1,1
+USA,IL,Chicago,Downers Grove,1,1
+USA,IL,Chicago,Elk Grove Village,1,1
+USA,IL,Chicago,Evanston,2,2
+USA,IL,Chicago,Frankfort,1,1
+USA,IL,Chicago,Glen Ellyn,1,1
+USA,IL,Chicago,Glenview,1,1
+USA,IL,Chicago,Itasca,6,6
+USA,IL,Chicago,Lake Forest,1,1
+USA,IL,Chicago,Lake Zurich,1,1
+USA,IL,Chicago,Libertyville,2,2
+USA,IL,Chicago,Lincolnshire,2,2
+USA,IL,Chicago,Lincolnwood,1,1
+USA,IL,Chicago,Lisle,1,1
+USA,IL,Chicago,Naperville,1,1
+USA,IL,Chicago,Northbrook,3,3
+USA,IL,Chicago,Oak Brook,3,3
+USA,IL,Chicago,Palatine,2,2
+USA,IL,Chicago,Rolling Meadows,4,4
+USA,IL,Chicago,Schaumburg,2,2
+USA,IL,Chicago,Vernon Hills,1,1
+USA,IL,IL - Other,Illinois City,1,1
+USA,IL,Peoria,Pekin,1,1
+USA,IL,Rockford,Rockford,1,1
+USA,IN,IN - Other,New Albany,1,1
+USA,IN,Indianapolis,Carmel,1,1
+USA,IN,Indianapolis,Fishers,1,1
+USA,IN,Indianapolis,Indianapolis,9,9
+USA,IN,Indianapolis,West Lafayette,2,2
+USA,KS,KS - Other,Prairie Village,1,1
+USA,KS,Kansas City,Kansas City,2,2
+USA,KS,Kansas City,Lenexa,1,1
+USA,KS,Kansas City,Olathe,1,1
+USA,KS,Kansas City,Overland Park,1,1
+USA,KY,Lexington,Lexington,1,1
+USA,KY,Louisville,Louisville,2,2
+USA,LA,Baton Rouge,Baton Rouge,1,1
+USA,LA,Monroe,Monroe,1,1
+USA,MA,Boston,Acton,4,4
+USA,MA,Boston,Andover,7,7
+USA,MA,Boston,Bedford,7,7
+USA,MA,Boston,Beverly,4,4
+USA,MA,Boston,Billerica,6,6
+USA,MA,Boston,Boston,57,57
+USA,MA,Boston,Boxborough,3,3
+USA,MA,Boston,Brighton,1,1
+USA,MA,Boston,Burlington,18,18
+USA,MA,Boston,Cambridge,83,83
+USA,MA,Boston,Chelmsford,7,7
+USA,MA,Boston,Chelsea,1,1
+USA,MA,Boston,Chestnut Hill,1,1
+USA,MA,Boston,Concord,2,2
+USA,MA,Boston,Danvers,1,1
+USA,MA,Boston,Dedham,2,2
+USA,MA,Boston,Devens,1,1
+USA,MA,Boston,Framingham,8,8
+USA,MA,Boston,Gloucester,2,2
+USA,MA,Boston,Holliston,1,1
+USA,MA,Boston,Hopkinton,1,1
+USA,MA,Boston,Lexington,13,13
+USA,MA,Boston,Littleton,3,3
+USA,MA,Boston,Lowell,7,7
+USA,MA,Boston,Marblehead,1,1
+USA,MA,Boston,Marlborough,9,9
+USA,MA,Boston,Maynard,3,3
+USA,MA,Boston,Milford,1,1
+USA,MA,Boston,Natick,4,4
+USA,MA,Boston,Needham,3,3
+USA,MA,Boston,Newton,7,7
+USA,MA,Boston,North Billerica,1,1
+USA,MA,Boston,North Reading,1,1
+USA,MA,Boston,Norwood,1,1
+USA,MA,Boston,Quincy,1,1
+USA,MA,Boston,Somerville,2,2
+USA,MA,Boston,South Easton,1,1
+USA,MA,Boston,Southborough,1,1
+USA,MA,Boston,Tewksbury,2,2
+USA,MA,Boston,Tyngsboro,1,1
+USA,MA,Boston,Wakefield,1,1
+USA,MA,Boston,Waltham,45,45
+USA,MA,Boston,Watertown,6,6
+USA,MA,Boston,Wayland,1,1
+USA,MA,Boston,Westford,3,3
+USA,MA,Boston,Westwood,2,2
+USA,MA,Boston,Wilmington,3,3
+USA,MA,Boston,Woburn,14,14
+USA,MA,Cape Cod,Osterville,1,1
+USA,MA,MA - Other,South Hadley,1,1
+USA,MA,New Bedford,Foxboro,1,1
+USA,MA,New Bedford,West Bridgewater,1,1
+USA,MA,Worcester,Amherst,1,1
+USA,MA,Worcester,Gardner,1,1
+USA,MA,Worcester,Hardwick,1,1
+USA,MA,Worcester,Northborough,1,1
+USA,MA,Worcester,Westborough,2,2
+USA,MA,Worcester,Worcester,1,1
+USA,MD,Baltimore,Annapolis,4,4
+USA,MD,Baltimore,Baltimore,10,10
+USA,MD,Baltimore,Belcamp,1,1
+USA,MD,Baltimore,Columbia,5,5
+USA,MD,Baltimore,Glen Burnie,1,1
+USA,MD,Baltimore,Hanover,2,2
+USA,MD,Baltimore,Lutherville Timonium,1,1
+USA,MD,Baltimore,Towson,2,2
+USA,MD,Hagerstown,Frederick,2,2
+USA,MD,"Washington, D.C.",Beltsville,1,1
+USA,MD,"Washington, D.C.",Bethesda,11,11
+USA,MD,"Washington, D.C.",Chevy Chase,1,1
+USA,MD,"Washington, D.C.",Gaithersburg,6,6
+USA,MD,"Washington, D.C.",Germantown,5,5
+USA,MD,"Washington, D.C.",Greenbelt,2,2
+USA,MD,"Washington, D.C.",Rockville,9,9
+USA,MD,"Washington, D.C.",Silver Spring,5,5
+USA,ME,ME - Other,Cambridge,1,1
+USA,ME,ME - Other,Limington,1,1
+USA,ME,ME - Other,Stoneham,1,1
+USA,MI,Detroit,Ann Arbor,7,7
+USA,MI,Detroit,Detroit,1,1
+USA,MI,Detroit,Ferndale,1,1
+USA,MI,Detroit,Livonia,1,1
+USA,MI,Detroit,Oxford,1,1
+USA,MI,Detroit,Plymouth,1,1
+USA,MI,Detroit,Southfield,1,1
+USA,MI,Detroit,Troy,1,1
+USA,MI,Detroit,Wixom,1,1
+USA,MI,Kalamazoo,Portage,1,1
+USA,MI,Lansing,Lansing,1,1
+USA,MN,MN - Other,Watkins,1,1
+USA,MN,Minneapolis,Burnsville,1,1
+USA,MN,Minneapolis,Chanhassen,1,1
+USA,MN,Minneapolis,Eagan,3,3
+USA,MN,Minneapolis,Eden Prairie,6,6
+USA,MN,Minneapolis,Maple Grove,1,1
+USA,MN,Minneapolis,Minneapolis,16,16
+USA,MN,Minneapolis,Minnetonka,3,3
+USA,MN,Minneapolis,Plymouth,3,3
+USA,MN,Minneapolis,Saint Paul,6,6
+USA,MO,Branson,Bolivar,1,1
+USA,MO,Kansas City,Kansas City,2,2
+USA,MO,MO - Other,Louisiana,1,1
+USA,MO,MO - Other,O Fallon,1,1
+USA,MO,St. Louis,Columbia,1,1
+USA,MO,St. Louis,Earth City,1,1
+USA,MO,St. Louis,Hazelwood,1,1
+USA,MO,St. Louis,Saint Louis,2,2
+USA,MO,St. Louis,St Louis,9,9
+USA,MS,Jackson,Jackson,1,1
+USA,MS,Jackson,Ridgeland,1,1
+USA,MT,Bozeman,Bozeman,2,2
+USA,NC,Charlotte,Charlotte,9,9
+USA,NC,NC - Other,Hickory,1,1
+USA,NC,NC - Other,Huntersville,1,1
+USA,NC,Raleigh,Cary,4,4
+USA,NC,Raleigh,Chapel Hill,4,4
+USA,NC,Raleigh,Durham,18,18
+USA,NC,Raleigh,Morrisville,10,10
+USA,NC,Raleigh,Raleigh,7,7
+USA,NC,Raleigh,Wake Forest,1,1
+USA,NC,Winston-Salem,Winston Salem,2,2
+USA,NE,Omaha,Omaha,4,4
+USA,NH,"Manchester, New Hampshire",Manchester,1,1
+USA,NH,"Manchester, New Hampshire",Merrimack,2,2
+USA,NH,"Manchester, New Hampshire",Nashua,4,4
+USA,NH,Portsmouth,Portsmouth,4,4
+USA,NJ,Atlantic City,Egg Harbor Township,1,1
+USA,NJ,Atlantic City,Newtonville,1,1
+USA,NJ,Atlantic City,Toms River,1,1
+USA,NJ,NJ - Other,Berlin,1,1
+USA,NJ,NJ - Other,Camden,1,1
+USA,NJ,NJ - Other,Cedar Knolls,1,1
+USA,NJ,NJ - Other,Hampton,2,2
+USA,NJ,NJ - Other,Lawrenceville,1,1
+USA,NJ,NJ - Other,Marlton,1,1
+USA,NJ,NJ - Other,Mount Laurel,1,1
+USA,NJ,NJ - Other,Pennington,1,1
+USA,NJ,NJ - Other,Princeton Junction,1,1
+USA,NJ,NJ - Other,Robbinsville,1,1
+USA,NJ,NJ - Other,Vineland,1,1
+USA,NJ,Newark,Allendale,2,2
+USA,NJ,Newark,Atlantic Highlands,1,1
+USA,NJ,Newark,Bedminster,2,2
+USA,NJ,Newark,Berkeley Heights,1,1
+USA,NJ,Newark,Bridgewater,4,4
+USA,NJ,Newark,Carlstadt,1,1
+USA,NJ,Newark,Cranbury,3,3
+USA,NJ,Newark,Edison,1,1
+USA,NJ,Newark,Fairfield,1,1
+USA,NJ,Newark,Florham Park,1,1
+USA,NJ,Newark,Fort Lee,2,2
+USA,NJ,Newark,Hoboken,1,1
+USA,NJ,Newark,Holmdel,3,3
+USA,NJ,Newark,Jersey City,4,4
+USA,NJ,Newark,Little Falls,1,1
+USA,NJ,Newark,Livingston,2,2
+USA,NJ,Newark,Lyndhurst,1,1
+USA,NJ,Newark,Mahwah,2,2
+USA,NJ,Newark,Manalapan,1,1
+USA,NJ,Newark,Monmouth Junction,3,3
+USA,NJ,Newark,Montclair,1,1
+USA,NJ,Newark,Montvale,1,1
+USA,NJ,Newark,Morris Plains,2,2
+USA,NJ,Newark,Morristown,2,2
+USA,NJ,Newark,Northvale,1,1
+USA,NJ,Newark,Paramus,1,1
+USA,NJ,Newark,Parsippany,2,2
+USA,NJ,Newark,Piscataway,1,1
+USA,NJ,Newark,Princeton,9,9
+USA,NJ,Newark,Ramsey,1,1
+USA,NJ,Newark,Red Bank,4,4
+USA,NJ,Newark,River Edge,1,1
+USA,NJ,Newark,Roseland,1,1
+USA,NJ,Newark,Rutherford,1,1
+USA,NJ,Newark,South Plainfield,1,1
+USA,NJ,Newark,Summit,1,1
+USA,NJ,Newark,Teaneck,2,2
+USA,NJ,Newark,Warren,1,1
+USA,NJ,Newark,Weehawken,1,1
+USA,NJ,Newark,West Orange,1,1
+USA,NJ,Newark,Westfield,1,1
+USA,NJ,Newark,Whippany,2,2
+USA,NJ,Newark,Woodcliff Lake,1,1
+USA,NM,Albuquerque,Albuquerque,6,6
+USA,NV,Las Vegas,Henderson,1,1
+USA,NV,Las Vegas,Las Vegas,11,11
+USA,NV,NV - Other,Zephyr Cove,1,1
+USA,NY,"Albany, New York",Clifton Park,1,1
+USA,NY,"Albany, New York",East Greenbush,1,1
+USA,NY,Buffalo,Buffalo,6,6
+USA,NY,Elmira,Ithaca,1,1
+USA,NY,Long Island,Centerport,1,1
+USA,NY,Long Island,East Northport,1,1
+USA,NY,Long Island,East Setauket,1,1
+USA,NY,Long Island,Garden City,2,2
+USA,NY,Long Island,Glen Cove,1,1
+USA,NY,Long Island,Hauppauge,1,1
+USA,NY,Long Island,Hempstead,1,1
+USA,NY,Long Island,Islandia,1,1
+USA,NY,Long Island,Long Beach,1,1
+USA,NY,Long Island,Melville,1,1
+USA,NY,Long Island,Mineola,1,1
+USA,NY,Long Island,Plainview,1,1
+USA,NY,Long Island,Port Washington,1,1
+USA,NY,Long Island,Stony Brook,1,1
+USA,NY,Long Island,Westbury,1,1
+USA,NY,Long Island,Woodbury,1,1
+USA,NY,NY - Other,Amherst,1,1
+USA,NY,NY - Other,Clarence,1,1
+USA,NY,NY - Other,Florida,1,1
+USA,NY,NY - Other,Irvington,1,1
+USA,NY,NY - Other,Newark Valley,1,1
+USA,NY,NY - Other,Pleasantville,1,1
+USA,NY,NY - Other,Schuyler Lake,1,1
+USA,NY,NY - Other,Valhalla,1,1
+USA,NY,New York City,Brooklyn,10,10
+USA,NY,New York City,Hawthorne,1,1
+USA,NY,New York City,Long Island City,2,2
+USA,NY,New York City,New York,306,306
+USA,NY,New York City,Orangeburg,1,1
+USA,NY,New York City,Port Chester,1,1
+USA,NY,New York City,Tarrytown,2,2
+USA,NY,New York City,White Plains,3,3
+USA,NY,"Rochester, New York",Canandaigua,1,1
+USA,NY,"Rochester, New York",East Rochester,1,1
+USA,NY,"Rochester, New York",Rochester,4,4
+USA,OH,Akron - Canton,Akron,1,1
+USA,OH,Cincinnati,Cincinnati,7,7
+USA,OH,Cincinnati,Loveland,1,1
+USA,OH,Cincinnati,West Chester,1,1
+USA,OH,Cleveland,Beachwood,1,1
+USA,OH,Cleveland,Cleveland,5,5
+USA,OH,Cleveland,Medina,1,1
+USA,OH,Cleveland,Solon,1,1
+USA,OH,Cleveland,Twinsburg,2,2
+USA,OH,"Columbus, Ohio",Columbus,5,5
+USA,OH,"Columbus, Ohio",Dublin,2,2
+USA,OH,Dayton,Middletown,1,1
+USA,OH,OH - Other,Athens,1,1
+USA,OH,OH - Other,Wellsville,1,1
+USA,OH,Youngstown,Youngstown,1,1
+USA,OK,Oklahoma City,Oklahoma City,1,1
+USA,OK,Tulsa,Tulsa,2,2
+USA,OR,Eugene,Bend,2,2
+USA,OR,Medford,Medford,1,1
+USA,OR,"Portland, Oregon",Beaverton,3,3
+USA,OR,"Portland, Oregon",Hillsboro,3,3
+USA,OR,"Portland, Oregon",Lake Oswego,1,1
+USA,OR,"Portland, Oregon",Portland,28,28
+USA,OR,"Portland, Oregon",Tualatin,1,1
+USA,OR,"Portland, Oregon",Wilsonville,1,1
+USA,PA,Allentown,Bethlehem,2,2
+USA,PA,Allentown,New Castle,1,1
+USA,PA,Harrisburg,Carlisle,1,1
+USA,PA,Harrisburg,Lancaster,1,1
+USA,PA,Harrisburg,York,1,1
+USA,PA,PA - Other,Breinigsville,1,1
+USA,PA,PA - Other,Ivyland,1,1
+USA,PA,PA - Other,Thornton,1,1
+USA,PA,PA - Other,Warrendale,1,1
+USA,PA,Philadelphia,Audubon,1,1
+USA,PA,Philadelphia,Berwyn,1,1
+USA,PA,Philadelphia,Blue Bell,1,1
+USA,PA,Philadelphia,Clifton Heights,1,1
+USA,PA,Philadelphia,Conshohocken,3,3
+USA,PA,Philadelphia,Downingtown,1,1
+USA,PA,Philadelphia,Doylestown,4,4
+USA,PA,Philadelphia,Feasterville Trevose,2,2
+USA,PA,Philadelphia,Fort Washington,1,1
+USA,PA,Philadelphia,Hatboro,1,1
+USA,PA,Philadelphia,Horsham,1,1
+USA,PA,Philadelphia,King Of Prussia,4,4
+USA,PA,Philadelphia,Lansdowne,1,1
+USA,PA,Philadelphia,Malvern,8,8
+USA,PA,Philadelphia,Montgomeryville,1,1
+USA,PA,Philadelphia,Morrisville,1,1
+USA,PA,Philadelphia,New Hope,1,1
+USA,PA,Philadelphia,Newtown,4,4
+USA,PA,Philadelphia,Newtown Square,1,1
+USA,PA,Philadelphia,Philadelphia,13,13
+USA,PA,Philadelphia,Plymouth Meeting,1,1
+USA,PA,Philadelphia,Radnor,3,3
+USA,PA,Philadelphia,Warminster,1,1
+USA,PA,Philadelphia,Warrington,1,1
+USA,PA,Philadelphia,Wayne,3,3
+USA,PA,Philadelphia,Yardley,2,2
+USA,PA,Pittsburgh,Allison Park,1,1
+USA,PA,Pittsburgh,Coraopolis,1,1
+USA,PA,Pittsburgh,Pittsburgh,19,19
+USA,PA,Pittsburgh,Sewickley,1,1
+USA,PA,Pittsburgh,Washington,1,1
+USA,PA,State College,State College,1,1
+USA,RI,Providence,Cumberland,1,1
+USA,RI,Providence,Providence,7,7
+USA,SC,"Charleston, South Carolina",Charleston,1,1
+USA,SC,Greenville - Spartanburg,Greenville,3,3
+USA,SC,Greenville - Spartanburg,Pendleton,1,1
+USA,SC,SC - Other,Rock Hill,1,1
+USA,SC,SC - Other,Scranton,1,1
+USA,TN,Chattanooga,Chattanooga,1,1
+USA,TN,Chattanooga,Cleveland,1,1
+USA,TN,Knoxville,Knoxville,2,2
+USA,TN,Memphis,Memphis,3,3
+USA,TN,Nashville,Brentwood,5,5
+USA,TN,Nashville,Franklin,3,3
+USA,TN,Nashville,Nashville,8,8
+USA,TN,TN - Other,Quebeck,1,1
+USA,TX,Austin,Austin,83,83
+USA,TX,Austin,Del Valle,1,1
+USA,TX,Austin,Spicewood,1,1
+USA,TX,Dallas,Addison,3,3
+USA,TX,Dallas,Carrollton,3,3
+USA,TX,Dallas,Coppell,1,1
+USA,TX,Dallas,Dallas,17,17
+USA,TX,Dallas,Fort Worth,1,1
+USA,TX,Dallas,Frisco,1,1
+USA,TX,Dallas,Irving,7,7
+USA,TX,Dallas,Mckinney,1,1
+USA,TX,Dallas,Plano,9,9
+USA,TX,Dallas,Richardson,11,11
+USA,TX,Dallas,Southlake,2,2
+USA,TX,Houston,Bellaire,1,1
+USA,TX,Houston,Houston,24,24
+USA,TX,Houston,Pasadena,1,1
+USA,TX,Houston,Stafford,1,1
+USA,TX,Houston,Sugar Land,1,1
+USA,TX,Houston,Webster,1,1
+USA,TX,San Antonio,San Antonio,12,12
+USA,TX,TX - Other,Sunnyvale,1,1
+USA,UT,Salt Lake City,American Fork,2,2
+USA,UT,Salt Lake City,Draper,2,2
+USA,UT,Salt Lake City,Lindon,2,2
+USA,UT,Salt Lake City,Midvale,2,2
+USA,UT,Salt Lake City,Ogden,1,1
+USA,UT,Salt Lake City,Orem,4,4
+USA,UT,Salt Lake City,Pleasant Grove,1,1
+USA,UT,Salt Lake City,Provo,6,6
+USA,UT,Salt Lake City,Salt Lake City,17,17
+USA,UT,Salt Lake City,Sandy,1,1
+USA,UT,Salt Lake City,South Jordan,3,3
+USA,VA,Alexandria,Alexandria,2,2
+USA,VA,Norfolk - Virginia Beach,Virginia Beach,1,1
+USA,VA,Richmond,Richmond,2,2
+USA,VA,Roanoke,Blacksburg,1,1
+USA,VA,Roanoke,Roanoke,1,1
+USA,VA,VA - Other,Warrenton,1,1
+USA,VA,"Washington, D.C.",Arlington,5,5
+USA,VA,"Washington, D.C.",Ashburn,1,1
+USA,VA,"Washington, D.C.",Charlottesville,2,2
+USA,VA,"Washington, D.C.",Dulles,5,5
+USA,VA,"Washington, D.C.",Fairfax,2,2
+USA,VA,"Washington, D.C.",Falls Church,1,1
+USA,VA,"Washington, D.C.",Herndon,8,8
+USA,VA,"Washington, D.C.",Mclean,10,10
+USA,VA,"Washington, D.C.",Reston,13,13
+USA,VA,"Washington, D.C.",Sterling,4,4
+USA,VA,"Washington, D.C.",Vienna,5,5
+USA,VT,Montpelier,Burlington,2,2
+USA,VT,VT - Other,Charlotte,1,1
+USA,VT,VT - Other,Williston,1,1
+USA,WA,Seattle,Bellevue,17,17
+USA,WA,Seattle,Bothell,7,7
+USA,WA,Seattle,Gig Harbor,1,1
+USA,WA,Seattle,Issaquah,1,1
+USA,WA,Seattle,Kent,1,1
+USA,WA,Seattle,Kirkland,7,7
+USA,WA,Seattle,Mercer Island,1,1
+USA,WA,Seattle,Port Townsend,1,1
+USA,WA,Seattle,Redmond,7,7
+USA,WA,Seattle,Seattle,110,110
+USA,WA,Seattle,Vancouver,2,2
+USA,WA,Spokane,Spokane,3,3
+USA,WA,WA - Other,Belmont,1,1
+USA,WA,WA - Other,Liberty Lake,1,1
+USA,WI,Green Bay,Appleton,1,1
+USA,WI,Madison,Madison,10,10
+USA,WI,Madison,Middleton,2,2
+USA,WI,Milwaukee,Milwaukee,1,1
+USA,WI,Milwaukee,Pleasant Prairie,1,1
+USA,WI,Milwaukee,Sussex,1,1
+USA,WI,WI - Other,Fitchburg,1,1
+USA,WI,WI - Other,River Falls,1,1
+USA,WI,WI - Other,Wisconsin Rapids,1,1
+USA,WV,WV - Other,Fairmont,1,1

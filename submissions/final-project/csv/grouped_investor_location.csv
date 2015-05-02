@@ -1,0 +1,4871 @@
+investor_name,funded_year,raised_amount_usd
+Kleiner Perkins Caufield & Byers,1262469.0,19138813014.0
+New Enterprise Associates,1306789.0,15385297110.0
+Sequoia Capital,1670266.0,15228762902.0
+Accel Partners,1238305.0,13253373316.0
+Goldman Sachs,409958.0,12130554895.0
+Intel Capital,1406736.0,10576229380.0
+Andreessen Horowitz,706372.0,8538874343.0
+Draper Fisher Jurvetson (DFJ),1042804.0,7806312551.0
+Tiger Global Management,235496.0,7754316440.0
+Google,68306.0,7683775800.0
+Greylock Partners,771979.0,7611633047.0
+Bessemer Venture Partners,731779.0,7007978486.0
+Benchmark,683079.0,6942147079.0
+Lightspeed Venture Partners,699719.0,6579445617.0
+T. Rowe Price,98606.0,6525300000.0
+Khosla Ventures,661710.0,6179454229.0
+Intel,50156.0,6058398847.0
+Redpoint Ventures,653241.0,5894572105.0
+Time Warner,24096.0,5713200000.0
+Battery Ventures,593197.0,5674875263.0
+Comcast,18081.0,5669000000.0
+Oak Investment Partners,359652.0,5382431528.0
+Menlo Ventures,578819.0,5370373009.0
+Insight Venture Partners,253419.0,5309888206.0
+Venrock,560581.0,5200721084.0
+Norwest Venture Partners - NVP,552852.0,5143043273.0
+Institutional Venture Partners (IVP),227242.0,5135181000.0
+General Catalyst Partners,615286.0,5002525259.0
+Google Ventures,660087.0,4890809295.0
+Warburg Pincus,156716.0,4861455443.0
+BrightHouse,4017.0,4700000000.0
+Highland Capital Partners,526570.0,4624448419.0
+DAG Ventures,397990.0,4536017387.0
+U.S. Venture Partners (USVP),522375.0,4527513098.0
+Canaan Partners,564753.0,4503842512.0
+Morgan Stanley,106543.0,4500190000.0
+SoftBank Capital,377860.0,4450275663.0
+Summit Partners,540561.0,4395079965.0
+Founders Fund,345961.0,4184688306.0
+GGV Capital,418017.0,4132192148.0
+Silicon Valley Bank,458701.0,4124281021.0
+Foundation Capital,492424.0,4098639793.0
+Technology Crossover Ventures,102523.0,4086873284.0
+Wellington Management,54383.0,3927279997.0
+Fidelity Investments,34220.0,3910063937.0
+Matrix Partners,512692.0,3890881016.0
+OrbiMed Advisors,261459.0,3856138699.0
+VantagePoint Capital Partners,259127.0,3647693322.0
+InterWest Partners,420116.0,3581264016.0
+Polaris Partners,502303.0,3567101142.0
+Mayfield Fund,472125.0,3554329010.0
+DCM,448245.0,3491866658.0
+First Round,872718.0,3424086442.0
+Silver Lake Partners,34192.0,3303500000.0
+Atlas Venture,593168.0,3258515259.0
+SV Angel,1182520.0,3205311721.0
+North Bridge Growth Equity & Venture Partners,438058.0,3176407970.0
+Alta Partners,184849.0,3156770668.0
+CRV,518599.0,2997900513.0
+Bain Capital Ventures,293586.0,2961370000.0
+Sutter Hill Ventures,263293.0,2960353000.0
+Mohr Davidow Ventures,387907.0,2953550346.0
+Domain Associates,239266.0,2910636977.0
+August Capital,285461.0,2859657108.0
+Scale Venture Partners,233130.0,2839956835.0
+Meritech Capital Partners,158786.0,2807175266.0
+RRE Ventures,528660.0,2806166494.0
+Morgenthaler Ventures,295399.0,2710550094.0
+Iconiq Capital,42291.0,2710500000.0
+Sigma Partners,427864.0,2702777175.0
+General Atlantic,68383.0,2652351640.0
+Marlin Equity Partners,4027.0,2615000000.0
+Qualcomm Ventures,305707.0,2550558636.0
+Salesforce Ventures,275707.0,2542974994.0
+U.S. Department of Energy,82437.0,2538100000.0
+Spark Capital,358013.0,2523043640.0
+Sprint Nextel,12064.0,2510660000.0
+Eagle River Holdings,10037.0,2457000000.0
+Sofinnova Ventures,184930.0,2427915566.0
+Sapphire Ventures,199022.0,2351621200.0
+Valiant Capital Partners,28184.0,2351400000.0
+Trinity Ventures,434216.0,2350819779.0
+BlackRock,36227.0,2345889170.0
+Ignition Partners,365813.0,2343610690.0
+MPM Capital,148730.0,2319953761.0
+Austin Ventures,369589.0,2318885350.0
+Adams Street Partners,172870.0,2287755393.0
+ARCH Venture Partners,206985.0,2285481958.0
+Shasta Ventures,382036.0,2283942008.0
+Crosslink Capital,335860.0,2271608638.0
+Johnson & Johnson Development Corporation,168875.0,2269953106.0
+New Leaf Venture Partners,176934.0,2217115599.0
+Versant Ventures,205043.0,2216414394.0
+Tenaya Capital,179061.0,2165309262.0
+Maverick Capital,82427.0,2156163101.0
+KKR,38235.0,2118292833.0
+Advanced Technology Ventures,200962.0,2115675594.0
+DFJ Growth,78425.0,2113908488.0
+Felicis Ventures,470546.0,2111815314.0
+Carlyle Group,100441.0,2063230000.0
+Delphi Ventures,134656.0,2056816498.0
+Flagship Ventures,220991.0,2049864911.0
+Icon Ventures,255168.0,2041978325.0
+SV Life Sciences,180945.0,2026278857.0
+Columbia Capital,180737.0,2007640000.0
+Glade Brook Capital Partners,4026.0,2003500000.0
+TA Associates,66368.0,1995958000.0
+Globespan Capital Partners,255100.0,1990774999.0
+Trident Capital,267092.0,1975394599.0
+Union Square Ventures,323734.0,1964435758.0
+Fidelity Ventures,102388.0,1950782202.0
+FirstMark Capital,253467.0,1938637380.0
+Yahoo!,32145.0,1830589999.0
+Comcast Ventures,199083.0,1815670000.0
+Alloy Ventures,190789.0,1794335241.0
+Bay Partners,218834.0,1770750256.0
+RA Capital Management,66438.0,1762748587.0
+Cisco,221085.0,1721671308.0
+Clarus Ventures,106549.0,1715273033.0
+True Ventures,561166.0,1705836218.0
+The Social+Capital Partnership,199284.0,1695748829.0
+Rho Capital Partners,188833.0,1687989585.0
+Third Rock Ventures,118703.0,1662630041.0
+Pinnacle Ventures,108538.0,1650543002.0
+Essex Woodlands Health Ventures,88422.0,1639784279.0
+CrunchFund,324026.0,1635687619.0
+Bain Capital,42192.0,1622850000.0
+CMEA Capital,164742.0,1621887900.0
+Emergence Capital Partners,207135.0,1610006839.0
+TPG Growth,60296.0,1595688422.0
+Frazier Healthcare Ventures,120567.0,1545578221.0
+International Finance Corporation,74440.0,1528018638.0
+Northgate Capital,128758.0,1517576875.0
+Lone Pine Capital,4022.0,1500000000.0
+Kelso & Co,2014.0,1498515340.0
+Flybridge Capital Partners,269420.0,1439211051.0
+Oak Hill Capital Partners,20089.0,1428993201.0
+BlueRun Ventures,261189.0,1428698385.0
+Deerfield Capital Management,56322.0,1426860000.0
+GSV Capital,84534.0,1423634295.0
+Valor Equity Partners,20113.0,1420000000.0
+JP Morgan Chase & Co.,22132.0,1413000000.0
+Google Capital,26182.0,1409000000.0
+Madrona Venture Group,311617.0,1408997772.0
+Glynn Capital Management,56316.0,1392400000.0
+Fidelity Biosciences,94581.0,1385387649.0
+Thrive Capital,140881.0,1363485053.0
+Vulcan Capital,118603.0,1357200000.0
+Dragoneer Investment Group,24160.0,1326745000.0
+5AM Ventures,108575.0,1316348823.0
+Mitsui & Co. Global Investment,148684.0,1300215918.0
+Sierra Ventures,243139.0,1294303580.0
+Aisling Capital,78458.0,1289624476.0
+Cross Creek Advisors,74430.0,1287233217.0
+Intersouth Partners,180768.0,1282699195.0
+Focus Ventures,154658.0,1228546214.0
+DeNovo Ventures,104486.0,1219800865.0
+RockPort Capital,130712.0,1219199992.0
+In-Q-Tel,261281.0,1214395929.0
+Brookside Capital,52245.0,1205050000.0
+Advanced Equities,48179.0,1203620000.0
+Microsoft,66347.0,1194472513.0
+Morgan Stanley Venture Partners,24083.0,1187900000.0
+Access Industries,40254.0,1186491811.0
+Foundry Group,299731.0,1184300184.0
+Spectrum Equity,40218.0,1176000000.0
+Hummer Winblad Venture Partners,194817.0,1166899999.0
+Blackstone Group,46298.0,1164110000.0
+Bank of America,32140.0,1158515000.0
+ONSET Ventures,146679.0,1141817326.0
+SR One,102581.0,1132885172.0
+Bay City Capital,96479.0,1129090795.0
+Granite Ventures,196942.0,1127494899.0
+Nokia Growth Partners,124713.0,1122758800.0
+Victory Park Capital,24162.0,1111000000.0
+Rustic Canyon Partners,136582.0,1102037000.0
+Paladin Capital Group,112572.0,1101685674.0
+Sevin Rosen Funds,170631.0,1101142631.0
+Allen & Company,128630.0,1090639341.0
+Split Rock Partners,118597.0,1081502000.0
+Asset Management Ventures (AMV),158777.0,1067599720.0
+Omidyar Network,150735.0,1051646139.0
+GI Partners,2012.0,1050000000.0
+Azure Capital Partners,160797.0,1048359900.0
+QueensBridge Venture Partners,108741.0,1046280000.0
+Storm Ventures,209008.0,1042473285.0
+Amazon,56279.0,1039150000.0
+El Dorado Ventures,128545.0,1035400000.0
+Nexus Venture Partners,181058.0,1026949688.0
+Osage University Partners,86510.0,1026642203.0
+Lerer Hippeau Ventures,470891.0,1025593089.0
+Hearst Ventures,106426.0,1019500000.0
+HealthCare Ventures,88423.0,1018524862.0
+Walden International,134565.0,1015693361.0
+Motorola Solutions Venture Capital,178725.0,1013744964.0
+Braemar Energy Ventures,112634.0,999229972.0
+Lehman Brothers,92299.0,998893810.0
+Prospect Venture Partners,68323.0,994439000.0
+Mobius Venture Capital,128350.0,981813700.0
+Allegis Capital,124509.0,980172806.0
+Riverstone Holdings,10059.0,976000000.0
+Slow Ventures,193305.0,962309988.0
+Lux Capital,116679.0,959443962.0
+Greenspring Associates,52322.0,955450081.0
+Kaiser Permanente Ventures,76417.0,954667606.0
+Harris & Harris Group,124561.0,943750566.0
+Coatue Management,20138.0,935500000.0
+Western Technology Investment,203127.0,935211946.0
+Hercules Technology Growth Capital,116612.0,932340000.0
+500 Startups,1527526.0,930548842.0
+Triangle Peak Partners,88520.0,925099700.0
+Steamboat Ventures,204835.0,924381779.0
+e.ventures,237310.0,920842410.0
+Skyline Ventures,62284.0,920817734.0
+Apex Venture Partners,88364.0,914259271.0
+Integral Capital Partners,76273.0,913575000.0
+Pappas Ventures,66353.0,911907005.0
+QuestMark Partners,90475.0,907154741.0
+Valhalla Partners,154707.0,905412438.0
+Quaker BioVentures,60275.0,896912475.0
+FLOODGATE,374105.0,896578929.0
+Three Arch Partners,80343.0,889627285.0
+Francisco Partners,26141.0,879000000.0
+Oxford Bioscience Partners,70291.0,875078923.0
+ATA Ventures,150678.0,871899959.0
+JMI Equity,92403.0,870710000.0
+Centerbridge Partners,4024.0,865000000.0
+Technology Partners,66356.0,864865403.0
+ProQuest Investments,50247.0,864595456.0
+Third Point Ventures,44263.0,861400000.0
+Safeguard Scientifics,116609.0,845534962.0
+TPG Capital,12079.0,841500000.0
+Marker,86560.0,841300000.0
+Great Hill Partners,28156.0,831302794.0
+Avalon Ventures,189029.0,828381296.0
+General Electric,46259.0,825600000.0
+MedImmune Ventures,62301.0,811255324.0
+Bezos Expeditions,80432.0,799250350.0
+Artiman Ventures,98487.0,795660999.0
+Comerica Bank,90500.0,790935460.0
+Lilly Ventures,72383.0,788590484.0
+Apax Partners,100339.0,784702535.0
+Opus Capital,130705.0,784488898.0
+Kodiak Venture Partners,110403.0,784080000.0
+OVP Venture Partners,146629.0,780191541.0
+ABRY Partners,12066.0,778500000.0
+Rock Springs Capital,26183.0,776300000.0
+Providence Equity Partners,18082.0,774900000.0
+Tudor Investments,42150.0,773054000.0
+Pritzker Group Venture Capital,189078.0,769780009.0
+Firelake Capital Management,68309.0,767720000.0
+Revolution LLC,72416.0,762852986.0
+Formation 8,98666.0,761903889.0
+DBL Investors,54305.0,761454359.0
+EPIC Ventures,118593.0,759428950.0
+Harrison Metal,207137.0,758449999.0
+Denham Capital,8042.0,758000000.0
+Passport Capital,42224.0,755110000.0
+Worldview Technology Partners,96331.0,754000000.0
+"Thomas, McNerney & Partners",50249.0,750900000.0
+Siemens PLM Software,2013.0,750000000.0
+HLM Venture Partners,96480.0,742977237.0
+NGEN Partners,76381.0,742196647.0
+TPG Biotech,50309.0,739891718.0
+Redmile Group,32216.0,733475568.0
+SoftBank Internet and Media (SIMI),4028.0,727000000.0
+Maveron,176985.0,722786959.0
+SoftTech VC,362006.0,716387642.0
+OpenView Venture Partners,104587.0,715300000.0
+Riverwood Capital,46287.0,715050000.0
+Grotech Ventures,136755.0,714714842.0
+Oxford Finance Corporation,82527.0,705557968.0
+AllianceBernstein,44183.0,704550000.0
+Genzyme,2014.0,700000000.0
+Pelion Venture Partners,130613.0,697782820.0
+Longitude Capital,50297.0,693958413.0
+The Westly Group,80458.0,692824599.0
+Aberdare Ventures,78407.0,691461998.0
+Baseline Ventures,233258.0,687348896.0
+Burrill & Company,76357.0,687229649.0
+Time Warner Investments,86456.0,684076948.0
+Novak Biddle Venture Partners,142594.0,682127922.0
+VentureTech Alliance,68281.0,682031000.0
+Data Collective,211368.0,680516699.0
+Vivo Ventures,54291.0,678860402.0
+eBay,54273.0,670875000.0
+Good Energies,48223.0,667992832.0
+Industry Ventures,48306.0,666340000.0
+Clearstone Venture Partners,128501.0,663320540.0
+Mission Ventures,130483.0,662888328.0
+Pequot Capital,74212.0,658439077.0
+Innovation Endeavors,138866.0,657778850.0
+American Express,40228.0,656100000.0
+Liberty Media,12066.0,656000000.0
+Panorama Capital,82408.0,652385121.0
+Great Oaks Venture Capital,374371.0,649983266.0
+Relay Ventures,154842.0,648016226.0
+Thomvest Ventures,88485.0,647420000.0
+BoxGroup,360217.0,644830241.0
+Pfizer Venture Investments,74418.0,644730719.0
+Capricorn Investment Group,30180.0,635499896.0
+Amgen,60275.0,634532700.0
+TomorrowVentures,134753.0,634425000.0
+IA Ventures,146882.0,633901304.0
+Translink Capital,138787.0,633298962.0
+Rho Ventures,58363.0,630910532.0
+ARTIS Ventures,50258.0,629376990.0
+DoCoMo Capital,50252.0,628500000.0
+GSO Capital Partners,8051.0,626003550.0
+Lowercase Capital,124745.0,623942382.0
+Crescendo Ventures,86303.0,621366000.0
+HarbourVest Partners,64230.0,616860339.0
+Viking Global Investors,6043.0,614999480.0
+Easton Capital,74365.0,614114827.0
+StarVest Partners,84449.0,613660228.0
+IA Capital Group,44134.0,613371000.0
+WI Harper Group,166743.0,612947822.0
+.406 Ventures,112642.0,612861825.0
+Obvious Ventures,20137.0,609600000.0
+JK&B Capital,98372.0,609457727.0
+RiverVest,48278.0,608443154.0
+ABS Capital Partners,58292.0,607610000.0
+Madrone Capital Partners,30175.0,606900000.0
+Edison Partners,188902.0,600136981.0
+O'Reilly AlphaTech Ventures,150837.0,598207800.0
+Enterprise Partners,90279.0,595280022.0
+TriplePoint Capital,92501.0,594421987.0
+Kearny Venture Partners,38220.0,593100000.0
+Sanderling Ventures,80340.0,589970000.0
+Rembrandt Venture Partners,146761.0,589021230.0
+Claremont Creek Ventures,122655.0,588665996.0
+Latterell Venture Partners,46224.0,587301000.0
+Saints Capital,58284.0,585560000.0
+Accuitive Medical Ventures,44235.0,585478928.0
+Noro-Moseley Partners,104521.0,574280000.0
+Updata Partners,74349.0,571200000.0
+New Science Ventures,52284.0,570942436.0
+Illuminate Ventures,52304.0,570009591.0
+Elevation Partners,28169.0,569850000.0
+Palomar Ventures,102382.0,566930000.0
+Paulson & Co.,2013.0,565000000.0
+Adage Capital Management,24151.0,563500000.0
+Sprout Group,36123.0,562600000.0
+Advent International,32149.0,561852099.0
+AFSquare,90543.0,556344577.0
+Ribbit Capital,46313.0,555909589.0
+Qualcomm,88478.0,554900000.0
+Prism Venture Management,108430.0,550152260.0
+EDF Ventures,30128.0,549302455.0
+AME Cloud Ventures,104701.0,543329997.0
+Legendary Entertainment,2014.0,542000000.0
+GE Ventures,68459.0,541510000.0
+Foundation Medical Partners,60316.0,541461074.0
+Montreux Equity Partners,48217.0,541047349.0
+Centennial Ventures,36128.0,540253277.0
+Quilvest Ventures,12049.0,540000000.0
+Energy Capital Partners,14065.0,536010000.0
+Wells Fargo & Company,22140.0,535500000.0
+CHL Medical Partners,34169.0,528400000.0
+Global Catalyst Partners,66254.0,528159997.0
+Foresite Capital,20137.0,527500000.0
+H.I.G. Capital,74289.0,523711361.0
+Pacific Corporate Group,18076.0,522990000.0
+Citi Ventures,48298.0,518845881.0
+RBC Capital Markets,20097.0,518205645.0
+The Column Group,44237.0,513900159.0
+Astellas Venture Management,44247.0,513425736.0
+New Atlantic Ventures,134640.0,511260456.0
+MissionPoint Capital Partners,18079.0,510200000.0
+NGN Capital,34152.0,505167000.0
+The Vertical Group,36161.0,503558123.0
+Gold Hill Capital,52224.0,501970000.0
+Chevron Technology Ventures,50218.0,500364903.0
+Commonwealth Capital Ventures,96405.0,500285000.0
+EnCap Flatrock Midstream,8053.0,500000000.0
+Invus,38196.0,499042120.0
+Rose Park Advisors,20131.0,492000000.0
+Longworth Venture Partners,112561.0,491715000.0
+Birchmere Ventures,102402.0,490746563.0
+Sands Capital Ventures,34215.0,489520400.0
+D.E. Shaw & Co.,60264.0,488883061.0
+Black River Asset Management,36123.0,480600000.0
+Palo Alto Investors,28122.0,477900000.0
+Founder Collective,376115.0,473831443.0
+Celgene,28180.0,470202514.0
+U.S. Bancorp,10048.0,467500000.0
+Square 1 Bank,104634.0,467250000.0
+Presidio Ventures,54316.0,466586200.0
+Village Ventures,144644.0,466150000.0
+Applied Ventures,52236.0,463936760.0
+TDF Ventures,82431.0,463416777.0
+TL Ventures,70279.0,461800000.0
+Shea Ventures,52259.0,459269846.0
+IDG Ventures USA,132783.0,459097372.0
+Frazier Technology Ventures,58224.0,458800000.0
+The Aurora Funds,50215.0,458618903.0
+Cardinal Partners,50252.0,456802189.0
+TPG,6043.0,456000000.0
+Angeleno Group,38188.0,455347000.0
+Anthem Venture Partners,98475.0,451317264.0
+PPM America Capital Partners,6028.0,450000000.0
+Lime Rock Partners,14082.0,449700000.0
+Medtronic,46215.0,448168585.0
+Cardinal Venture Capital,72253.0,447547200.0
+Signatures Capital,175053.0,446336899.0
+Rabobank,14083.0,444605677.0
+Johnson & Johnson,2009.0,443000000.0
+Stata Venture Partners,72321.0,442181992.0
+Voyager Capital,112603.0,440308553.0
+Nth Power,68322.0,439637200.0
+Tallwood Venture Capital,60226.0,439428000.0
+Susquehanna Growth Equity,56314.0,437800000.0
+Gabriel Venture Partners,76237.0,436235000.0
+RTP Ventures,44277.0,435305159.0
+NewSpring Capital,66370.0,434102475.0
+NeoCarta Ventures,42137.0,434040240.0
+Y Combinator,1369785.0,434035036.0
+Blumberg Capital,146844.0,433893610.0
+BDMI - Bertelsmann Digital Media Investments,104604.0,433878299.0
+Apple Tree Partners,30175.0,433600000.0
+The Dow Company,46173.0,432009454.0
+GE Energy Financial Services,30149.0,430269846.0
+Joho Capital,2008.0,430000000.0
+Stanford University,70329.0,427810000.0
+FTV Capital,48230.0,426875000.0
+Pine Brook Partners,4027.0,425000000.0
+Blue Chip Venture Company,58280.0,423833861.0
+Advantage Capital Partners,112525.0,422772889.0
+ABS Ventures,52192.0,422620000.0
+Craton Equity Partners,40216.0,422200187.0
+Texas Pacific Group,28094.0,421340000.0
+Acadia Woods Partners,54296.0,421055559.0
+Lead Edge Capital,24157.0,420100000.0
+Adams Capital Management,72316.0,416300000.0
+Four Rivers Group,38218.0,416000016.0
+Keybank,10062.0,416000000.0
+Performance Equity Management,16085.0,413693815.0
+GrandBanks Capital,88401.0,413272326.0
+Tribeca Venture Partners,90525.0,412930000.0
+ff Venture Capital,185097.0,412604554.0
+WRF Capital,58261.0,409749226.0
+EnerTech Capital,60298.0,408837100.0
+Mesirow Financial,32162.0,408800000.0
+Juniper Networks,44239.0,406500000.0
+Correlation Ventures,120773.0,406317645.0
+Hatteras Venture Partners,48287.0,405055750.0
+Altamont Capital Partners,6040.0,404000000.0
+Deerfield,20142.0,402350000.0
+Altos Ventures,126628.0,400795980.0
+New York Life Capital Partners,2007.0,400000000.0
+Element Partners,48207.0,399819998.0
+Arboretum Ventures,60329.0,397984214.0
+Overseas Private Investment Corp,4026.0,397500000.0
+Advance Publications,24157.0,396844994.0
+Idealab,76342.0,396555000.0
+"BDCA Venture, Inc.",28160.0,395990600.0
+Javelin Venture Partners,106640.0,395570000.0
+Core Capital Partners,90385.0,394524399.0
+CapitalSource,4022.0,391000000.0
+Stripes Group,38223.0,387740000.0
+MentorTech Ventures,70370.0,382699516.0
+Ascent Venture Partners,92400.0,380904501.0
+River Cities Capital Funds,94391.0,377725780.0
+New Venture Partners,78375.0,377633350.0
+venBio,16106.0,376857588.0
+Labrador Ventures,90331.0,376525297.0
+ePlanet Capital,50206.0,376438504.0
+Perceptive Advisors,16098.0,376387588.0
+Sunbridge Partners,72278.0,375800000.0
+SunTrust Bank,6030.0,375550000.0
+BlackRock Private Equity Partners,4026.0,375000005.0
+M/C Partners,20084.0,370900000.0
+Mousse Partners,40249.0,370835866.0
+Vatera Healthcare Partners,16098.0,368500100.0
+Jennison Associates,14086.0,368057588.0
+Wing Venture Capital,48307.0,366850000.0
+Toba Capital,60400.0,364367287.0
+Excel Venture Management,54318.0,364247501.0
+Universal Music Group,26146.0,360500000.0
+Heights Capital Management,18072.0,359810000.0
+BASF Venture Capital,42210.0,359049189.0
+Peacock Equity,36150.0,358738000.0
+Boulder Ventures,80367.0,358344175.0
+Monitor Ventures,52215.0,358250000.0
+Red Swan Ventures,98613.0,357438582.0
+OnPoint Technologies,34168.0,355963287.0
+Harvard Management Company,2014.0,355000000.0
+Aperture Venture Partners,24141.0,354187000.0
+Melo7 Tech Partners,32226.0,352300000.0
+Valar Ventures,42274.0,348627199.0
+TeleSoft Partners,48167.0,347800000.0
+Navitas Capital,32185.0,347644998.0
+Camden Partners,38201.0,347132281.0
+SeventySix Capital,44192.0,346703000.0
+Leapfrog Ventures,70290.0,346450000.0
+Ascension Ventures,54323.0,345580162.0
+Bridgescale Partners,38178.0,345300000.0
+Hudson Clean Energy Partners,14072.0,345200000.0
+Miramar Venture Partners,82439.0,342852207.0
+Vision Ridge Partners,26170.0,342827200.0
+Tamra-Tacoma Capital Partners,20136.0,340250000.0
+Fortress Investment Group,16108.0,339500000.0
+Ace Investments,4021.0,339000000.0
+A123 Systems,4021.0,339000000.0
+TransCosmos,58197.0,338360000.0
+Mercury Fund,172979.0,336452535.0
+Egan-Managed Capital,70325.0,336350000.0
+"Duff, Ackerman and Goodrich",22095.0,336052227.0
+Capital Group,8013.0,335000000.0
+Quadrangle Group,4016.0,335000000.0
+Walden Venture Capital,82353.0,333311925.0
+MedVenture Associates,42193.0,329988658.0
+Farallon Capital Management,20087.0,329400000.0
+MP Healthcare Venture Management,34183.0,328183750.0
+WestSummit Capital,26166.0,327800000.0
+Eastward Capital Partners,26121.0,327400000.0
+Devon Park BioVentures,22129.0,327135988.0
+Brightpath Capital Partners,14087.0,327000000.0
+RUSNANO,26162.0,326070273.0
+Fairhaven Capital Partners,64366.0,324950000.0
+Next World Capital,24146.0,323858485.0
+Metamorphic Ventures,162950.0,323531446.0
+News Corp,28152.0,323225510.0
+Forward Ventures,34162.0,321180335.0
+Triathlon Medical Venture Partners,32181.0,320650000.0
+Morningside Private Investors,16114.0,318500000.0
+Mithril Capital Management,24167.0,317923390.0
+Mercato Partners,30170.0,317030233.0
+Point Judith Capital,86445.0,316989975.0
+Sageview Capital,14094.0,315650000.0
+Vanguard Ventures,32090.0,313800000.0
+Mediphase Venture Partners,16061.0,313400000.0
+Draper Richards,88289.0,312830000.0
+SherpaVentures,68472.0,311879518.0
+SK Telecom Ventures,40220.0,311503830.0
+Centerpoint Ventures,38135.0,311210000.0
+Lighthouse Capital Partners,36166.0,311193205.0
+Care Capital,28142.0,310000000.0
+Foundation Asset Management (FAM),12068.0,309400000.0
+Emergent Medical Partners,24129.0,309000908.0
+Forerunner Ventures,84534.0,308757434.0
+HealthCare Royalty Partners,16109.0,307000000.0
+vSpring Capital,74279.0,306660000.0
+QVT Financial,18087.0,306617980.0
+W Capital Partners,22123.0,303901105.0
+S3 Ventures,70405.0,303611489.0
+Harbinger Ventures,42138.0,303400000.0
+Lightbank,203227.0,302563750.0
+Affinity Capital Management,28134.0,301918411.0
+Blueprint Ventures,36125.0,301747000.0
+CommonAngels Ventures,152773.0,300253817.0
+Sherpalo Ventures,74355.0,300009999.0
+The Skoll Foundation,2008.0,300000000.0
+EDS,2008.0,300000000.0
+Cycad Group,26153.0,298039544.0
+Caxton Advantage Life Sciences Fund,18085.0,297500000.0
+MK Capital,76394.0,296650000.0
+Golub Capital,6039.0,295000000.0
+Investcorp Gulf Investments,24076.0,294510000.0
+Argonaut Ventures,14064.0,294000000.0
+DFJ Gotham Ventures,94453.0,293550000.0
+Draper Associates,122742.0,293260782.0
+RWI Ventures,30104.0,292990000.0
+AOL Ventures,76431.0,292885000.0
+Breyer Capital,6040.0,292000000.0
+Catterton Partners,26157.0,290816211.0
+Silver Creek Ventures,44223.0,289140000.0
+Brown Brothers Harriman,12065.0,288800000.0
+Altira Group,34144.0,288494000.0
+Physic Ventures,50260.0,288099000.0
+AIG Investments,14046.0,286633861.0
+Citigroup,18067.0,286000000.0
+Vista Equity Partners,12074.0,285000000.0
+Betaworks,227232.0,284495503.0
+GlaxoSmithKline,24142.0,284482151.0
+Collaborative Fund,92599.0,284350000.0
+Woodside Fund,50200.0,283051840.0
+Lindsay Goldberg,2007.0,283000000.0
+Cerberus Capital Management,4023.0,283000000.0
+Bullpen Capital,78495.0,282716488.0
+EMC,20084.0,281465000.0
+Harbert Venture Partners,54284.0,280500000.0
+National Institutes of Health,88526.0,280354000.0
+Merck Global Health Innovation Fund,44286.0,280300000.0
+MasterCard,16104.0,280000077.0
+Fifth Third Bancorp,6041.0,280000000.0
+LLR Partners,30185.0,278834817.0
+Synergy Life Science Partner,24123.0,278680000.0
+Masthead Venture Partners,58197.0,277750000.0
+BlueStream Ventures,32103.0,277430000.0
+Millennium Technology Value Partners,22127.0,276975009.0
+TTV Capital,44236.0,276340000.0
+One Equity Partners,12056.0,275885435.0
+PAR Capital Management,18074.0,274100000.0
+SJF Ventures,48258.0,273950000.0
+Natural Gas Partners,8037.0,272230677.0
+Great Point Partners,26145.0,271850000.0
+Janus Capital Group,8054.0,270900000.0
+DFJ Frontier,88422.0,269965000.0
+Tudor Growth Equity,38145.0,269707807.0
+Alsop Louie Partners,80415.0,268104652.0
+Baker Brothers Advisors LLC,22103.0,267477900.0
+Sorenson Capital,12079.0,267000000.0
+Verizon Ventures,70431.0,266823006.0
+BYU Cougar Capital,42228.0,266715000.0
+Harbinger Capital Partners,4025.0,266500000.0
+Jefferies Group,4028.0,266000000.0
+SGVC,58385.0,265453850.0
+Learn Capital,80505.0,265375000.0
+Costanoa Venture Capital,52340.0,265050000.0
+Trevi Health Ventures,14066.0,263700000.0
+Newbury Ventures,44133.0,262824960.0
+Fletcher Spaght Ventures,36202.0,262028438.0
+Baroda Ventures,62355.0,261859387.0
+Volition Capital,34190.0,260714999.0
+Altitude Life Science Ventures,24114.0,259850000.0
+Sterling Partners,22117.0,259000000.0
+Castile Ventures,52228.0,258872669.0
+Appian Ventures,52198.0,258340000.0
+Novel TMT Ventures,48284.0,257273381.0
+US Renewables,12059.0,256600000.0
+Constellation Ventures,50193.0,256600000.0
+ClearBridge Investments,6042.0,256000000.0
+Sigma West,38247.0,255850000.0
+Access Venture Partners,68345.0,255820000.0
+Court Square Ventures,42163.0,255500000.0
+Argonaut Private Equity,26121.0,255221643.0
+USAA,10064.0,255000000.0
+IAC,18086.0,254700000.0
+Nomura Securities,20073.0,254141068.0
+Radius Ventures,36214.0,253399914.0
+Vesbridge Partners,42159.0,252700000.0
+Trilogy Equity Partners,64333.0,250021200.0
+A&E Television Networks,2014.0,250000000.0
+Legg Mason,10036.0,250000000.0
+Rizvi Traverse Management,4025.0,250000000.0
+Equis Capital Partners,2014.0,250000000.0
+Sequel Venture Partners,34125.0,249000000.0
+BioStar Ventures,34192.0,248870042.0
+Catamount Ventures,78357.0,248161609.0
+Vodafone Ventures,40207.0,248104643.0
+The Chernin Group,22139.0,246750000.0
+Kinetic Ventures,42218.0,245850000.0
+Merlin Biomed,14047.0,245500000.0
+Levensohn Venture Partners,42182.0,244562880.0
+Contour Venture Partners,98570.0,244271200.0
+PTV Healthcare Capital,20098.0,243818585.0
+Waste Management,16089.0,243790584.0
+Primary Venture Partners,82461.0,243405000.0
+Garage Technology Ventures,52149.0,243200000.0
+Formative Ventures,50226.0,243017308.0
+Ridgewood Capital,38106.0,240950000.0
+Genzyme Ventures,14059.0,240407060.0
+Texas Instruments,14062.0,240000000.0
+Merrill Lynch,16048.0,240000000.0
+Yasuda Enterprise Development,26111.0,239800000.0
+ArrowPath Venture Partners,52193.0,239000000.0
+Boston Millennia Partners,30110.0,238856000.0
+Mayo Clinic Rochester,24149.0,238700000.0
+Bill & Melinda Gates Foundation,60381.0,236921509.0
+Draper Nexus Ventures,58339.0,236669130.0
+Forest Laboratories,6035.0,235000000.0
+Harmony Partners,28187.0,234900000.0
+Casdin Capital,10067.0,234300000.0
+PNC Bank,8053.0,234000000.0
+ORIX Venture Finance,26127.0,233500000.0
+Catalyst Investors,22141.0,233000000.0
+Columbus Nova Technology Partners,34230.0,231950000.0
+Peninsula Ventures,36180.0,231270297.0
+Fred Alger Management,6042.0,229900000.0
+KTB Ventures,34159.0,229361947.0
+OPENAIR Equity Partners,36219.0,228400000.0
+UPS Strategic Enterprise Fund,36176.0,228250000.0
+Highway 12 Ventures,74357.0,227645016.0
+Avenue Capital Group,6023.0,227000000.0
+Novitas Capital,30133.0,226900000.0
+Venture Investors,44258.0,226616469.0
+Olympus Capital Holdings Asia,8043.0,225500000.0
+Compass Technology Partners,14032.0,225500000.0
+FinSight Ventures,14092.0,225476573.0
+Topspin Partners,20083.0,225167151.0
+Citizens Bank and Trust Company,2014.0,225000000.0
+Shamrock Capital Advisors,10061.0,225000000.0
+Horizon Ventures,38151.0,224411000.0
+Vaizra Investments,62399.0,224400000.0
+Symantec,18078.0,224260328.0
+Growth Capital Fund,16081.0,224100000.0
+BlueCross BlueShield Venture Partners,58359.0,223792304.0
+WS Investments,34147.0,222214750.0
+SIG,28147.0,222000000.0
+Duchossois Technology Partners,34117.0,221630000.0
+Kapor Capital,134837.0,221148794.0
+SharesPost Investment Management,38267.0,218520107.0
+Peterson Ventures,82547.0,218505944.0
+Expansion Venture Capital,116735.0,217544334.0
+Liberty Global,18104.0,217500000.0
+Pond Ventures,50183.0,217031861.0
+Battelle Ventures,50213.0,216380000.0
+Commerce Ventures,48328.0,216328180.0
+Needham Capital Partners,26084.0,216240000.0
+American Capital,22098.0,216200000.0
+VMware,24148.0,215750000.0
+Lurie Investment Fund,14061.0,215499997.0
+Tugboat Ventures,54279.0,214989000.0
+Sandbox Industries,60357.0,214967304.0
+Karlani Capital,30204.0,214500000.0
+Rothschild,28084.0,214046414.0
+Tennenbaum Capital Partners,8055.0,214000000.0
+Crypto Currency Partners,74516.0,213760000.0
+Avista Capital Partners,6038.0,213500000.0
+TPG Biotechnology Partners,16086.0,213500000.0
+Pegasus Capital,12061.0,213200000.0
+Band of Angels,112571.0,213070128.0
+THE WORLD BANK GROUP,2013.0,212500000.0
+Red Rock Ventures,26090.0,212500000.0
+Madison Dearborn Partners,8026.0,212500000.0
+Evercore Partners,22074.0,211700000.0
+Vista Ventures,40152.0,211640000.0
+Comdisco Ventures,12018.0,211000000.0
+GSK Venture Fund,18074.0,210707501.0
+Tech Coast Angels,164793.0,210529597.0
+KEC Ventures,60405.0,210475002.0
+Monroe Capital,20129.0,210100000.0
+Vedanta Capital,14063.0,207800000.0
+L Capital Partners,24100.0,207350000.0
+TechOperators,32194.0,207050000.0
+Wicklow Capital,16112.0,207000000.0
+Arcus Ventures,20120.0,206900000.0
+3x5 Special Opportunity Fund,16106.0,206700000.0
+Ziegler Meditech Equity Partners,52244.0,206580942.0
+MHS Capital,56321.0,206310000.0
+PDL Biopharma,6040.0,205000000.0
+Lumia Capital,24156.0,205000000.0
+SSM Partners,34156.0,204550000.0
+Eniac Ventures,118734.0,203460000.0
+Soros Fund Management,6030.0,203119193.0
+Blue Cloud Ventures,36232.0,203089479.0
+First Analysis,44198.0,202600000.0
+Wexford Capital,18096.0,202333658.0
+Starbucks,6024.0,201700000.0
+Covera Ventures,46183.0,201650000.0
+Industrial and Commercial Bank of China,2014.0,201000000.0
+Voobon Ventures,2008.0,200000000.0
+MTV Networks,4011.0,200000000.0
+Cadence,2014.0,200000000.0
+Psilos Group,22113.0,199500000.0
+Crosspoint Venture Partners,24078.0,198300000.0
+XSeed Capital,88501.0,197282998.0
+Selby Venture Partners,46152.0,197000000.0
+I2BF Venture Capital,28156.0,196753339.0
+Fuel Capital,60410.0,196514057.0
+Thayer Street Partners,18115.0,196000000.0
+Hambrecht & Quist Capital Management,14043.0,195975000.0
+DuPont Capital Management,24114.0,195700000.0
+"CNF Investments, LLC",52293.0,195580000.0
+Athyrium Opportunities Fund,12077.0,195500000.0
+Pilot House Ventures,40157.0,195250000.0
+Rincon Venture Partners,82468.0,194382820.0
+Spray Venture Partners,20096.0,193895013.0
+Rothenberg Ventures,102668.0,193200219.0
+Apothecary Capital,6020.0,192500000.0
+Perseus,24090.0,192410000.0
+Diamondhead Ventures,28097.0,192375957.0
+Noventi Ventures,22083.0,191900000.0
+Beringea,78471.0,191869899.0
+Borealis Ventures,60278.0,190886000.0
+TH Lee Putnam Ventures,2013.0,190798947.0
+GF Private Equity,26084.0,190770000.0
+Partnership Fund for New York City,44188.0,190630000.0
+Motorola Solutions,30120.0,190450000.0
+Signia Venture Partners,82475.0,190145645.0
+Pharos Capital Partners,14050.0,190000000.0
+Chicago Growth Partners,18099.0,189863988.0
+Inventus Capital Partners,92547.0,189782783.0
+Boston Scientific,20095.0,189194151.0
+POSCO BioVentures,14049.0,189100000.0
+RedShift Ventures,30108.0,186690485.0
+Maryland Venture Fund,104661.0,186121673.0
+Cue Ball,42248.0,185950000.0
+Quest Venture Partners,112668.0,185786619.0
+Anthem Capital Management,20078.0,185721058.0
+Cross Atlantic Capital Partners,44179.0,185643122.0
+AITV,28190.0,185189694.0
+Sterling Capital Management,16078.0,184800000.0
+RPM Ventures,60292.0,184625237.0
+West Capital Advisors LLC,32208.0,184553008.0
+Fjord Ventures,12070.0,184245754.0
+Janus,8033.0,184000000.0
+JPMorgan Partners (JPMP),22042.0,183950000.0
+Telegraph Hill Partners,20083.0,183360000.0
+BBVA Ventures,14098.0,183250000.0
+Longwood Founders Fund,12073.0,183000000.0
+Sante Ventures,30175.0,182950000.0
+Valor Capital Group,38249.0,182700000.0
+Second Avenue Partners,48225.0,182400000.0
+Biogen Idec,14067.0,182270000.0
+Gentry Venture Partners,18115.0,182119721.0
+Alexandria Real Estate Equities,26121.0,181800000.0
+Firsthand Technology Value Fund,16093.0,181390000.0
+The New York Times,36177.0,181325000.0
+High Country Venture,54279.0,179595000.0
+Transmedia Capital,62366.0,178974997.0
+STIC International,30111.0,178300000.0
+Innovation Works North America,52319.0,176514525.0
+Black Coral Capital,24144.0,176300000.0
+"Caterpillar, Inc",2011.0,176000000.0
+City Light Capital,30168.0,175013000.0
+Oakwood Medical Investors,18083.0,174109800.0
+Adobe Systems,20109.0,174009000.0
+Arcapita Ventures,20084.0,173600000.0
+Venture51,100600.0,173478107.0
+Red Abbey Venture Partners,16062.0,173262475.0
+SOSventures,257626.0,173217571.0
+MidCap Financial,14091.0,173000000.0
+Wilson Sonsini Goodrich & Rosati,50259.0,172520000.0
+Fontinalis Partners,40248.0,172406010.0
+Alta Communications,14050.0,172120000.0
+iD Ventures America,22096.0,171838500.0
+Silverton Partners,90490.0,171567074.0
+OCA Ventures,88462.0,171480411.0
+Rho Canada,48278.0,170450496.0
+Dawntreader Ventures,26071.0,170250000.0
+Alliance of Angels,197105.0,169799722.0
+Landmark Growth Capital Partners,4024.0,169500000.0
+Dolby Family Ventures,32209.0,169185010.0
+Windward Ventures,28093.0,167500000.0
+Athenian Venture Partners,26145.0,167390335.0
+Radar Partners,42217.0,167190690.0
+Barclays Investment Bank,6037.0,164524000.0
+Ballast Point Ventures,26150.0,164300000.0
+Entrepia Ventures,22082.0,164207727.0
+Visa,14083.0,163500000.0
+Fuse Capital,48213.0,163452260.0
+TD Capital,34095.0,163400000.0
+LaunchCapital,144826.0,163359394.0
+Hamilton BioVentures,10034.0,162900000.0
+Promus Ventures,74481.0,162869697.0
+SilkRoad Equity,14056.0,162207493.0
+DFJ Portage Ventures,20066.0,162030000.0
+Prolog Ventures,40206.0,161718753.0
+Accel-KKR,32190.0,161679995.0
+Merus Capital,54323.0,161650000.0
+Key Venture Partners,20068.0,161100000.0
+Allco Renewable Energy,4016.0,161000000.0
+K9 Ventures,70405.0,160029984.0
+Bank Street Group,4022.0,160000000.0
+Genomic Health,4027.0,160000000.0
+California Technology Ventures,36179.0,159886462.0
+Iroquois Capital,34145.0,159369277.0
+XG Ventures,148856.0,159315820.0
+Connecticut Innovations,215253.0,159267204.0
+Arthur Ventures,26169.0,159225000.0
+Third Security,16083.0,159090999.0
+Unilever Technology Ventures,20071.0,158900000.0
+Liberty Global Ventures,20129.0,158291200.0
+Covidien Ventures,12068.0,158273649.0
+Leucadia National,6023.0,158000000.0
+Nelnet,12080.0,157420000.0
+Rand Capital,44263.0,157236451.0
+Chase Capital Partners,8016.0,157000000.0
+The Hillman Company,22082.0,156100000.0
+Triangle Capital Corporation,24147.0,155933363.0
+Illinois Ventures,44234.0,155838575.0
+Innovation Works,305778.0,155818704.0
+Parthenon Capital Partners,6038.0,155769230.0
+Laboratory Corporation of America,10067.0,155400000.0
+Wavemaker Partners,205077.0,155281982.0
+Signet Healthcare Partners,12056.0,155116400.0
+Imlay Investments,48224.0,154905000.0
+Mesa Verde Venture Partners,20116.0,154770000.0
+Outlook Ventures,28089.0,154300000.0
+Capricorn Management,12052.0,154200000.0
+Velos Partners,22147.0,154000000.0
+Milestone Venture Partners,68347.0,153850000.0
+SCP Vitalife Partners,18103.0,153600000.0
+Montagu Newhall Associates,18063.0,153210000.0
+The Coca-Cola Company,6039.0,152650000.0
+Nimes Capital,4018.0,152400000.0
+Early Stage Partners,36178.0,151703008.0
+Frontier Capital,32166.0,150729030.0
+Fort Washington Capital Partners Group,24096.0,150400000.0
+Amplify Partners,22147.0,150132820.0
+NovaQuest,10051.0,150000000.0
+SG Americas Securities,2009.0,150000000.0
+PNC Erieview Capital,2014.0,150000000.0
+Atlantic Tele-Network,2010.0,150000000.0
+Skagen Group,6037.0,150000000.0
+Goverment of Singapore Investment Corporation (GIC),2014.0,150000000.0
+Freestyle Capital,118712.0,149382366.0
+Mission Bay Capital,14087.0,149300000.0
+Allos Ventures,52335.0,148654375.0
+Deerfield Partners,6038.0,148000000.0
+Merlin Nexus,4023.0,147500000.0
+"The R-Group, LLC",46313.0,147400000.0
+CDIB BioScience Ventures,6013.0,147106991.0
+Amicus Capital,66278.0,147045000.0
+Monitor Clipper Funds,10044.0,146500000.0
+Masters Capital,6017.0,146500000.0
+InnoCal Venture Capital,20046.0,146450000.0
+Rethink Education,44285.0,146276915.0
+True North Venture Partners,8050.0,146000000.0
+Harbor Pacific Capital,18110.0,145912517.0
+University Venture Fund,42190.0,145875546.0
+Rogers Venture Partners,24158.0,145640000.0
+Life Science Angels,38191.0,145600000.0
+ESPN,4015.0,145000000.0
+Agilent Ventures,8017.0,145000000.0
+Quantum Technology Partners,16057.0,144800000.0
+Upstate Carolina Angel Network,46274.0,144574627.0
+Baker Capital,22073.0,144500000.0
+Arrowpoint Partners,2012.0,144000000.0
+Takeda Ventures,16084.0,143189949.0
+Scripps Networks Interactive,6042.0,143000000.0
+Partners Innovation Fund,22134.0,142525000.0
+Allied Minds,18105.0,142500000.0
+Windcrest Partners,34192.0,142023728.0
+VegasTechFund,203346.0,142012713.0
+Condé Nast,16100.0,142007906.0
+Signal Peak Ventures,14094.0,141470000.0
+Trilantic Capital Partners,4024.0,140750003.0
+The Raine Group,18113.0,140699994.0
+Novus Ventures,28106.0,139886600.0
+CIBC World Markets,18046.0,139760000.0
+BioAdvance,22105.0,139500000.0
+Apjohn ventures,8041.0,139500000.0
+Integra Ventures,16053.0,139450000.0
+Cowboy Ventures,62413.0,139140000.0
+Sand Hill Angels,80483.0,138668000.0
+Jump Capital,40271.0,138650000.0
+Ascent Biomedical Ventures,18093.0,138500000.0
+NextView Ventures,100613.0,138215000.0
+Capital-E,34166.0,138195265.0
+Imperial Capital,6041.0,138000000.0
+Revolution Ventures,20091.0,137500000.0
+Top Tier Capital Partners,14088.0,137500000.0
+ORIX Ventures,18118.0,137500000.0
+Almaz Capital,54339.0,137099993.0
+Yorkville Advisors,24121.0,136823952.0
+Coral Capital Management,18067.0,136615000.0
+Telcom Ventures,4021.0,136220000.0
+North Hill Ventures,40158.0,136100000.0
+Visionnaire Ventures,34238.0,135850000.0
+Ooga Labs,36215.0,135100000.0
+FTVentures,16050.0,135000000.0
+HomeAway,6040.0,135000000.0
+GKM,8031.0,134797000.0
+North Atlantic Capital,28131.0,134707789.0
+Eastern Capital,6036.0,134600000.0
+Common Fund,8053.0,134500000.0
+Biogen Idec New Ventures,10045.0,134422000.0
+Origin Ventures,56285.0,134160000.0
+Keynote Ventures,28108.0,133500000.0
+Luminari Capital,18123.0,133100000.0
+Techstars,772572.0,132842436.0
+Solstice Capital,24085.0,132820000.0
+FundersClub,134889.0,132704743.0
+Petra Capital Partners,22117.0,132510103.0
+Lemhi Ventures,22127.0,132500000.0
+Shepherd Ventures,30099.0,132245292.0
+Nexus Medical Partners,24113.0,132200000.0
+Comvest Group,10063.0,132200000.0
+Meritage Funds,40215.0,131968000.0
+Ampersand Capital Partners,22098.0,131086727.0
+Goldcrest Investments,18118.0,131070000.0
+HGGC,8049.0,130985435.0
+Tao Venture Partners,12065.0,130750000.0
+Thomas Weisel Venture Partners,24089.0,130720000.0
+Three Leaf Ventures,4027.0,130500000.0
+BEV Capital,30105.0,130135079.0
+Tullis Health Investors,20106.0,130072000.0
+Old Ironsides Energy,2014.0,130000000.0
+Amgen Ventures,14098.0,130000000.0
+The Grosvenor Funds,22077.0,129800000.0
+Bridge Bank,22124.0,129500000.0
+New Silk Route,2010.0,129400000.0
+Thomas Weisel Partners,8031.0,129400000.0
+Charter Life Sciences,24123.0,129385000.0
+Aphelion Capital,22124.0,129175000.0
+Gen-Probe,4021.0,129000000.0
+SunAmerica Ventures,16061.0,128848498.0
+Arcturus Capital,22083.0,127900006.0
+Presidio STX,18058.0,127900000.0
+Dell,8043.0,127900000.0
+Pacesetter Capital Group,12033.0,127800000.0
+AbbVie Biotech Ventures,12081.0,127773584.0
+LaunchPad Venture Group,70395.0,127678745.0
+Middleland Capital,56382.0,127593725.0
+World Innovation Lab,12085.0,127500000.0
+Elliott Management,4020.0,127200000.0
+Citrix Systems,36203.0,127050000.0
+Medley Partners,12059.0,126970000.0
+BLH Venture Partners,46288.0,126771313.0
+RK Ventures Group,12058.0,126700000.0
+Wheatley Partners,24092.0,126650000.0
+Concur Technologies,24144.0,126400000.0
+Raine Ventures,18124.0,126200000.0
+Axiom Ventures,16052.0,125800000.0
+Generation Partners,8039.0,125500000.0
+Carrick Capital Partners,16110.0,125356000.0
+Ares Management,6013.0,125302374.0
+Kayne Anderson Energy Funds,4021.0,125000000.0
+Fortress Capital,4024.0,125000000.0
+EIG Global Energy Partners(EIG),2014.0,125000000.0
+Eos Partners,6033.0,125000000.0
+Main Street Capital,14088.0,124899999.0
+Adobe Ventures,26092.0,124850000.0
+Yellowstone Capital,8030.0,124800000.0
+Gannett,24110.0,124500000.0
+Salmon River Capital,6033.0,124299988.0
+Milestone Partners,4024.0,124000000.0
+Trinity Capital Investment,54357.0,123700000.0
+Draper Triangle,36193.0,123503008.0
+Hearst Corporation,12070.0,123500000.0
+K1 Investment Management,10067.0,122600000.0
+American River Ventures,28097.0,122600000.0
+Subtraction Capital,60396.0,122591201.0
+Horizon Technology Finance,22155.0,122500000.0
+Kohlberg Ventures,26145.0,122320000.0
+Cambrian Ventures,26087.0,122200000.0
+Portview Communications Partners,18044.0,122000000.0
+ROTH Capital Partners,12081.0,121900000.0
+GE Healthcare,8051.0,121900000.0
+DLB Capital,4017.0,121000000.0
+LSI,12051.0,121000000.0
+Trellis Partners,22082.0,120950000.0
+West,6039.0,120600000.0
+Ascend Venture Group,44141.0,120550000.0
+Alliance Technology Ventures,16051.0,120300000.0
+Jumpstart Ventures,56363.0,120199283.0
+KLP Enterprises,8054.0,120000000.0
+New River Management,6030.0,120000000.0
+St. Jude Medical,6032.0,120000000.0
+Alaska Permanent Fund,2013.0,120000000.0
+Northwestern Mutual,6043.0,120000000.0
+Praesidian Capital,20130.0,119934296.0
+Bear Stearns,10026.0,119600000.0
+SanDisk,16105.0,119000000.0
+Osage Venture Partners,56308.0,118961058.0
+Xilinx,20096.0,118274478.0
+Benhamou Global Ventures,28137.0,118150000.0
+Mountain Group Capital,76491.0,118095252.0
+Illumina,8042.0,118000000.0
+GMT Capital,4016.0,117888000.0
+Advancit Capital,58379.0,117850000.0
+UBS,10057.0,117731232.0
+Lehman Brothers Venture Partners,12040.0,117500000.0
+Wakefield Group,16065.0,117450000.0
+Kickstart Seed Fund,92591.0,117429041.0
+Intelligent Beauty,6037.0,117250000.0
+Highbridge Capital Management,14046.0,117060000.0
+Pilot Group,34146.0,117050000.0
+Accenture,8049.0,117000000.0
+Chicago Ventures,84558.0,116455000.0
+Quotidian Ventures,150914.0,116140001.0
+Vivo Capital,4028.0,115000000.0
+British Petroleum,4020.0,115000000.0
+Veronis Suhler Stevenson,8050.0,114796022.0
+Double M Partners,84548.0,114782595.0
+Long River Ventures,34154.0,114780757.0
+Wellington Financial,40240.0,114743137.0
+General Motors Ventures,14084.0,114710700.0
+Aequitas Capital,10064.0,114330000.0
+NewPath Ventures,8024.0,114300000.0
+GunnAllen Venture Partners,12038.0,114200000.0
+NRG Energy,12071.0,114050000.0
+Fifth Street Technology Partners,14096.0,114000000.0
+Partisan Management Group,28103.0,113974102.0
+BMW i Ventures,18115.0,113500000.0
+Zelkova Ventures,90493.0,113333000.0
+Capital One,10057.0,112900000.0
+Ocean Group,8046.0,112750000.0
+Zetta Venture Partners,10070.0,112728889.0
+Southern Capitol Ventures,30110.0,112600000.0
+Dynafund Ventures,12023.0,112600000.0
+Capital Midwest Fund,10061.0,112518177.0
+Tragara,2009.0,112500000.0
+Recruit Strategic Partners,36237.0,112080000.0
+SB Life Science,4013.0,112000000.0
+ePlanet Ventures,10042.0,111697000.0
+Kepha Partners,54291.0,111690000.0
+"Welsh, Carson, Anderson & Stowe",10067.0,111546854.0
+Escalate Capital Partners,14081.0,111500000.0
+NewSchools Venture Fund,80518.0,111451176.0
+Baxter International,14090.0,111219300.0
+SCP Partners,18055.0,111100000.0
+LSP BioVentures,10053.0,110965240.0
+Accelerator Ventures,68373.0,110920041.0
+Dolphin Equity Partners,30076.0,110820000.0
+North Sky Capital,8049.0,110790597.0
+TPG Alternative and Renewable Technologies,2014.0,110000000.0
+HM Capital,2005.0,110000000.0
+CCM Energy,12079.0,110000000.0
+Regiment Capital,2010.0,110000000.0
+Citigroup Global Markets,2014.0,110000000.0
+Cascade Investment,4017.0,110000000.0
+ING Capital LLC,2014.0,110000000.0
+Shelter Capital Partners,20064.0,109880000.0
+Attractor Investment Management,12042.0,109850000.0
+Golden Seeds,84504.0,109678376.0
+SAP,16082.0,109600000.0
+Salesforce,16102.0,109600000.0
+The Roda Group,24092.0,109519000.0
+Rally Ventures,28193.0,109405000.0
+Ticonderoga Capital,16061.0,109400000.0
+MassVentures,14091.0,109150000.0
+EuclidSR Partners,8027.0,109106991.0
+Divergent Ventures,36214.0,108500006.0
+NewVa Capital Partners,8033.0,108500000.0
+Perella Weinberg Partners,6032.0,108500000.0
+Franklin Templeton Investments,4021.0,108000000.0
+VSH,2011.0,108000000.0
+Procter & Gamble,6024.0,108000000.0
+Genentech,6031.0,108000000.0
+NorthPort Investments,4025.0,108000000.0
+Rose Tech Ventures,80311.0,107477691.0
+"Gund Investment, LLC",14078.0,107450000.0
+Base Ventures,96581.0,107307387.0
+Leader Ventures,22095.0,107100000.0
+Hyde Park Angels,80479.0,107066220.0
+Cole Taylor Bank,2012.0,107000000.0
+Hyde Park Venture Partners,70465.0,106786220.0
+Windham Venture Partners,12079.0,106650000.0
+East River Ventures,5999.0,106000000.0
+"SunPower, Inc.",6041.0,105660614.0
+Sand Hill Capital,18066.0,105400000.0
+Purdue Pharma,6031.0,105000000.0
+Plug & Play Ventures,360235.0,104858460.0
+Ulu Ventures,30184.0,104640000.0
+Infinity Capital,14047.0,104500000.0
+BB&T,6031.0,104400000.0
+Razor's Edge Ventures,18117.0,104269647.0
+Vertex,4015.0,104200000.0
+Kayne Partners,20137.0,104100000.0
+Zone Ventures,28075.0,104030000.0
+Drive Capital,20137.0,104000000.0
+Ridgeback Capital,2014.0,104000000.0
+Susa Ventures,36243.0,103675000.0
+InCube Ventures,14081.0,103437000.0
+ConocoPhillips,14091.0,103034690.0
+GRP Partners,10060.0,102949606.0
+DH Capital,10047.0,102564000.0
+Dace Ventures,34162.0,102380000.0
+Aspect Ventures,16112.0,102350000.0
+Hamilton Lane,8043.0,102000000.0
+Digital Realty Trust,4027.0,102000000.0
+CHV Capital,18103.0,101809185.0
+Flextronics International,10045.0,101700000.0
+Sherbrooke Capital,12050.0,101600000.0
+Sail Capital Partners,16080.0,101500000.0
+Bregal Sagemount,20130.0,101500000.0
+PrairieGold Venture Partners,24132.0,101403733.0
+Nordstrom,6039.0,101400000.0
+Science,22142.0,101400000.0
+Founder's Co-op,112629.0,101319961.0
+Cambia Health Solutions,26178.0,101198491.0
+The Entrepreneurs' Funds,24126.0,101100000.0
+Leaf Clean Energy,12059.0,101000000.0
+Salem Partners,4026.0,101000000.0
+Neu Venture Capital,76423.0,100870000.0
+Manatt Venture Fund,28148.0,100743686.0
+CB Health Ventures,14050.0,100600000.0
+Omni Capital,8036.0,100340864.0
+Leo Capital Holdings,24094.0,100300000.0
+Remeditex Ventures,14090.0,100200000.0
+Carefusion,4027.0,100050000.0
+BMO Harris Bank,2014.0,100000000.0
+DealerTrack,2011.0,100000000.0
+AES Corporation,2007.0,100000000.0
+Blue Mountain Capital Management,2008.0,100000000.0
+PPD,2009.0,100000000.0
+Audax Group,4029.0,100000000.0
+Chilton Investment,4015.0,100000000.0
+Apollo Investment Corporation,4027.0,100000000.0
+Garnett & Helfrich Capital,8036.0,100000000.0
+Och-Ziff Capital Management,4013.0,100000000.0
+Fillmore Capital Partners,2013.0,100000000.0
+Danhua Capital,28197.0,99900000.0
+Darby Technology Ventures,12053.0,99500000.0
+Bee Partners,46285.0,99355750.0
+Pacifica Fund,14050.0,99260000.0
+Tyco International,6032.0,99000000.0
+Sun Mountain Capital,24134.0,98680000.0
+CID Equity Capital,10036.0,98500000.0
+GE Equity,12025.0,97900000.0
+"Nashville Capital Network, Investment Arm",80479.0,97779225.0
+Smart Technology Ventures,20037.0,97680000.0
+Knight Foundation,62383.0,97281174.0
+Brook Venture Partners,28133.0,96550000.0
+Broadfin Capital,6041.0,96000000.0
+Spring Lake Equity Partners,6042.0,95999986.0
+i-Hatch Ventures,18041.0,95600000.0
+New Markets Venture Partners,28168.0,95500000.0
+Catalyst Health & Technology Partners,16098.0,95400000.0
+Valence Life Sciences,6042.0,95300000.0
+Hennessey Capital,8053.0,95210700.0
+"Klingenstein, Fields & Co., L.L.C.",14081.0,95150924.0
+Clayton Associates,60298.0,95105193.0
+C&B Capital,18098.0,95100000.0
+Tola Capital,10064.0,94886600.0
+Bioventures Investors,14054.0,94840000.0
+General Motors Investment Management,14055.0,94700000.0
+Bloomberg Beta,54375.0,94202000.0
+Florida Growth Fund,10055.0,94050000.0
+Corning,4027.0,94000000.0
+AT&T,28129.0,93450000.0
+Legend Ventures,10037.0,93340864.0
+Infinite Capital,4017.0,93140000.0
+Argo Global Capital,16042.0,93020000.0
+Alkermes,4027.0,93000000.0
+Okapi Venture Capital,26126.0,92877288.0
+ZenShin Capital,26136.0,92603000.0
+Lowe’s,4029.0,92600000.0
+Egis Capital Partners,6032.0,92000000.0
+PointGuard Ventures,10070.0,92000000.0
+HighBar Partners,20109.0,91941927.0
+Expansion Capital Partners,20080.0,91830000.0
+Stone Point Capital,2013.0,91700000.0
+Tavistock Life Sciences,6037.0,91500000.0
+Ramius Advisors,12056.0,91410000.0
+Global Environment Fund Management,12051.0,91400000.0
+Duff Ackerman & Goodrich,10061.0,91360100.0
+Venture Strategy Partners,16034.0,91300000.0
+Morado Venture Partners,78487.0,91205100.0
+Lexington Partners,8044.0,91000000.0
+ITC Holding Company,6023.0,91000000.0
+City National Bank,16111.0,91000000.0
+Lightstone Ventures,8055.0,90400000.0
+H&Q Asia Pacific,18058.0,90200000.0
+Pamlico Capital,22123.0,90000000.0
+Allied Capital,6018.0,90000000.0
+Hewlett-Packard,6027.0,90000000.0
+Delta-v Capital,4026.0,90000000.0
+AGS Capital Group,6035.0,89800000.0
+North Coast Technology Investors,14081.0,89710000.0
+Innovation Valley Partners,26101.0,89530000.0
+New York Angels,98494.0,89333521.0
+Launch Tennessee,112725.0,89271495.0
+Romulus Capital,38248.0,89030000.0
+Signature Capital Securities,12057.0,89000000.0
+York Capital Management,6036.0,88700000.0
+Reservoir Venture Partners,20088.0,88200000.0
+Napier Park Global Capital,4028.0,88000000.0
+Union Spring Pharmaceuticals,2009.0,87783861.0
+FF Angel LLC,86476.0,87429119.0
+Arnerich Massena & Associates,10048.0,87400000.0
+BIA Digital Partners,12061.0,87000000.0
+Russia Partners,10063.0,87000000.0
+Graham Holdings,4029.0,87000000.0
+IDG Ventures,12087.0,86900000.0
+Argonaut Partners,12052.0,86842436.0
+Activant Capital,6042.0,86826300.0
+Open Prairie,16084.0,86700100.0
+Montgomery & Co,8023.0,86450000.0
+East West Bank,6041.0,86000000.0
+BSB,6041.0,86000000.0
+SF Capital Group,12076.0,85850000.0
+CincyTech,98603.0,85535000.0
+WFD Ventures,8042.0,85450000.0
+Deep Fork Capital,40252.0,85404999.0
+Syncom Venture Partners,22110.0,85364000.0
+Fung Capital USA,16092.0,85350000.0
+Social Leverage,70410.0,85113213.0
+SightLine Partners,8046.0,85100333.0
+Satwik Capital Advisors,8011.0,85000000.0
+Mindful Investors,26108.0,84990497.0
+Galleon Group,10038.0,84940000.0
+Hitachi Chemical Diagnostics,2014.0,84763024.0
+KB Partners,18047.0,84640000.0
+Information Capital LLC,6018.0,84600000.0
+Mayo Medical Ventures,10054.0,84300000.0
+MemorialCare Innovation Fund,10069.0,84300000.0
+Cherubic Ventures,28191.0,84275000.0
+"Consigliere Brand Capital, LLC",12074.0,84100000.0
+Cisco Investments,12086.0,84039999.0
+Flatiron Partners,11995.0,84000000.0
+Scout Ventures,130853.0,83957879.0
+BIP Capital,38237.0,83650000.0
+GCP Capital Partners,8046.0,83589577.0
+Blue Heron Capital,16101.0,83300000.0
+Orchard Venture Partners,8045.0,83100000.0
+Amiti Ventures,12078.0,83000000.0
+North Coast Angel Fund,58352.0,82890040.0
+Cayuga Venture Fund,26139.0,82800030.0
+Covington Capital,20075.0,82730000.0
+The Texas Emerging Technology Fund,48234.0,82140000.0
+High Line Venture Partners,54320.0,82100000.0
+The Pritzker Organization,8051.0,82100000.0
+Linden Capital Partners,2012.0,82000000.0
+BOLDstart Ventures,80505.0,81960454.0
+ECentury Capital Partners,12037.0,81800000.0
+Summit Action Fund,16093.0,81735000.0
+MB Venture Partners,100637.0,81257380.0
+Ludlow Ventures,66415.0,81212819.0
+Level Equity,14084.0,80758918.0
+Spring Mill Venture Partners,16085.0,80150000.0
+Maxus Capital Group,2013.0,80000000.0
+CalSTRS,2012.0,80000000.0
+Madison Capital Funding,4024.0,80000000.0
+ATEL Ventures,16076.0,79970000.0
+KT Venture Group,18068.0,79860000.0
+Arsenal Venture Partners,22148.0,79800000.0
+Keiretsu Forum,58275.0,79760000.0
+Pejman Mar Ventures,52347.0,79400000.0
+Crocker Ventures,4023.0,79000000.0
+Himalaya Capital Ventures,10017.0,79000000.0
+Schooner Capital,26154.0,78950000.0
+Cox Media Group,14091.0,78900000.0
+PivotNorth Capital,32193.0,78830000.0
+TWJ Capital,16064.0,78800000.0
+Weston Presidio Capital,10038.0,78750000.0
+Work-Bench,12083.0,78712936.0
+Gladstone Capital,10058.0,78100000.0
+CampVentures,26129.0,78090000.0
+Ignite Group,10026.0,78050000.0
+Dominion Ventures Inc,8026.0,78000000.0
+Opus Bank,6044.0,78000000.0
+Bay Pond Partners,4022.0,77700000.0
+KPG Ventures,38169.0,77689687.0
+Visa Marketplace,6017.0,77260000.0
+Hudson Capital Management,8035.0,77140000.0
+Rockport Venture Partners,6027.0,77100000.0
+TPG-Axon Capital,2011.0,77000000.0
+Startup Capital Ventures,30140.0,76922047.0
+Monsanto,4016.0,76387128.0
+Camber Creek,38244.0,76294495.0
+Finistere Ventures,10048.0,76000000.0
+BDS Venture Fund,18119.0,75970576.0
+HealthTech Capital,30184.0,75965790.0
+FA Technology Ventures,18068.0,75800000.0
+TVC Capital,20121.0,75399991.0
+Seagate,6028.0,75360000.0
+MassMutual Ventures,2014.0,75000000.0
+SAC Capital Advisors,2006.0,75000000.0
+JVB Properties,2008.0,75000000.0
+Equity International,4023.0,75000000.0
+New York Stock Exchange (NYSE),2015.0,75000000.0
+Lockheed Martin,6031.0,74900000.0
+Chart Venture Partners,20083.0,74800485.0
+Spencer Trask,18072.0,74750000.0
+Flint Hills Resources,8049.0,74400000.0
+Schlumberger,10056.0,74400000.0
+FCA Venture Partners,58323.0,74367001.0
+Inflection Point Ventures,24082.0,74090000.0
+Greenhill Capital Partners,14064.0,74010000.0
+Zesiger Capital,2005.0,74000000.0
+Annox Capital,4028.0,74000000.0
+Cape Securities,2005.0,74000000.0
+Biofrontier Partners,2005.0,74000000.0
+Inventures Group,8029.0,73900000.0
+Northwest Venture Associates,16051.0,73900000.0
+Winklevoss Capital,46312.0,73860000.0
+New Capital Partners,6029.0,73750099.0
+Lauder Partners,22091.0,73651000.0
+Basset Investment Group,30207.0,73650000.0
+Aquiline Capital Partners,2009.0,73540000.0
+Clean Pacific Ventures,24129.0,73450000.0
+Vayner/RSE,44307.0,73379999.0
+Oracle Corporation,6019.0,73300000.0
+Best Buy Capital,16084.0,73138500.0
+Thayer Ventures,30197.0,73074898.0
+Frazier Healthcare,4015.0,73000000.0
+Pacific Technology Partners,6032.0,73000000.0
+CODE Advisors,10061.0,72750000.0
+Chess Ventures,12037.0,72520000.0
+Mid-Atlantic Venture Funds,12039.0,72500000.0
+Hydrazine Capital,10065.0,72395000.0
+Heron Capital,8040.0,72308000.0
+Tredegar Investments,8003.0,72200000.0
+GMG Capital Partners,14031.0,72100000.0
+Lucas Venture Group,18112.0,72093686.0
+Staenberg Venture Partners,16017.0,72050000.0
+Kettle Partners,12001.0,72030000.0
+Sopris Capital Associates,14081.0,72020000.0
+Cartesian Capital Group,2013.0,72000000.0
+MESA Ventures,86565.0,71685000.0
+NJTC Venture Fund,28094.0,71640000.0
+Simon Venture Group,20136.0,71549982.0
+De Novo Ventures,6040.0,71501200.0
+Breakaway Innovation Group,20116.0,71496036.0
+AngelPad,211251.0,71362488.0
+Genacast Ventures,40242.0,71360000.0
+Cox Enterprises,10065.0,71300000.0
+Hudson Bay Capital Management,18093.0,71240000.0
+SkyMoon Ventures,8027.0,71000000.0
+Biotechnology Value Fund,6039.0,71000000.0
+Slater Technology Fund,58282.0,70855000.0
+NYC Seed,74433.0,70812000.0
+Initialized Capital,34233.0,70699243.0
+Broadview Ventures,22134.0,70618996.0
+Tactics II Stem Cell Ventures,4021.0,70600000.0
+H.I.G. BioVentures,10064.0,70424066.0
+ZG Ventures,16060.0,70400000.0
+Elevar Equity,8048.0,70315200.0
+21st Century Fox,2013.0,70000000.0
+Sands Capital Management,2014.0,70000000.0
+Prospect Capital Corporation,4027.0,70000000.0
+Huron River Ventures,38250.0,69910000.0
+EuroUS Ventures,4013.0,69380000.0
+Raymond James,4025.0,69200000.0
+Groupon,12076.0,69100000.0
+Eastlink Capital,16110.0,69070000.0
+Massachusetts Technology Development Corporation,42164.0,68980757.0
+Visa International Service Association,4017.0,68887458.0
+Robin Hood Ventures,46270.0,68825000.0
+Frost Data Capital,52350.0,68815000.0
+Camp One Ventures,58386.0,68814999.0
+StepStone Group,6041.0,68800000.0
+Channel Medical Partners,8028.0,68700000.0
+Sankaty Advisors,2010.0,68615000.0
+Sigma Prime Ventures,26180.0,68550000.0
+AOL,12011.0,68500000.0
+Cottonwood Technology Fund,18110.0,68300000.0
+Hopen Life Science Ventures,6040.0,68250000.0
+Archangel,36247.0,68235000.0
+Sandler Capital,6010.0,68000000.0
+Causeway Media Partners,6042.0,68000000.0
+TIF Ventures Pte,4013.0,68000000.0
+AEA Investors,2013.0,68000000.0
+MCG Capital,10064.0,67800000.0
+The Angels' Forum,32147.0,67701511.0
+Tekton Ventures,54344.0,67641850.0
+Claritas Capital,26139.0,67595528.0
+Gefinor Capital,58146.0,67209278.0
+Larkspur Capital Corporation,2005.0,67000000.0
+First Capital Group,14045.0,67000000.0
+Novaquest Capital Management,2013.0,67000000.0
+Abacus Capital Group,6022.0,67000000.0
+Mosaix Ventures,10025.0,67000000.0
+Fluke Venture Partners,20063.0,66800000.0
+Abbott Labs,4014.0,66600000.0
+21Ventures,36136.0,66550000.0
+Meakem Becker Venture Capital,28130.0,66530000.0
+Liberty Associated Partners,12040.0,66500000.0
+Health Enterprise Partners,14085.0,66300000.0
+Dell Ventures,10070.0,66200000.0
+Equitek Capital,2005.0,66000000.0
+Nautic Partners,2012.0,66000000.0
+Prudential Capital Partners,4028.0,66000000.0
+Citibank,2014.0,66000000.0
+BNY Mellon,2014.0,66000000.0
+Homebrew,30210.0,65979577.0
+Polycom,10038.0,65700029.0
+NBC Universal,16077.0,65500000.0
+Greener Capital,12066.0,65375000.0
+Council Capital,16090.0,65300000.0
+Karlin Ventures,56371.0,65260000.0
+Oclaro,8045.0,65240000.0
+Transamerica Ventures,6042.0,65200000.0
+Sarofim Fayez and Co.,20070.0,65100000.0
+iFund,10046.0,65100000.0
+Quadrant Capital Advisors,4024.0,65000000.0
+Fox Paine & Company,2010.0,65000000.0
+Panorama Point Partners,2015.0,65000000.0
+Bausch & Lomb,2011.0,65000000.0
+Ascent Capital Group,8055.0,64960000.0
+Fenox Venture Capital,84560.0,64900000.0
+Future Perfect Ventures,12084.0,64900000.0
+Parker Price Venture Capital,14038.0,64800000.0
+Shamrock Holdings,12041.0,64771320.0
+AsiaTech Management,20059.0,64650000.0
+Guggenheim Partners,18111.0,64646036.0
+NantWorks,10061.0,64500000.0
+Raptor Ventures,22133.0,64460000.0
+Seraph Group,38200.0,64338252.0
+Devonshire Investors,16111.0,64200000.0
+Duke Energy Corporation,4016.0,64100000.0
+Kirlan Venture Capital,6022.0,64000000.0
+Velocity Venture Capital,20082.0,63900000.0
+Cleveland Clinic,6032.0,63900000.0
+WME,24161.0,63900000.0
+Brookline Venture Partners,12057.0,63500000.0
+Piper Jaffray Private Capital Group,4016.0,63400000.0
+Amaranth Advisors,8029.0,63242399.0
+Hudson Ventures,14062.0,63220000.0
+Ritchie Capital,14044.0,63220000.0
+Kraft Group,16089.0,63186608.0
+BancBoston Ventures,8014.0,63100000.0
+Prudence Holdings,8053.0,63000000.0
+Stanley Medical Research Institute,2007.0,63000000.0
+Medina Capital,10064.0,63000000.0
+Basepoint Ventures,2014.0,63000000.0
+CBS,6020.0,63000000.0
+KBL Healthcare Ventures,6034.0,62978923.0
+ITU Ventures,22065.0,62800000.0
+Cultivian Ventures,20107.0,62550000.0
+PureTech Ventures,10035.0,62500000.0
+The Keffi Group,2007.0,62500000.0
+Sibling Capital,2012.0,62400000.0
+SmartForest Ventures,18055.0,62350000.0
+SparkLabs Global Ventures,70489.0,62206274.0
+Ticketmaster,10005.0,62000000.0
+Duchossois Capital Partners,6039.0,62000000.0
+SierraMaya360,58388.0,61998112.0
+Fenwick & West,8041.0,61800000.0
+NGP Energy Technology Partners,12067.0,61790597.0
+Cultivian Sandbox Ventures,18126.0,61643578.0
+TechColumbus,201034.0,61631257.0
+Sycamore Ventures,16068.0,61549999.0
+Canvas Venture Fund,10069.0,61500000.0
+Lionsgate,4022.0,61400000.0
+Cordova Ventures,8031.0,61300000.0
+Nexon,16094.0,61190151.0
+Acero Capital,18118.0,61063407.0
+Targeted Technology Fund,8056.0,60800000.0
+The Tornante Company,8035.0,60600000.0
+Leeds Equity Partners,6007.0,60500000.0
+Calvert Social Venture Partners,8034.0,60500000.0
+National Science Foundation,96551.0,60381955.0
+Eastven Venture Partners,12041.0,60300000.0
+Stage One Capital,36185.0,60299865.0
+The Amherst Fund,4027.0,60100000.0
+Resource Capital,4026.0,60000000.0
+BD Ventures,4012.0,60000000.0
+Leerink Partners,4022.0,60000000.0
+General Mills,2007.0,60000000.0
+Castanea,8057.0,60000000.0
+Dogwood Equity,2008.0,60000000.0
+Pine River Capital Management,2014.0,60000000.0
+Dunrath Capital,10034.0,59840000.0
+Cheyenne Capital,6028.0,59800000.0
+Musket Research Associates,4018.0,59750000.0
+Vision Capital Advisors,6022.0,59600000.0
+Structure Capital,72499.0,59445000.0
+Capital Resource Partners,10033.0,58900000.0
+Space Angels Network,50271.0,58800000.0
+Beechtree Capital,4013.0,58550000.0
+Boston Seed Capital,56361.0,58514999.0
+Reservoir Capital Group,4018.0,58500000.0
+Angel Investors LP,38204.0,58379030.0
+Bowery Capital,36234.0,58296203.0
+Invest Northern Ireland,12046.0,58266000.0
+Apple,6029.0,58112011.0
+Heritage Group,26168.0,58100000.0
+Perot Investments,4013.0,58000000.0
+Southern Ute,8031.0,57900000.0
+Sarona Frontier Markets,2011.0,57500000.0
+"Oppenheimer & Co., Inc.",4019.0,57500000.0
+Warner Bros.,12073.0,57500000.0
+Martin Ventures,28191.0,57499743.0
+TriStar Technology Ventures,90580.0,57434009.0
+General Electric Pension Trust,8039.0,57400000.0
+Hatteras Funds,12072.0,57350000.0
+Bronze Investments,8050.0,57300000.0
+TenOneTen Ventures,40271.0,57170000.0
+Interpublic Group,6014.0,57100000.0
+Equus Capital,4016.0,57000000.0
+Forrest Binkley and Brown,6005.0,57000000.0
+@Ventures,10047.0,56987200.0
+Deep Fork Advisors,8032.0,56900000.0
+Impact Venture Partners,8016.0,56674028.0
+Health Evolution Partners,6029.0,56300000.0
+Stonehenge Capital,28118.0,56230000.0
+Maryland Department of Business and Economic Development,26107.0,56230000.0
+Madison Parker Capital,14064.0,56200000.0
+Triton Ventures,8029.0,56000000.0
+K Road Power,2014.0,56000000.0
+West Health Investment Fund,18116.0,55750000.0
+Motorola Mobility,12068.0,55698006.0
+Cultivation Capital,58385.0,55697000.0
+Alexandra Investment Management,6018.0,55600000.0
+Lakewest Venture Partners,46306.0,55575000.0
+Constantin Partners,18059.0,55574993.0
+Nextstage Capital,30135.0,55552612.0
+Bowman Capital,4011.0,55500000.0
+"Prelude Ventures, LLC",12080.0,55250000.0
+Cendana Capital,4027.0,55100000.0
+ARLAN,2011.0,55000000.0
+Good Ventures,4026.0,55000000.0
+Open Field Capital,4026.0,55000000.0
+GE Asset Management,4021.0,55000000.0
+Parish Capital Advisors,2009.0,55000000.0
+Long Ridge Equity Partners,10066.0,55000000.0
+IDEA Fund Partners,40221.0,54975000.0
+Drummond Road Capital,44286.0,54827820.0
+Inflexion Partners,16058.0,54600000.0
+TiE Angels,26160.0,54600000.0
+TEL Venture Capital,10053.0,54500000.0
+Eagle Ventures,10056.0,54400000.0
+Constellation Growth Capital,4021.0,54400000.0
+Pittsburgh Life Sciences Greenhouse,68286.0,54293000.0
+Novus Energy Partners,6038.0,54000000.0
+Elm Street Ventures,20103.0,54000000.0
+Commonfund,4028.0,54000000.0
+Knology,2011.0,54000000.0
+Stage 1 Ventures,36214.0,53832500.0
+TI Ventures,8024.0,53800000.0
+Lazard Technology Partners,12038.0,53580000.0
+Mutual Capital Partners Funds,16078.0,53500000.0
+Rock Health,167016.0,53361990.0
+Grail Partners,8044.0,53200000.0
+Gray Ventures,8034.0,53163760.0
+I2BF Global Ventures,12084.0,53000000.0
+Edwards Lifesciences,4027.0,53000000.0
+Technology Associates Management,8025.0,53000000.0
+New England Partners,6004.0,53000000.0
+MSD Capital,8051.0,53000000.0
+TGap Ventures,8052.0,52938575.0
+Tinicum Capital Partners II,4024.0,52752200.0
+Ener1 Group,4018.0,52700000.0
+Hopewell Ventures,8030.0,52620000.0
+Spring Mountain Capital,20126.0,52600000.0
+ORR Partners,6026.0,52560000.0
+Incubic Venture Fund,12040.0,52550000.0
+Convergent Capital,10031.0,52540000.0
+SC Launch,32162.0,52120000.0
+Autodesk,16097.0,52037704.0
+Lincoln Park Capital Fund,10059.0,52000000.0
+Edelson Technology Ventures,4013.0,52000000.0
+Spring Creek Group,4021.0,52000000.0
+GroupM,6026.0,51780000.0
+Flywheel Ventures,38172.0,51750000.0
+Momentum Venture Management,26108.0,51730000.0
+CrossBridge Venture Partners,6013.0,51660000.0
+Emil Capital Partners,12081.0,51600000.0
+kbs+ Ventures,30181.0,51600000.0
+Central Texas Angel Network,24159.0,51375750.0
+Pearl Street Venture Funds,6032.0,51300000.0
+Mucker Capital,80515.0,51240000.0
+Tamares,8045.0,51068498.0
+Catholic Health Initiatives,4027.0,51000000.0
+University of Michigan,6037.0,51000000.0
+Audax Ventures,4000.0,51000000.0
+Ignition Capital,10061.0,50850000.0
+SBV Venture Partners,6017.0,50700000.0
+Thorndale Farm,4024.0,50636298.0
+The Halo Fund,14066.0,50551511.0
+Vital Venture Capital,14083.0,50520000.0
+Mizuho Capital,20142.0,50486000.0
+NALA Investments,12071.0,50375009.0
+Crosscut Ventures,70411.0,50338526.0
+Big Basin Partners,4027.0,50300000.0
+FLAG Capital Management,2014.0,50250081.0
+Alpha Capital,16067.0,50229000.0
+Five Elms Capital,18103.0,50200000.0
+Kansas Bioscience Authority,10063.0,50150000.0
+The Washington Post Company,24121.0,50105000.0
+Kern Whelan Capital,8038.0,50100000.0
+Sid R. Bass Associates,12049.0,50000100.0
+Vox Media,2014.0,50000000.0
+The Children's Hospital of Philadelphia,2013.0,50000000.0
+BuzzFeed,2014.0,50000000.0
+Starwood,2008.0,50000000.0
+ADT,2014.0,50000000.0
+Ares Capital Corporation,10067.0,50000000.0
+Imgur,2014.0,50000000.0
+MedCare Investment Funds,6039.0,50000000.0
+Davis Shapiro Lewit Grabel Leven Granderson & Blake,4013.0,50000000.0
+Virgo Investment Group,2015.0,50000000.0
+Power Play Energy,2008.0,50000000.0
+Corsair Capital,2014.0,50000000.0
+Norwest Equity Partners,2012.0,50000000.0
+First Republic Bank,2014.0,50000000.0
+Broadcom,8036.0,50000000.0
+Calera Capital,6031.0,50000000.0
+Thoma Bravo,4020.0,50000000.0
+White Deer Energy,2010.0,50000000.0
+The TCW Group,2014.0,50000000.0
+Vignette,2000.0,50000000.0
+Emerald Development Managers,2015.0,50000000.0
+Wing Capital Group,2013.0,50000000.0
+Public Employees Retirement Association of Colorado,2007.0,50000000.0
+SRI International,16093.0,49850000.0
+Westfield Capital Management,6027.0,49700000.0
+Ardesta,8022.0,49500000.0
+Osprey Ventures,14013.0,49450000.0
+OpusPoint Partners,4019.0,49404277.0
+Fulcrum Ventures,14072.0,49400000.0
+Wall Street Technology Partners,8031.0,49400000.0
+Enhanced Capital Partners,28130.0,49070000.0
+Palisades Ventures,8033.0,49000000.0
+Pantera Capital,20139.0,48825000.0
+Maven Ventures Growth Labs,14097.0,48750000.0
+Dundee Venture Capital,62390.0,48425000.0
+Riverside Partners,8046.0,48400000.0
+Milepost Ventures,2005.0,48300000.0
+Cogene Ventures,2005.0,48300000.0
+JumpStart Inc.,202921.0,48246017.0
+MB Venture Capital Fund,6026.0,48206222.0
+Acorn Campus Ventures,8034.0,48100000.0
+Investment Group of Santa Barbara,14078.0,48030000.0
+Kubera Partners,6025.0,48000000.0
+Berggruen Holdings,6037.0,48000000.0
+Firsthand Capital Management,6020.0,48000000.0
+Massachusetts Green Energy Fund,6023.0,47750000.0
+Grayhawk Capital,18083.0,47720000.0
+Dutchess Capital,2011.0,47628901.0
+Kingdon Capital,4013.0,47400000.0
+VSP Capital,10033.0,47350000.0
+Centurion Holdings,8038.0,47300000.0
+Global Investment Partners,8025.0,47300000.0
+Water Street Healthcare Partners,6041.0,46900000.0
+AWM Investment Company,6015.0,46750000.0
+Seavest Capital Partners,16097.0,46700000.0
+ITX International Holdings,8017.0,46500000.0
+Headland Ventures,6020.0,46500000.0
+Helix Ventures,2013.0,46271280.0
+Global H2O Investments,2013.0,46256055.0
+Nyca Partners,8056.0,46250000.0
+Mid Atlantic Angel Fund,14058.0,46200000.0
+Scrum Ventures,42279.0,46132000.0
+Mast Capital Management,4020.0,46112000.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,114724.0,46017872.0
+Eli Lilly,4025.0,46000000.0
+Phillips Smith Specialty Group,3998.0,46000000.0
+Times Mirror Company,3998.0,46000000.0
+BlueTree Allied Angels,20133.0,45914457.0
+Stuart Mill Venture Partners,8037.0,45900000.0
+Macromedia,4002.0,45800000.0
+Pharus Capital Management,4028.0,45699993.0
+Partners HealthCare,8036.0,45500000.0
+NXT Capital,18112.0,45500000.0
+Masa Life Science Fund,6023.0,45400000.0
+Militello Capital,32214.0,45288558.0
+Pacific Horizon Ventures,4013.0,45000000.0
+The Hillman Companies,2013.0,45000000.0
+JatoTech Ventures,4012.0,45000000.0
+Thompson Street Capital Partners,2013.0,45000000.0
+Chevron,2008.0,45000000.0
+Advanced Inflight Alliance,2012.0,45000000.0
+Technology Venture Partners US,2007.0,45000000.0
+L & T Property Investments,2014.0,45000000.0
+Athyrium Capital Management,2014.0,45000000.0
+Asenqua Ventures,2008.0,45000000.0
+Navigation Capital,4008.0,45000000.0
+DTE Energy Ventures,6034.0,45000000.0
+NIF SMBC Ventures,10030.0,44999907.0
+Azimuth Ventures,8057.0,44850000.0
+SVB Capital,8038.0,44830000.0
+CME Group,6042.0,44700000.0
+Aero Equity,4014.0,44600000.0
+Hannon Armstrong Sustainable Infrastructure Capital,2014.0,44500000.0
+Cyrus Capital Partners,4022.0,44400000.0
+HID Global,2007.0,44380000.0
+Convergence Partners,12043.0,44330000.0
+RSTP,4028.0,44300000.0
+Vast Ventures,28177.0,44230000.0
+EGS Healthcare Capital Partners,4011.0,44000000.0
+Quicksilver Ventures,8033.0,44000000.0
+Altitude Capital Partners,4014.0,44000000.0
+Abundance Partners,24158.0,43800000.0
+Jasper Ridge Partners,4021.0,43750000.0
+Myrian Capital,8046.0,43725000.0
+Greentech Capital Advisors,2011.0,43700000.0
+Big Sky Partners,16072.0,43681000.0
+Amplify.LA,106701.0,43557731.0
+Micron Technology,4015.0,43500000.0
+Armentum Partners,2014.0,43500000.0
+WWE,4026.0,43400000.0
+The Contrarian Group,6033.0,43400000.0
+Valley Ventures,10053.0,43320000.0
+Lake Street Capital,8025.0,43300000.0
+Oregon Angel Fund,36217.0,43243668.0
+Oracle Investment Management Inc.,6041.0,43242500.0
+Pasadena Angels,36175.0,43233800.0
+Black Diamond Ventures,10057.0,43100000.0
+World Bank,2013.0,43000000.0
+Rock Maple Ventures,14053.0,43000000.0
+"Laureate Education, Inc.",2013.0,43000000.0
+Thomas H. Lee Partners,2000.0,43000000.0
+Ropart Asset Management,8034.0,43000000.0
+Echelon Ventures,2013.0,43000000.0
+Waterview Advisors,2000.0,43000000.0
+CMGI @Ventures,5992.0,43000000.0
+Endeavour Capital,8048.0,42554604.0
+Walker Ventures,12039.0,42500000.0
+Plough Penny Partners,26133.0,42500000.0
+Smallcap World Fund,4022.0,42500000.0
+Logispring,16052.0,42485848.0
+Draper & Associates,14071.0,42400000.0
+Waddell & Reed,2013.0,42400000.0
+AngelList,22156.0,42028000.0
+Empire Capital Partners,2004.0,42000000.0
+Piramal Fund Management,2013.0,42000000.0
+Fortinet,2014.0,42000000.0
+Spire Capital,6039.0,42000000.0
+RiverPark Ventures,26184.0,41809136.0
+Hamilton Ventures LLC,14081.0,41700000.0
+Lenfest Capital,2010.0,41550000.0
+Sony Pictures Entertainment,4010.0,41500000.0
+Southwest Michigan First Life Science Fund,16099.0,41500000.0
+Chisholm Private Capital Partners,6017.0,41500000.0
+Altpoint Ventures,6042.0,41497598.0
+Weber Capital,12036.0,41330000.0
+Saturn Partners,16082.0,41318142.0
+Finaventures,10023.0,41300000.0
+Sterling Capital Funds,4015.0,41200000.0
+DB Capital Ventures,4003.0,41200000.0
+Valero Energy,4019.0,41085015.0
+Polaris Industries,4023.0,41000000.0
+Macquarie Energy,2011.0,41000000.0
+Emigrant Capital,4014.0,41000000.0
+SeaPoint Ventures,14053.0,40923000.0
+Burch Creative Capital,12084.0,40850000.0
+Whitney & Co.,10046.0,40750000.0
+PayPal,16093.0,40700000.0
+Benaroya Capital,26125.0,40635000.0
+Mason Wells Biomediacl Fund,4017.0,40600000.0
+Tandem Capital,60348.0,40538000.0
+Anschutz Investment,6026.0,40500000.0
+MedImmune,4027.0,40500000.0
+Ironside Ventures,4010.0,40500000.0
+The Brandery,130803.0,40485000.0
+CapX Partners,8055.0,40250000.0
+Dingman Center Angels,138796.0,40220678.0
+EMC Ventures,6038.0,40200000.0
+Verizon Communications,4024.0,40100000.0
+Deephaven Capital Management,4012.0,40060000.0
+PAR Capital Ventures,12077.0,40009998.0
+reddit,2014.0,40000000.0
+Viacom,4017.0,40000000.0
+Permal Asset Management,2013.0,40000000.0
+GDN Holdings,2014.0,40000000.0
+Falcon Investment Advisors,2013.0,40000000.0
+Indus Capital Partners,2006.0,40000000.0
+Oak HC/FT,4028.0,40000000.0
+Cantor Ventures,4025.0,40000000.0
+HTV Industries,2013.0,40000000.0
+Värde Partners,2014.0,40000000.0
+HSBC Bank,2014.0,40000000.0
+PNC Financial Services Group,2014.0,40000000.0
+Partners Healthcare Group,2013.0,40000000.0
+Alexandria Equities,2014.0,40000000.0
+Jesselson Capital,12060.0,39950000.0
+EQT,2012.0,39945000.0
+WestRiver Capital,12049.0,39900000.0
+Detroit Venture Partners,66406.0,39872898.0
+SRB Management,6021.0,39830000.0
+DreamIt Ventures,342013.0,39797666.0
+Rovi Corporation,8027.0,39760328.0
+Motus Ventures,8056.0,39749960.0
+Velocity Equity Partners,16040.0,39700000.0
+Capital Factory,90539.0,39658000.0
+Maranon Capital,6033.0,39500000.0
+Rubicon Venture Capital,26178.0,39290000.0
+Zions First National Bank,8026.0,39170000.0
+FundersGuild,16112.0,39153219.0
+Liberty Mutual Insurance,6017.0,39125000.0
+BlueCap Partners,2013.0,39000000.0
+Mentor Capital,2014.0,39000000.0
+Infield Capital,8041.0,39000000.0
+Tullis-Dickerson,6017.0,39000000.0
+Valence Capital Management,4007.0,38900000.0
+"Kodiak Capital Group, LLC",16096.0,38775000.0
+Startech Early Ventures,12033.0,38755000.0
+Venture Capital Fund of New England,22085.0,38705000.0
+Otter Capital,6039.0,38700000.0
+Oceanshore Ventures,8042.0,38700000.0
+Kayne Anderson Capital Advisors,6043.0,38600000.0
+Potomac Energy Fund,2014.0,38500000.0
+IBM,6023.0,38399999.0
+Outcome Capital,18071.0,38350000.0
+Software AG,6041.0,38300000.0
+Paramount Pictures,2014.0,38250000.0
+Alara Capital,14065.0,38150000.0
+Palo Alto Venture Partners,10040.0,38100000.0
+Lightyear Capital,4008.0,38000000.0
+Savitr Capital,2012.0,38000000.0
+Novus Energy,2010.0,38000000.0
+National Semiconductor,2002.0,38000000.0
+Veeco Instruments,2014.0,38000000.0
+Pericom Semiconductor,2002.0,38000000.0
+McGraw-Hill Companies,6023.0,38000000.0
+Micron Ventures,4015.0,38000000.0
+Genesis Campus,4011.0,38000000.0
+GIV Venture Partners,10032.0,37850000.0
+Highland Credit Strategies Fund,4019.0,37800000.0
+Nite Capital Management,8023.0,37730000.0
+Fulcrum Equity Partners,16103.0,37350000.0
+Pfizer,6034.0,37306220.0
+CalCEF Clean Energy Angel Fund,12067.0,37300000.0
+Emerging Technology Partners,6023.0,37250000.0
+Sun Microsystems,4016.0,37000000.0
+Southpoint Capital Advisors,4014.0,37000000.0
+CEI Ventures,10047.0,37000000.0
+Hunt BioVentures,2012.0,37000000.0
+Hearst Health Ventures,4029.0,37000000.0
+Maxygen,2006.0,37000000.0
+Aspire Capital Fund,6040.0,37000000.0
+Capitol Broadcasting Company,12057.0,36850000.0
+Digicel,12079.0,36817000.0
+Sanofi-Genzyme BioVentures,6043.0,36800000.0
+WS Capital Management,4010.0,36750000.0
+Texas Capital Bank,4027.0,36700000.0
+Vimac Ventures,12038.0,36570000.0
+Silicon Alley Venture Partners,14044.0,36250000.0
+SDL Ventures,8038.0,36200000.0
+Tribune Strategic Investments,6023.0,36150000.0
+Saratoga Ventures,4022.0,36014998.0
+Nationwide Mutual Capital,6024.0,36000000.0
+Fort Mason Capital,6019.0,36000000.0
+InOvate Communications Group,2001.0,36000000.0
+Battery Venture,2014.0,36000000.0
+Tano Capital,10054.0,36000000.0
+Torch Hill Investment Partners,4016.0,36000000.0
+Dafna Capital Management,6030.0,35804277.0
+Windspeed Ventures,20099.0,35800000.0
+Synopsys,12047.0,35797546.0
+Turner Broadcasting,12069.0,35699998.0
+Naya Ventures,24157.0,35650000.0
+Fortify Ventures,82508.0,35525000.0
+Chestnut Hill Ventures,6036.0,35500000.0
+Tritium Partners,4028.0,35478613.0
+Techstars Ventures,28195.0,35357500.0
+Vocap Investment Partners,22139.0,35300000.0
+Brightstone Venture Capital,16109.0,35232856.0
+Techxas Ventures,6023.0,35100000.0
+Pound Capital,2006.0,35000000.0
+Marvell Technology,2013.0,35000000.0
+Digital Power Capital,2010.0,35000000.0
+DFW Capital,2013.0,35000000.0
+Mayflower,2006.0,35000000.0
+RFT Investment Company,4023.0,35000000.0
+Elliott Associates,2006.0,35000000.0
+Ripplewood Holdings,2011.0,35000000.0
+Atheros Communications,2013.0,35000000.0
+BNY Mellon-Alcentra Mezzanine Partners,2014.0,35000000.0
+Clearpoint Ventures,4019.0,35000000.0
+Molycorp,2011.0,35000000.0
+Hitachi GST,4017.0,35000000.0
+Evolution Media Capital,4028.0,35000000.0
+Meritus Ventures,22108.0,34943722.0
+Wisconsin Investment Partners,36202.0,34943177.0
+Council & Enhanced Tennessee Fund,32205.0,34861363.0
+FreshTracks Capital,54255.0,34815000.0
+Next View Partners,6036.0,34800000.0
+Springworks,2006.0,34700000.0
+New York Life Insurance Co,4028.0,34500000.0
+TICC Capital,6017.0,34500000.0
+Westbury Partners,6024.0,34500000.0
+NaviMed Capital,2014.0,34377390.0
+Peak Ventures,32220.0,34375000.0
+Morgan Creek Capital Management,10063.0,34335866.0
+Cherrystone Angel Group,116583.0,34155257.0
+Alafi Capital,12043.0,34098857.0
+Renaissance Technologies,2009.0,34000000.0
+Nvidia,10056.0,34000000.0
+Accolade Partners,2013.0,34000000.0
+Parakletos Ventures,6014.0,34000000.0
+Hillcrest Management,6026.0,34000000.0
+jVen Capital,4022.0,34000000.0
+Interactive Brokers Group,2009.0,34000000.0
+Sorrento Ventures,6028.0,34000000.0
+Blue Haven Initiative,4027.0,34000000.0
+Gramercy Funds Management,2014.0,34000000.0
+Powershift Ventures,4013.0,34000000.0
+Charter Oak Equity,2012.0,34000000.0
+Maxim Group,6034.0,33902905.0
+Joint Venture,2014.0,33872431.0
+Numenor Ventures,4014.0,33750000.0
+PerformanceEdge Partners,6036.0,33736657.0
+Warner Music Group,6024.0,33700000.0
+Parkview Ventures,14071.0,33700000.0
+Greenmont Capital Partners,10050.0,33700000.0
+Fraser McCombs Capital,6040.0,33700000.0
+SSE Ventures,6030.0,33625043.0
+Prairie Capital,4027.0,33620000.0
+Hub Angels Investment Group,24127.0,33551000.0
+Informatica,4018.0,33500000.0
+Dry Creek Ventures,4019.0,33500000.0
+Rising Tide Fund,8056.0,33500000.0
+"Point Financial, Inc.",8052.0,33400000.0
+Palisade Capital Management,10049.0,33350000.0
+Caffeinated Capital,8058.0,33300000.0
+Pivotal Private Equity,1999.0,33200000.0
+Compaq,1999.0,33200000.0
+Omninet,2008.0,33120000.0
+Portland Seed Fund,165056.0,33116582.0
+Bluff Point Associates,14083.0,33100000.0
+United Talent Agency,6042.0,33100000.0
+Silas Capital,14091.0,33050000.0
+Ribbit,2014.0,33000000.0
+Wolverine Venture Fund,6035.0,33000000.0
+BV Investment Partners,8053.0,33000000.0
+Grey Ventures,4011.0,33000000.0
+University of Texas Investment Management,2013.0,33000000.0
+Manatuck Hill Partners,4025.0,32978923.0
+WindSail Capital,18118.0,32750000.0
+Arris Group,4028.0,32700000.0
+Kodak Alaris,4020.0,32600000.0
+Terawatt Ventures,16094.0,32501350.0
+Mainsail Partners,10063.0,32500000.0
+Tekelec International,2002.0,32500000.0
+Gotham Ventures,4027.0,32500000.0
+Klarman Family Foundation,2012.0,32500000.0
+Phoenix Venture Partners,10066.0,32400000.0
+NEST-TN,94595.0,32333031.0
+Wild Basin Investments,4027.0,32300000.0
+Liberty City Ventures,24162.0,32270000.0
+The McClatchy Company,8039.0,32250000.0
+FinTech Collective,18125.0,32204544.0
+California Energy Commission,10057.0,32100000.0
+Daylight Ventures,14074.0,32017888.0
+Charitable Leadership Foundation,2005.0,32000000.0
+Western States Investment Group,2005.0,32000000.0
+Energy Investors Fund,2009.0,32000000.0
+Freescale Semiconductor,4015.0,32000000.0
+Riverside Management Group,4016.0,31800000.0
+Queen City Angels,36201.0,31710000.0
+Huntington Capital,12064.0,31664696.0
+Eagle Cliff Partners,8054.0,31534865.0
+Acumen,12067.0,31500000.0
+Caxton Associates,2010.0,31500000.0
+Crystal Internet Venture Funds,6018.0,31500000.0
+Mitsubishi Corporation Life Sciences Venture,4015.0,31500000.0
+NeuroVentures,4014.0,31500000.0
+Merck Capital Ventures,4022.0,31400000.0
+R&R Ventures,6040.0,31360000.0
+Plutus Capital,2007.0,31340000.0
+Mitsui Private Equity,2007.0,31340000.0
+Grishin Robotics,18119.0,31325000.0
+Ecosystem Ventures,40221.0,31296112.0
+Peninsula Capital,8027.0,31050000.0
+Astrolabe Ventures,6028.0,31000000.0
+Intuitive Venture Partners,6032.0,31000000.0
+Harbert Management Corporation,8036.0,31000000.0
+Commercial Capital LLC,2013.0,31000000.0
+Pyramis Global Advisors,2014.0,31000000.0
+iSherpa Capital,18059.0,30950000.0
+Cervin Ventures,20121.0,30950000.0
+Canyon Creek Capital,28179.0,30910000.0
+Texas Venture Labs,160926.0,30821400.0
+Plus Capital,14094.0,30800000.0
+The Argentum Group,6026.0,30750000.0
+RENN Capital,10038.0,30720000.0
+MDC Dream Ventures,12072.0,30708333.0
+Madison Angels,14069.0,30600000.0
+Quince Associates,2011.0,30585015.0
+Second Century Ventures,14082.0,30574999.0
+Highlander Partners,2007.0,30500000.0
+Waveland Venture Partners,4017.0,30500000.0
+Patriot Capital Funding,6019.0,30500000.0
+Math Venture Partners,4029.0,30500000.0
+Delaware Crossing Investor Group,10056.0,30350000.0
+"GRA Venture Fund, LLC",14086.0,30350000.0
+Expedia,2013.0,30300000.0
+HealthQuest Capital,4030.0,30264965.0
+Bridge Investment Fund,8042.0,30200000.0
+Life Technologies,6029.0,30080000.0
+FireStarter Fund,24154.0,30075000.0
+Zygote Ventures,10056.0,30050000.0
+St. Louis Arch Angels,26148.0,30000998.0
+ZelnickMedia,2013.0,30000000.0
+First Solar,2008.0,30000000.0
+Quantum Capital Fund,2012.0,30000000.0
+Stark Investments,2008.0,30000000.0
+Acquity Group,2011.0,30000000.0
+Evergreen Clean Energy,2009.0,30000000.0
+RCT BioVentures,2006.0,30000000.0
+Massachusetts Institute of Technology - MIT,2007.0,30000000.0
+The Tokarz Group,2006.0,30000000.0
+Watson Pharmaceuticals,2010.0,30000000.0
+Office of Naval Research (ONR),2013.0,30000000.0
+Creation Capital,2010.0,30000000.0
+Biotechonomy,2005.0,30000000.0
+Western Digital,4028.0,30000000.0
+FirstEnergy Corp.,2005.0,30000000.0
+Alliance Capital Ventures,2007.0,30000000.0
+NetWorth Partners,1999.0,30000000.0
+Consolidated Edison,2005.0,30000000.0
+Walgreens,2014.0,30000000.0
+Robertson Stephens & Company,2002.0,30000000.0
+Ygomi,2007.0,30000000.0
+Huntsman Gay Global Capital,2013.0,30000000.0
+PG&E Corporation,2005.0,30000000.0
+Electro Scientific Industries,4019.0,30000000.0
+Sonosite,4022.0,30000000.0
+L brands,2008.0,30000000.0
+"MacAndrews & Forbes, Incorporated",2013.0,30000000.0
+Southern Company,2005.0,30000000.0
+Power Integrations,2010.0,30000000.0
+Enlight,2013.0,30000000.0
+Discover Financial Services,2012.0,30000000.0
+Brookside Group,2013.0,30000000.0
+LiveOak Venture Partners,20137.0,29990853.0
+Harbor Light Capital Partners,22126.0,29900000.0
+One Earth Capital,4019.0,29900000.0
+The Individuals' Venture Fund,14053.0,29700000.0
+Vantis Capital Management,2008.0,29600000.0
+Navigator Technology Ventures,6017.0,29600000.0
+Montlake Capital,10033.0,29500000.0
+CenturyLink,2013.0,29500000.0
+3M New Ventures,22127.0,29414965.0
+Phoenix Partners Group,10043.0,29330000.0
+Spring Ventures,16093.0,29270000.0
+New Cycle Capital,16075.0,29264000.0
+Nikon,2013.0,29167989.0
+Marathon Asset Management,2006.0,29100000.0
+Stephens Investment Management,6039.0,29100000.0
+Signal Equity Partners,4011.0,28936000.0
+Adena Ventures,6022.0,28900000.0
+Bristol-Myers Squibb,4018.0,28800000.0
+Axel Springer Digital Ventures Inc.,4029.0,28800000.0
+Renaissance Venture Capital Fund,6040.0,28800000.0
+Arsenal Capital Partners,8057.0,28798000.0
+Data Point Capital,18117.0,28750000.0
+UpWest Labs,94604.0,28535000.0
+The Fabric,4028.0,28500000.0
+CIVC Partners,4015.0,28500000.0
+Massachusetts Life Sciences Center,20119.0,28210000.0
+The Kinsey Hills Group,14056.0,28150000.0
+Perkins Coie,7995.0,28150000.0
+Tall Oaks Capital Partners,8024.0,28100000.0
+Plainfield Asset Management LLC,2008.0,28000000.0
+GulfSouth Capital,8023.0,28000000.0
+Cell Genesys,2007.0,28000000.0
+Spinner Asset Management,4012.0,28000000.0
+North Castle Partners,6011.0,28000000.0
+Lookout Capital,2014.0,28000000.0
+BainLab,3999.0,28000000.0
+Tekla Capital Management,4025.0,28000000.0
+Sycamore Partners,2013.0,28000000.0
+Gaja Capital,4025.0,27953638.0
+Bluestem Capital,4024.0,27900000.0
+Seacoast Capital Partners,10051.0,27900000.0
+Simon Equity Partners,12062.0,27875735.0
+Originate Ventures,24128.0,27800000.0
+Heartland Payment Systems,4026.0,27750000.0
+Montage Ventures,20139.0,27665000.0
+Clarium Capital,6022.0,27660000.0
+Lee Enterprises,6035.0,27600000.0
+Agave Capital,6016.0,27500000.0
+Convergent Investors,6016.0,27500000.0
+RimLight Capital,4022.0,27500000.0
+Greenhouse Capital Partners,24123.0,27430000.0
+Xfund,10066.0,27400000.0
+Council Ventures,10034.0,27350000.0
+SevenMile Capital Partners,2015.0,27339834.0
+Quest Software,8044.0,27200000.0
+Aweida Venture Partners,8037.0,27135866.0
+NC IDEA,16064.0,27127000.0
+Time Warner Cable,4021.0,27013076.0
+Atheneos Capital,4024.0,27000000.0
+Amalgamated Capital,2011.0,27000000.0
+Launchpad LA,42262.0,26947690.0
+Rosalind Capital Partners,4016.0,26904277.0
+California Institute for Regenerative Medicine,6034.0,26900000.0
+CIT GAP Funds,88541.0,26800000.0
+Geneva Venture Partners,8028.0,26800000.0
+Random House Ventures,4025.0,26800000.0
+T5 Capital,16104.0,26650000.0
+Cincinnati Children’s Hospital Medical Center,6043.0,26600000.0
+Coriolis Ventures,16070.0,26600000.0
+Ecosystem Integrity Fund,8055.0,26571182.0
+Solidus Company,134832.0,26503407.0
+Southpaw Asset Management,6029.0,26500000.0
+Bay Area Equity Fund,2006.0,26500000.0
+Merck Research Laboratories,2014.0,26500000.0
+Avansis Ventures,6020.0,26500000.0
+Kauffman Foundation,10064.0,26275000.0
+Invemed Catalyst Fund,6024.0,26250000.0
+Clarion Capital,4011.0,26230000.0
+Huawei Technologies,2014.0,26200000.0
+Entropic Communications,2012.0,26198006.0
+Serra Ventures,116755.0,26194692.0
+Norwich Ventures,10053.0,26050000.0
+Massey Burch Capital Corporation,6020.0,26000000.0
+Telkonet,2007.0,26000000.0
+Elmrock Capital,2008.0,26000000.0
+RockBridge Capital Partners,2012.0,26000000.0
+Hillman Ventures,2012.0,26000000.0
+Sweetwater Capital,14093.0,26000000.0
+Accretive LLC,4028.0,26000000.0
+Coriant America,2000.0,26000000.0
+DMC Stratex Networks,2000.0,26000000.0
+Austin Investment Management,2008.0,26000000.0
+Twilight Venture Partners,6022.0,26000000.0
+Mozilla,4024.0,26000000.0
+Numoda Capital Innovations,4024.0,25850000.0
+Peterson Partners,46303.0,25810000.0
+NextGen Angels,18122.0,25734992.0
+Arlon Group,2014.0,25700000.0
+Pasadera Capital,4024.0,25700000.0
+G-51 Capital,16069.0,25500000.0
+NPD Group,4025.0,25500000.0
+Eastman Ventures,4010.0,25500000.0
+Guide Ventures,4018.0,25500000.0
+Lanza TechVentures,12057.0,25482818.0
+Ackerley Partners,12044.0,25450000.0
+Abbott Biotech Ventures,6034.0,25400000.0
+SilverHaze Partners,4023.0,25300000.0
+Brentwood Venture Capital,4004.0,25100000.0
+The Trelys Funds,6019.0,25100000.0
+XML Fund,4010.0,25000000.0
+"Acorn Ventures, Inc.",2008.0,25000000.0
+TrueBridge Capital Partners,4027.0,25000000.0
+Mugar Enterprises,2008.0,25000000.0
+Bibby Financial Services,2012.0,25000000.0
+TGF Management,2005.0,25000000.0
+Accelerate-IT,2014.0,25000000.0
+ICONIX BRAND GROUP,2013.0,25000000.0
+Patriot Capital,2009.0,25000000.0
+Meridian Asset Management,2007.0,25000000.0
+Alexion Pharmaceuticals,2014.0,25000000.0
+Interscope Records,2008.0,25000000.0
+B/K Venture Capital,2006.0,25000000.0
+New England Development,2008.0,25000000.0
+VeriSign Authentication Services,2006.0,25000000.0
+American Capital Technology Group,2007.0,25000000.0
+Intuit,2013.0,25000000.0
+Zon Capital Partners,10036.0,25000000.0
+Mellon Ventures,8005.0,24880000.0
+iNetworks,6033.0,24700000.0
+StartX,22151.0,24575000.0
+Ironfire Capital,18123.0,24425000.0
+Ben Franklin Technology Partners of Northeast Pennsylvania,82412.0,24423195.0
+Blu Venture Investors,22151.0,24240253.0
+Mentor Capital Partners,8038.0,24210000.0
+Redhills Ventures,6030.0,24200000.0
+Greenlight Capital,4013.0,24200000.0
+Tribune Company,8033.0,24200000.0
+Innova Memphis,116737.0,24164230.0
+DaneVest Capital,6028.0,24027665.0
+Quest Ventures,12053.0,24023202.0
+Cephalon,2011.0,24000000.0
+Voice123,2012.0,24000000.0
+East Gate Capital Management,4015.0,24000000.0
+Navteq,2008.0,24000000.0
+Incept,4023.0,24000000.0
+Dada Entertainment,2012.0,24000000.0
+WR Hambrecht,8024.0,23850000.0
+Research Triangle Ventures,6017.0,23800000.0
+Inverness Graham Investments,4013.0,23750000.0
+Augment Ventures,16105.0,23701363.0
+Olympus Partners,2000.0,23700000.0
+TriZetto,4024.0,23677288.0
+Point B Capital,22141.0,23628470.0
+Newlin Investment Company,10058.0,23600000.0
+Liberty Partners,12055.0,23600000.0
+Sutter Health,2014.0,23600000.0
+Michigan Accelerator Fund I,6042.0,23575077.0
+Advance Digital,4027.0,23500000.0
+Crimson Investment,4011.0,23500000.0
+"A Capital Partners, L.P.",6042.0,23385576.0
+Innovation Ventures,22112.0,23305000.0
+Technicolor,4018.0,23230000.0
+Mayfield,6042.0,23200000.0
+New Mexico Community Capital,6030.0,23200000.0
+ARC Angel Fund,30180.0,23196799.0
+SMH Private Equity Group,6022.0,23100000.0
+Tribune Ventures,7998.0,23100000.0
+GFI Group,6036.0,23100000.0
+Life Sciences Angel Network,18117.0,23051948.0
+RTI International,8025.0,23000000.0
+Cornerstone Angels,6039.0,23000000.0
+Build-A-Bear Workshop,6021.0,23000000.0
+Allianz Private Equity Partners,4016.0,23000000.0
+Zappos,2015.0,23000000.0
+SolarCity,4028.0,23000000.0
+Morningstar,10054.0,22950000.0
+Gideon Hixon Fund,10055.0,22920000.0
+Plymouth Ventures,12082.0,22851930.0
+Atlanta Technology Angels,22144.0,22850000.0
+PKS Capital,14071.0,22646799.0
+Rationalwave Capital Partners,6037.0,22609937.0
+Bunkum & Balderdash Venture Partners,8043.0,22600000.0
+Endeavor,6042.0,22600000.0
+Sternhill Partners,4010.0,22520000.0
+Endeavour Investment Partners,18087.0,22500000.0
+Velocity Financial Group,2007.0,22500000.0
+Laurus Funds,12033.0,22390000.0
+Net2Phone,2000.0,22300000.0
+Bendigo Partners,14079.0,22300000.0
+Origin Partners,4012.0,22300000.0
+Empire Angels,26172.0,22250000.0
+Graph Ventures,18117.0,22200000.0
+JDSU,4017.0,22190000.0
+Blackfin Technology,4014.0,22189200.0
+Blacksmith Capital,10026.0,22100000.0
+Amplifier Venture Partners,20094.0,22100000.0
+Technology Venture Investors,6021.0,22000000.0
+Union Grove Venture Partners,2014.0,22000000.0
+Tellabs,4012.0,22000000.0
+GE Energy,2011.0,22000000.0
+Frontier Investments Group,6038.0,22000000.0
+Humana,2007.0,22000000.0
+Bertelsmann Digital Media Investments,12080.0,22000000.0
+U.S. Geothermal,2010.0,22000000.0
+Sagamore Investments,2012.0,22000000.0
+SAIC,2009.0,22000000.0
+Convergent Capital Management (CCM) US,6039.0,22000000.0
+reinmkr capital,20113.0,21950000.0
+Enable Capital Management,6023.0,21950000.0
+Cypress Growth Capital,12075.0,21900000.0
+MFI Capital,4018.0,21900000.0
+Female Founders Fund,18126.0,21888000.0
+Gartmore Investment Management,6016.0,21810000.0
+Sears Capital Management,6035.0,21600000.0
+American Medical Systems,2011.0,21600000.0
+New World Angels,12073.0,21600000.0
+Amkey Ventures,6026.0,21570000.0
+Ohio TechAngels Fund,24143.0,21550000.0
+Signal Lake,4016.0,21500000.0
+Efficacy Capital,2006.0,21500000.0
+Riverbank Capital Securities,4021.0,21500000.0
+Beacon Angels,14078.0,21475000.0
+Microventures,12081.0,21426000.0
+BioGenerator,46280.0,21321000.0
+Interplay Ventures,4027.0,21109590.0
+The Zitelman Group,4020.0,21100000.0
+B7inc,4027.0,21100000.0
+Enerdigm Ventures,10062.0,21059548.0
+Agilent Technologies,2013.0,21000000.0
+Kestrel Asset Management,2011.0,21000000.0
+"Riordan, Lewis & Haden Equity Partners",4027.0,21000000.0
+Redwood Venture Partners,6017.0,21000000.0
+Emergent Game Technologies,4017.0,21000000.0
+Outerwall,4023.0,21000000.0
+Red Maple Ventures,2009.0,21000000.0
+Tenex Greenhouse Ventures,4010.0,21000000.0
+AMC Networks,8054.0,21000000.0
+Lemnos Labs,20134.0,20905924.0
+819 Capital,6038.0,20900000.0
+Trailblazer Capital,20123.0,20800000.0
+Northport Private Equity,6023.0,20750000.0
+United Parcel Service,4026.0,20700000.0
+Wefunder,44297.0,20680000.0
+Pittco Capital Partners,8040.0,20600000.0
+Chattanooga Renaissance Fund,84545.0,20557612.0
+Steelcase,6039.0,20550000.0
+McLean Capital,4015.0,20550000.0
+Logitech,6039.0,20550000.0
+Vicente Capital Partners,6030.0,20500000.0
+Asus,4013.0,20500000.0
+Starr International Company,2009.0,20480000.0
+JAIC America,8029.0,20400000.0
+Oxantium Ventures,8035.0,20327370.0
+State of Wisconsin Investment Board,8053.0,20325000.0
+ZIG Capital,14076.0,20200000.0
+Cloud Power Capital,26166.0,20105000.0
+BrownSavano Direct Capital Partners,2014.0,20000000.0
+Lava Ventures,2009.0,20000000.0
+TZP Group,6036.0,20000000.0
+MEMC Electronic Materials,2009.0,20000000.0
+Brentwood Associates,2013.0,20000000.0
+Olayan,2008.0,20000000.0
+Take-Two Interactive Software,2013.0,20000000.0
+MGM Resorts International,2014.0,20000000.0
+Osage Partners,4029.0,20000000.0
+LaunchCyte,4014.0,20000000.0
+Binary Financial,2014.0,20000000.0
+Spangler Group,2007.0,20000000.0
+CompuCredit,2013.0,20000000.0
+AmazonFresh,2014.0,20000000.0
+Sammons Enterprises,2007.0,20000000.0
+Georgia Electronic Design Center,2007.0,20000000.0
+Moderna Therapeutics,2014.0,20000000.0
+Monomoy Capital Partners,2014.0,20000000.0
+Centerview Capital,2013.0,20000000.0
+Upstart Life Ventures,2015.0,20000000.0
+Celerity Partners,2007.0,20000000.0
+Asia West,2008.0,20000000.0
+NDS Group,2010.0,20000000.0
+Saratoga Investment Corp,2014.0,20000000.0
+KGI Partners,2005.0,20000000.0
+Megunticook Management,8015.0,20000000.0
+Amylin Pharmaceuticals,4014.0,20000000.0
+Iron Gate Capital,2014.0,20000000.0
+Netscape,2014.0,20000000.0
+Robert W. Baird & Co.,2011.0,20000000.0
+McNally Capital,2013.0,20000000.0
+Kramer Capital Partners,4014.0,20000000.0
+American Electric Power,2013.0,20000000.0
+Edgewater,4008.0,20000000.0
+NewSpring Ventures,6026.0,20000000.0
+Symphony Capital,2006.0,20000000.0
+Participant Media,2012.0,20000000.0
+Peppertree Capital Fund,2006.0,20000000.0
+Qualcomm Atheros,2010.0,20000000.0
+Symyx,2009.0,20000000.0
+Petra Partners,2010.0,20000000.0
+TE Connectivity,4024.0,20000000.0
+Astia Angels,32219.0,19924558.0
+645 Ventures,18126.0,19900000.0
+SG Cowen,4024.0,19900000.0
+XMi High Growth Development Fund,54343.0,19898156.0
+Third Wave Ventures,6026.0,19700000.0
+William Harris Investors,6006.0,19700000.0
+NGP Capital Resources Company,2005.0,19700000.0
+Apex Capital,2005.0,19600000.0
+Mobility Ventures,6032.0,19540000.0
+New York Life Investment Management,4014.0,19530000.0
+Croghan Investments,8043.0,19520000.0
+Lyrical Partners,4023.0,19500000.0
+Cambridge Consultants,4027.0,19425585.0
+Coyote Ridge Ventures,10070.0,19405000.0
+Resonant Venture Partners,14086.0,19400000.0
+Calumet Venture Fund,10058.0,19400000.0
+Krillion Ventures,14098.0,19300000.0
+DreamFunded,10070.0,19283992.0
+Pacific Partners,6032.0,19149700.0
+Titanium Investments,10068.0,19100000.0
+Occam Capital,4020.0,19090000.0
+Bristol Capital Advisors,4010.0,19030000.0
+Sourcefire,2013.0,19000000.0
+Vision Opportunity Master Fund,2008.0,19000000.0
+Mansa Capital,8056.0,19000000.0
+Zebra Technologies,2013.0,19000000.0
+Staley Capital Advisors,6033.0,19000000.0
+Workday,2013.0,19000000.0
+"Kapor Enterprises, Inc.",4010.0,19000000.0
+Lake Capital,4016.0,18970000.0
+Tethys BioScience,2013.0,18913020.0
+Spring Capital Partners,4020.0,18800000.0
+Spring Bay Ventures,8039.0,18800000.0
+Maxfield Capital,40275.0,18750000.0
+Talon Capital Partners,8036.0,18708766.0
+Quadriga Capital,4015.0,18705000.0
+Gravity Ventures,18101.0,18680000.0
+Rodman & Renshaw,2006.0,18600000.0
+Gladstone Investment Corporation,2014.0,18600000.0
+HBK Investments,2006.0,18600000.0
+Banc of America Securities,2006.0,18600000.0
+Acqua Wellington Asset Management,2006.0,18600000.0
+New Millenium Partners,6001.0,18500000.0
+Golden Gate Capital,6025.0,18500000.0
+The Peierls Foundation,6022.0,18500000.0
+Next Generation Ventures,2005.0,18500000.0
+Intersections,4020.0,18500000.0
+CIC Partners,2005.0,18500000.0
+Security Growth Partners,6032.0,18500000.0
+Illinois Metropolitan Investment Fund,2008.0,18500000.0
+Flextronics Lab IX,6042.0,18500000.0
+Relevance Capital,10065.0,18450145.0
+Sanmina-SCI,2005.0,18400000.0
+Lexington Venture,4011.0,18400000.0
+CKM Capital Partners,10065.0,18360397.0
+Velocity Partners,4013.0,18300000.0
+Equity Resources Group,4013.0,18300000.0
+Accion,14095.0,18300000.0
+Boston Capital Ventures,8026.0,18250000.0
+Galvanize Ventures,42292.0,18249999.0
+Elevate Ventures,28185.0,18202359.0
+Mezzanine Capital Partners,2008.0,18200000.0
+Balch Hill Capital,4021.0,18200000.0
+Amphion Innovations,12037.0,18150000.0
+Capital Partners,10049.0,18140000.0
+Boynton Angels,4026.0,18100000.0
+StartCaps Ventures,28187.0,18070290.0
+dunnhumby Ventures,10070.0,18050000.0
+Capital Southwest Corporation,4018.0,18000000.0
+Universal Health Services,2001.0,18000000.0
+Ardour Capital Investments,2008.0,18000000.0
+Merrill Lynch Ventures,2001.0,18000000.0
+SCP Worldwide,4016.0,18000000.0
+Crossbow Ventures,2006.0,18000000.0
+Murphree Venture Partners,6024.0,18000000.0
+RNS Capital,2012.0,18000000.0
+DNS-L3,2013.0,18000000.0
+Juggernaut Capital Partners,2011.0,18000000.0
+Nektar Therapeutics,2008.0,18000000.0
+Concentric Equity Partners,6025.0,18000000.0
+Fort Point Angels,30193.0,17994440.0
+i/o Ventures,40221.0,17990000.0
+Morgan Stanley Alternative Investment Partners,4021.0,17892602.0
+MidMark Capital,2006.0,17880000.0
+AE Ventures,2011.0,17769846.0
+Tailwind Capital,2010.0,17755532.0
+Invoke Capital Partners,4029.0,17750000.0
+Mistral Venture Partners,6043.0,17745454.0
+Rally Capital Services,4021.0,17700000.0
+Shoreline Venture Management,4020.0,17700000.0
+Bio-Techne,2006.0,17700000.0
+Tennessee Community Ventures,32200.0,17646452.0
+Sippl MacDonald Ventures,6017.0,17600000.0
+Emerald Stage2 Ventures,24128.0,17550000.0
+AMD Ventures,4026.0,17500000.0
+HealthpointCapital,6039.0,17500000.0
+Smithfield Trust,4024.0,17450000.0
+Edison Electric Institute,2008.0,17430000.0
+Ben Franklin Technology Partners,4025.0,17400000.0
+Cornerstone Capital,4018.0,17330000.0
+Innovate Indiana Fund,26167.0,17314999.0
+Matthew Pritzker Company,8049.0,17250000.0
+Riverfront Ventures,4028.0,17250000.0
+Atalaya Capital,2014.0,17200000.0
+Atlantic Capital Group,4020.0,17200000.0
+AlphaPrime Ventures,12082.0,17200000.0
+City Hill Ventures,10062.0,17150000.0
+Midsummer Capital,8046.0,17133133.0
+RCI,4017.0,17100000.0
+Anthos Capital,6035.0,17000000.0
+DEFTA Partners,6018.0,17000000.0
+Govtech Fund,2014.0,17000000.0
+Ames Seed Capital,2008.0,17000000.0
+Iowa Capital Management,2008.0,17000000.0
+Bison Capital Asset Management,4028.0,17000000.0
+Ovation Capital Partners,2008.0,17000000.0
+Midwest Oilseeds,2008.0,17000000.0
+Cherokee & Walker,4024.0,17000000.0
+CM Equity Partners,2007.0,17000000.0
+Vermont Seed Capital Fund,12073.0,16975000.0
+Mayfair Venture Capital,2006.0,16940000.0
+Wasabi Ventures,84457.0,16878124.0
+YouWeb,12074.0,16850000.0
+The Athenaeum Fund,2007.0,16800000.0
+Green Visor Capital,28193.0,16800000.0
+HMS Ventures,4007.0,16800000.0
+HealthCare Partners,2014.0,16798000.0
+Accelerator Fund,6042.0,16795000.0
+Genesis Capital,4017.0,16793100.0
+Wilmington Investor Network,16076.0,16776866.0
+Cava Capital,10056.0,16750000.0
+Capybara Ventures,6016.0,16700000.0
+Brooke Private Equity Advisors,6017.0,16700000.0
+Ascend Global Investments LLC,4028.0,16700000.0
+Columbia Pacific Advisors,10060.0,16600000.0
+Seaport Capital,8042.0,16600000.0
+Jacobs Asset Management,4027.0,16560000.0
+Hawkeye Investments,2009.0,16500000.0
+GLG,6033.0,16500000.0
+U.S. Department of Agriculture,6040.0,16499000.0
+Kolohala Ventures,6031.0,16409548.0
+Telenav,8052.0,16320000.0
+HBO,6033.0,16300000.0
+Florida Gulfshore Capital,6035.0,16300000.0
+Suffolk Equity Partners,8054.0,16300000.0
+Cross Atlantic Partners,10047.0,16290000.0
+Stephens Group,6026.0,16250000.0
+El Dorado Investment,6027.0,16250000.0
+Glenbrook Partners,4016.0,16200000.0
+Wand Partners,6019.0,16200000.0
+incTANK Ventures,4022.0,16200000.0
+Chestnut Ridge Capital,4020.0,16110000.0
+Bradford Capital Partners,2008.0,16100000.0
+Mirabilis Ventures,2006.0,16000000.0
+SaaS Capital,10063.0,16000000.0
+Newlight Management,6018.0,16000000.0
+Horizon Partners,2014.0,16000000.0
+Inventures,6026.0,16000000.0
+Entrepreneur Media,2015.0,16000000.0
+Rex Capital,2000.0,16000000.0
+MVP Capital,2007.0,16000000.0
+ExploraMed,2007.0,16000000.0
+Vandewater Capital Holdings,2015.0,16000000.0
+Dubilier & Company,2008.0,16000000.0
+Sterling Stamos Capital Mgmt,6022.0,15950000.0
+ASBC LLC,2011.0,15839694.0
+Humphrey Enterprises,4015.0,15800000.0
+Lazarus Israel Opportunities Fund,6041.0,15800000.0
+New York State Common Retirement Fund,8035.0,15750000.0
+Phenomenelle Angels,18079.0,15718177.0
+VeriFone,6026.0,15521193.0
+Brooklyn Bridge Ventures,24155.0,15515000.0
+US Invest,2012.0,15500000.0
+Mount Independence Investments,4026.0,15500000.0
+Petco,6041.0,15500000.0
+Prolific Venture Capital,18108.0,15450000.0
+Michael & Susan Dell Foundation,10069.0,15375000.0
+San Francisco Equity Partners,8029.0,15330000.0
+Foley Ventures,6042.0,15325000.0
+Acidophil,4018.0,15312475.0
+The Lambda Funds,8039.0,15300000.0
+iRobot,6038.0,15300000.0
+Persistence Partners,14067.0,15258942.0
+Granite Hill Capital Partners,4020.0,15250000.0
+Mack Capital,8051.0,15200000.0
+William Blair,6011.0,15200000.0
+Angel Street Capital,18110.0,15153967.0
+Minor Ventures,22068.0,15100000.0
+New Richmond Ventures,8055.0,15100000.0
+Commons Capital,8030.0,15020000.0
+Duke University,6035.0,15020000.0
+Edgewater Private Equity Fund,4014.0,15000000.0
+A.G. Edwards & Sons,2005.0,15000000.0
+Alopexx Enterprises,2014.0,15000000.0
+General Communication,2014.0,15000000.0
+Hartford Ventures,4022.0,15000000.0
+Tarsadia Investments,2013.0,15000000.0
+Cerner Corporation,2015.0,15000000.0
+NCR,2007.0,15000000.0
+QVC,1999.0,15000000.0
+Live Nation Entertainment,4024.0,15000000.0
+Viscogliosi Brothers,2010.0,15000000.0
+Tyco Retail Solutions,2011.0,15000000.0
+EchoStar,2009.0,15000000.0
+Allegiance Capital,2000.0,15000000.0
+Gemini Investors,8053.0,15000000.0
+LabCorp,2014.0,15000000.0
+Random House,4022.0,15000000.0
+Aligned Partners,6042.0,15000000.0
+ITC Holdings,2014.0,15000000.0
+Synergy Partners International,2008.0,15000000.0
+Yucaipa Corporate Initiatives Fund,2005.0,15000000.0
+UTA Capital,2010.0,15000000.0
+Johnson Controls,4018.0,15000000.0
+TruePosition,2008.0,15000000.0
+Toshiba America Electronic Components,4026.0,15000000.0
+Citrix Online,2009.0,15000000.0
+Great Road Holdings,2014.0,15000000.0
+GMB Mezzanine,2010.0,15000000.0
+Axel Johnson,2012.0,15000000.0
+Blum Capital Partners,2005.0,15000000.0
+Caribou Biosciences,2014.0,15000000.0
+ServiceMaster,2001.0,15000000.0
+Peabody Energy,2010.0,15000000.0
+Forrest Binkley & Brown,2000.0,15000000.0
+Fog City Capital,4022.0,15000000.0
+GungHo,2014.0,15000000.0
+Northrop Grumman,2011.0,15000000.0
+Halyard Capital,2013.0,15000000.0
+Brierley+Partners,1999.0,15000000.0
+Alumni Capital Network,2010.0,15000000.0
+Swiftsure Capital,6034.0,15000000.0
+Garmin,4010.0,15000000.0
+Expa,2013.0,15000000.0
+Annex Ventures,4012.0,15000000.0
+Revolution Health,2007.0,15000000.0
+Tektronix,2007.0,15000000.0
+National Healthcare Services,4019.0,14900000.0
+Research Corporation Technologies,4027.0,14900000.0
+Gray Ghost Ventures,6037.0,14900000.0
+Diker Management,4013.0,14820000.0
+Centrecourt Asset Management,4011.0,14800000.0
+Kline Hawkes & Co,16028.0,14750000.0
+Pentair,6034.0,14747426.0
+Weld North,6038.0,14700000.0
+GE Commercial Finance,4012.0,14700000.0
+Best Buy,8036.0,14700000.0
+Hallett Capital,12074.0,14650000.0
+Kidron,2009.0,14500000.0
+"DCL Ventures, Inc.",2014.0,14500000.0
+Community Newspaper Holdings,2014.0,14500000.0
+GateHouse Media Inc.,2014.0,14500000.0
+Cloquet Capital Partners,4018.0,14500000.0
+"Jordan, Edmiston Group",2005.0,14500000.0
+Charter School Growth Fund,2013.0,14500000.0
+Independence Equity,8055.0,14500000.0
+MediaNews Group,2014.0,14500000.0
+Entegris,2008.0,14500000.0
+Leukemia & Lymphoma Society,4025.0,14400000.0
+Corporate Executive Board(CEB),6033.0,14400000.0
+Epidarex Capital,8057.0,14323351.0
+BIP Opportunities Fund,6033.0,14300000.0
+Strategis Early Ventures,4016.0,14300000.0
+Wells Fargo Startup Accelerator,6042.0,14250000.0
+Agman Partners,2009.0,14200000.0
+Torrey Pines Investment,6042.0,14200000.0
+PICO Holdings,4021.0,14000000.0
+Clear Fir Partners,6030.0,14000000.0
+"East Peak, Inc.",4017.0,14000000.0
+Start Up Farms International,2012.0,14000000.0
+Trellis Bioscience,2006.0,14000000.0
+Bear Ventures,6000.0,14000000.0
+Triage Ventures,6038.0,14000000.0
+SilverStream Capital,2013.0,14000000.0
+Argon Venture Partners,2005.0,14000000.0
+Stone Canyon Venture Partners,6016.0,14000000.0
+Cardinal Health,2006.0,14000000.0
+3M,4027.0,14000000.0
+Windforce Ventures,20132.0,13975000.0
+RSE Ventures,12077.0,13972000.0
+Ironwood Capital,20110.0,13950000.0
+Progress Ventures,14079.0,13950000.0
+Cascadia Partners,6020.0,13920000.0
+Louisiana Technology Innovation Fund,8034.0,13900000.0
+Express Ventures,6020.0,13900000.0
+Access Private Equity,2008.0,13900000.0
+Gunderson Dettmer,10050.0,13800000.0
+Mentor Graphics,4018.0,13797546.0
+New Vantage Group,8032.0,13720000.0
+Alignment Capital Group,4012.0,13700000.0
+Zipcar,4021.0,13700000.0
+Coghill Capital Management,6023.0,13690000.0
+Bluegrass Angels,4024.0,13600000.0
+QWave Capital,8052.0,13600000.0
+Pittsburgh Equity Partners,10062.0,13600000.0
+REach,30203.0,13575000.0
+Fisher Investments,2004.0,13500000.0
+Armstrong Group and Associated Partners,2007.0,13500000.0
+Oklahoma Life Science Fund,4023.0,13500000.0
+The Cross Country Group,4015.0,13500000.0
+Fox Interactive Media,2006.0,13500000.0
+Kleinheinz Capital Partners,2010.0,13500000.0
+Geolo Capital,4015.0,13500000.0
+Pinto Technology Ventures,2004.0,13500000.0
+Cannell Capital,2010.0,13500000.0
+Indicator Ventures,14095.0,13448670.0
+Alchemist Accelerator,134862.0,13428000.0
+Capital Trust Ventures,4016.0,13400000.0
+PacifiCap,4019.0,13400000.0
+Emulex,2007.0,13360000.0
+Spansion,2007.0,13300000.0
+Onondaga Venture Capital Fund,2011.0,13300000.0
+Circle T Partners,6012.0,13300000.0
+3G Capital Partners,4026.0,13260000.0
+Confluence Capital,26178.0,13245000.0
+BBG Ventures,8057.0,13200000.0
+T2 Venture Creation,8041.0,13176852.0
+Edelman Financial Group,4010.0,13120000.0
+Columbus Nova,4013.0,13100000.0
+SeedInvest,18123.0,13065000.0
+PacRim Venture Partners,10018.0,13050000.0
+Overbrook Entertainment,8042.0,13035000.0
+Seven Peaks Ventures,12085.0,13028517.0
+Maryland Health Care Product Development,2010.0,13012475.0
+Houston Angel Network,4026.0,13000000.0
+Old Willow Partners,6036.0,13000000.0
+Startup:Education,4026.0,13000000.0
+Cars.com,2013.0,13000000.0
+Altpoint Capital Partners,2012.0,13000000.0
+Louisiana Fund I,6030.0,13000000.0
+Battery,2013.0,13000000.0
+Redmont Venture Partners,4017.0,13000000.0
+ProtoStar Partners,2009.0,13000000.0
+Healthcare Growth Partners - HGP,2014.0,13000000.0
+Cardinal Capital Partners,2009.0,13000000.0
+VFormation,6034.0,12900000.0
+DLA Piper,4022.0,12800000.0
+Tenfore Holdings,4028.0,12800000.0
+WestView Capital Partners,10053.0,12800000.0
+Agile Capital Partners,4019.0,12800000.0
+Fairbridge Venture Partners,4022.0,12780000.0
+Frontera Capital,6024.0,12750000.0
+Y Ventures,8036.0,12750000.0
+IncWell,10065.0,12750000.0
+Martha Stewart Living Omnimedia,8036.0,12750000.0
+de Anda Capital,6037.0,12700000.0
+J.S. Oliver Capital Management,2015.0,12700000.0
+Paramount BioCapital Asset Management,4015.0,12700000.0
+Aberdeen Asset Management,4011.0,12660000.0
+US Department of Energy,12072.0,12649430.0
+CSA Partners LLC,16108.0,12625000.0
+Capstone Partners,6033.0,12600000.0
+Strive Capital,14083.0,12600000.0
+Ingleside Investors,2011.0,12600000.0
+NYU Innovation Venture Fund,18115.0,12545000.0
+Greywolf Capital Partners,2008.0,12500000.0
+Alliance Healthcare Partners,2014.0,12500000.0
+Chesapeake Solar,2013.0,12500000.0
+Rex Health Ventures,4027.0,12500000.0
+G8 Capital,2014.0,12500000.0
+GTCR Golder Rauner,4005.0,12500000.0
+Retro Venture Partners,8047.0,12450000.0
+Samson Venture Partners,4021.0,12400000.0
+Acceleprise Ventures,60392.0,12360000.0
+SCO Capital Partners,6018.0,12330000.0
+Themelios Ventures,6035.0,12300000.0
+Energy Focus,2010.0,12300000.0
+Illinois Finance Authority,4012.0,12300000.0
+KLM Capital Group,4011.0,12300000.0
+Corsa Ventures,4027.0,12259004.0
+GeekWire,2013.0,12200000.0
+Crestview Capital,4011.0,12190000.0
+Cavallino Capital,6036.0,12125000.0
+Plymouth Management,10057.0,12100000.0
+Designer Fund,8056.0,12100000.0
+Lunsford Capital,4015.0,12100000.0
+Bluefish Ventures,4015.0,12100000.0
+Industrial Technology Ventures,4014.0,12100000.0
+Grauer Brothers Capital,10043.0,12083000.0
+MI Ventures,22126.0,12060000.0
+Element 8,10062.0,12050000.0
+Taglich Brothers,4028.0,12025000.0
+Dignity Health,2013.0,12000000.0
+Honda Automobiles,2005.0,12000000.0
+Trillium Group,6030.0,12000000.0
+Violin Memory,2013.0,12000000.0
+ATX Tech Incubator,2014.0,12000000.0
+Bachmann Industries,4015.0,12000000.0
+Merck & Co.,4023.0,12000000.0
+Enhanced Equity Fund,8041.0,12000000.0
+Coupons.com,2011.0,12000000.0
+YankeeTek Ventures,2006.0,12000000.0
+KBI Biopharma,2014.0,12000000.0
+Alcentra Capital Corporation,2014.0,12000000.0
+Raycliff Capital,4013.0,12000000.0
+Endeavor Capital Management,2005.0,12000000.0
+Touradji Capital Management,2010.0,12000000.0
+Cedars Sinai Medical Center,2014.0,12000000.0
+Timucuan Asset Management,2014.0,12000000.0
+Mylan,2013.0,12000000.0
+Cinergy Ventures,2005.0,12000000.0
+Rackspace,6030.0,12000000.0
+Meruelo Capital Partners,2007.0,12000000.0
+DaVita,2013.0,12000000.0
+Fresenius Medical Care North America,2014.0,12000000.0
+AlphaLab,176981.0,12000000.0
+St. Cloud Capital,2007.0,12000000.0
+Copan Systems,2007.0,12000000.0
+Belden,2006.0,12000000.0
+Atrium Capital,4011.0,12000000.0
+Triton Systems,2014.0,12000000.0
+North Bay Angels,10045.0,11988000.0
+Revel Partners,8050.0,11900000.0
+Start Garden,26176.0,11828219.0
+Reuters,4001.0,11800000.0
+Hamilton Investment Partners,4019.0,11800000.0
+Redleaf Group,4016.0,11700000.0
+Harbor View Advisors,6019.0,11639000.0
+VenGlobal Capital,4013.0,11630000.0
+Bunge,2009.0,11600000.0
+Meyer Ventures,6033.0,11600000.0
+Sierra Angels,18087.0,11516800.0
+Linden Asset Management,2010.0,11500000.0
+Scorpion Capital Partners,2009.0,11500000.0
+Defiance Capital,2010.0,11500000.0
+DKR Capital,4012.0,11500000.0
+Pivotal Investments,4026.0,11500000.0
+Charleston Angel Partners,8039.0,11500000.0
+Northwestern University,2013.0,11500000.0
+7wire Ventures,10067.0,11500000.0
+Axial,2010.0,11400000.0
+2M Companies,4016.0,11360000.0
+First Step Fund,24150.0,11360000.0
+General Growth Properties,4027.0,11350000.0
+Macerich,4027.0,11350000.0
+i2E,28175.0,11329999.0
+Cooperative Capital,4028.0,11300000.0
+Lenovo,4023.0,11300000.0
+InnoSpring Seed Fund,40254.0,11250000.0
+Integrity Partners,4000.0,11200000.0
+Integrated Device Technology,2011.0,11200000.0
+Crawley Ventures,6041.0,11200000.0
+Imagine K12,90576.0,11117147.0
+Experiment Fund,6039.0,11100000.0
+Bear Creek Capital,4026.0,11050000.0
+Sarsia Seed Management,10052.0,11038000.0
+J. Burke Capital Partners,2009.0,11000000.0
+Mandalay Sports Media (MSM),2014.0,11000000.0
+Gibraltar Business Capital,4025.0,11000000.0
+DCA Capital Partners,4020.0,11000000.0
+Sagus Capital Partners,2005.0,11000000.0
+Riverside Company,10066.0,11000000.0
+Townsend Ventures,2010.0,11000000.0
+Silicon Pastures,12061.0,10918177.0
+Blue Water Angels,8052.0,10905042.0
+Defense Advanced Research Projects Agency,4027.0,10900000.0
+LeoGroup,4026.0,10857367.0
+Telegraph Hill Capital,36226.0,10850353.0
+DreamWorks Animation,2014.0,10850000.0
+MF Capital,4015.0,10800000.0
+Excelestar Ventures,2014.0,10800000.0
+Alphaworks,4028.0,10800000.0
+Nueva Ventures,14057.0,10795000.0
+eonCapital,28144.0,10753000.0
+Mistral Equity Partners,4026.0,10748000.0
+NEW Capital Fund,10055.0,10746000.0
+American Family Insurance,6036.0,10743000.0
+CDTI,20111.0,10734814.0
+R. B. Webber & Co.,6027.0,10732308.0
+Ford Venture Capital Group,2005.0,10700000.0
+Zignal Labs,2014.0,10700000.0
+9+,14094.0,10695000.0
+Spell Capital Partners,2013.0,10640000.0
+Associated Bank,2013.0,10640000.0
+Parinvest,2012.0,10630400.0
+Agile Opportunity Fund,4017.0,10600000.0
+Lion Wells Ventures,6040.0,10600000.0
+Serent Capital,14086.0,10600000.0
+Lanza Tech Ventures,6023.0,10510000.0
+Provenance Ventures,6026.0,10500000.0
+Excell Partners,10061.0,10500000.0
+Littelfuse,2012.0,10500000.0
+Juvo Capital,4024.0,10400000.0
+Mariner Capital Ventures,4017.0,10360540.0
+Crestview Partners,4015.0,10360000.0
+Chesapeake Partners Management,2007.0,10340000.0
+Elixir Capital Management,4029.0,10305547.0
+Rockmore Capital,4019.0,10304277.0
+Franklin Advisors,2005.0,10300000.0
+China Rock Capital,8055.0,10300000.0
+HBC Investments,2013.0,10250000.0
+Merion Investment Partners,4013.0,10200000.0
+Peak Ridge Capital,6033.0,10200000.0
+Wavepoint Ventures,10044.0,10160000.0
+QinetiQ,4011.0,10130000.0
+Prana Studios,2013.0,10100000.0
+Milcom Ventures Partners,4016.0,10100000.0
+Roser Ventures,4021.0,10100000.0
+Fortis,4006.0,10080000.0
+North Run Capital Partners,2005.0,10060000.0
+CNET Networks,4006.0,10053887.0
+BancVue,2014.0,10041088.0
+Zagat,2000.0,10000000.0
+Kopin Corporation,2012.0,10000000.0
+Saehan,2007.0,10000000.0
+Intervale Capital,4023.0,10000000.0
+Tamarix Capital,2013.0,10000000.0
+IQT,2010.0,10000000.0
+Gilo Ventures,2008.0,10000000.0
+Argonaut Holdings,2007.0,10000000.0
+Travel Channel,2011.0,10000000.0
+Conning,2000.0,10000000.0
+M2O,2014.0,10000000.0
+Highfields Capital Management,2007.0,10000000.0
+Winona Capital Management,4021.0,10000000.0
+BroadVision,2000.0,10000000.0
+Young & Associates,2013.0,10000000.0
+AIG Highstar Capital,2007.0,10000000.0
+Jacobs Capital Group,2005.0,10000000.0
+Metropolitan Equity Partners,2012.0,10000000.0
+Heartland Capital Network,2006.0,10000000.0
+Prime Capital,2008.0,10000000.0
+Mr. Youth,4020.0,10000000.0
+Sony Entertainment Network,4022.0,10000000.0
+Entropy Research Lab,2013.0,10000000.0
+Early Warning Services,2013.0,10000000.0
+Bush O’Donnell,2013.0,10000000.0
+TeraDiode,2011.0,10000000.0
+Summer Street Capital Partners,2014.0,10000000.0
+VeriSign,2002.0,10000000.0
+Media Technology Ventures,2010.0,10000000.0
+Seed Capital Partners,2005.0,10000000.0
+Beacon Equity Partners,2008.0,10000000.0
+Skycore,2011.0,10000000.0
+FastPay,2014.0,10000000.0
+Comdisco,2007.0,10000000.0
+Dublin Capital Partners,4023.0,10000000.0
+UPS,2015.0,10000000.0
+Finisar,2008.0,10000000.0
+The Halo Group,2009.0,10000000.0
+Selway Partners,2006.0,10000000.0
+Gries Investment Funds,2014.0,10000000.0
+Semmle Capital Partners,4025.0,10000000.0
+Semtech,4026.0,10000000.0
+Limelight Networks,2010.0,10000000.0
+Kaiser Permanente,2010.0,10000000.0
+Boathouse Capital,2013.0,10000000.0
+Flexpoint Ford,2013.0,10000000.0
+ECB Capital,2015.0,10000000.0
+Dean Foods,2007.0,10000000.0
+Azalea Capital,2013.0,10000000.0
+Deloitte Consulting,2000.0,10000000.0
+"CBOE Holdings, Inc.",2011.0,10000000.0
+Auctus Private Equity Fund,2011.0,10000000.0
+Synergy Capital,2014.0,10000000.0
+Qwest,2010.0,10000000.0
+Exigen Capital,2008.0,10000000.0
+Hoffmann-La Roche,2012.0,9999997.0
+Grand Angels,10058.0,9945042.0
+Generator Ventures,6044.0,9900000.0
+Central Valley Fund,6038.0,9900000.0
+Xandex Investments LLP,6040.0,9900000.0
+Allianz Life Insurance,4020.0,9880000.0
+Simon Property Group,6041.0,9800000.0
+Advanced Technology Development Center,6023.0,9800000.0
+Somerset Capital,2014.0,9760000.0
+Ceres Venture Fund,4016.0,9750000.0
+Stanford Management,4010.0,9750000.0
+Deciens Capital,16104.0,9720000.0
+Wisconsin Alumni Research Foundation,4028.0,9700000.0
+BB&T Capital Partners,2011.0,9700000.0
+Boost VC,14096.0,9660000.0
+Barbara Corcoran Venture Partners,6043.0,9655000.0
+Gem,2015.0,9600000.0
+Rockefeller Financial Services,2001.0,9500000.0
+Michigan eLab,4029.0,9500000.0
+eBay Enterprise,2013.0,9500000.0
+Green Peak Partners,4010.0,9500000.0
+Salt Lake Life Science Angels,8042.0,9500000.0
+Shah Capital Partners,6041.0,9500000.0
+Bear Equity,4015.0,9500000.0
+Viridian Investment Partners,4015.0,9500000.0
+Nebraska Angel Network,16103.0,9470000.0
+U.S. Department of Defense,2013.0,9450000.0
+CommerceNet,10029.0,9425000.0
+Moneta Ventures,10072.0,9400000.0
+RNR Ventures,2006.0,9400000.0
+Shiprock Capital,4013.0,9390000.0
+Qbic Fund,4028.0,9365050.0
+SoundBoard Angel Fund,20129.0,9322072.0
+Cutlass Capital,2010.0,9300000.0
+Citizen.VC,26174.0,9300000.0
+John Hancock Investments,2001.0,9300000.0
+Ayzenberg Group,2011.0,9300000.0
+The eCoast Angel Network,14068.0,9200000.0
+Kii Capital,14080.0,9200000.0
+Dali Hook Partners,2003.0,9200000.0
+SVG Partners,4027.0,9200000.0
+Trail Blazer Capital,2013.0,9200000.0
+Seneca Partners,6038.0,9120574.0
+Gabriel Investments,10062.0,9120000.0
+Jackson Boulevard Capital Management,4012.0,9100000.0
+National Cancer Institute,6040.0,9100000.0
+Khosla Impact,8053.0,9100000.0
+First Eagle,2007.0,9100000.0
+Broadway Angels,6042.0,9100000.0
+Fisher Capital,8042.0,9100000.0
+Undercurrent,10066.0,9062500.0
+Urban.Us,30205.0,9040000.0
+Brown Shoe Company,2014.0,9000000.0
+Laura Arrillaga-Andreessen Foundation,2015.0,9000000.0
+Webroot,2010.0,9000000.0
+CramerOnline,6016.0,9000000.0
+BioLucent,2008.0,9000000.0
+Raytheon Co.,2005.0,9000000.0
+Windamere Venture Partners,2008.0,9000000.0
+MedFocus Fund,2006.0,9000000.0
+Consor Capital,8031.0,9000000.0
+Competitor Group,2012.0,9000000.0
+Harris Preston & Partners,4014.0,9000000.0
+VivaKi,2013.0,9000000.0
+Vineyard Capital Group,4022.0,9000000.0
+GTD Capital Holdings,2009.0,9000000.0
+Fog City Fund,2008.0,9000000.0
+AlpInvest Partners,2005.0,9000000.0
+Maine Venture Fund,8030.0,8962000.0
+[212]Media,4027.0,8950000.0
+Mercury Capital Partners,4021.0,8945214.0
+Castle Creek Partners,4010.0,8880000.0
+Structure Fund,34231.0,8850000.0
+Citrix Startup Accelerator,50302.0,8825000.0
+Maxwell Biotech Venture Fund,2014.0,8813715.0
+Melton Investments,2008.0,8800000.0
+Mid-America Transplant Services,2007.0,8800000.0
+Proteus Digital Health,2014.0,8800000.0
+Amerivon,2007.0,8800000.0
+NSV,16054.0,8700000.0
+HSBC Retail Services,2006.0,8700000.0
+AH Ventures,4019.0,8684150.0
+Next Chapter Holdings,2009.0,8600000.0
+Outfitter Ventures,2006.0,8600000.0
+Women Angels,6027.0,8550000.0
+TEC Ventures,24157.0,8550000.0
+Austral Capital,6035.0,8544000.0
+Summit Capital,12068.0,8538500.0
+WTP Capital,2006.0,8520000.0
+Kaplan,6035.0,8500170.0
+Codding Enterprises,2006.0,8500000.0
+Keegan & Coppin Company,2006.0,8500000.0
+Link Ventures,8054.0,8500000.0
+Hughes Ventures,2005.0,8500000.0
+Nike,6038.0,8500000.0
+Change Partners,6020.0,8500000.0
+Whelan Capital Management,4017.0,8500000.0
+Lacuna LLC,8030.0,8500000.0
+Hatch Ventures,4018.0,8500000.0
+Discovery Ventures Corporation,2005.0,8500000.0
+PV Ventures,20124.0,8463900.0
+Quest Capital,6020.0,8462089.0
+Glengary Ventures,4024.0,8435040.0
+Covington Associates,4014.0,8430000.0
+Gracenote,4019.0,8400000.0
+"CFO Rick, Inc.",2007.0,8387128.0
+American Public Media,4013.0,8300000.0
+Arch Development Partners,2005.0,8300000.0
+Betaspring,144841.0,8281000.0
+Raytheon BBN Technologies,2009.0,8250000.0
+2020 Ventures,14085.0,8250000.0
+V-Ten Capital,2013.0,8250000.0
+Morrison & Foerster LLP.,2014.0,8232745.0
+Jumpstart Ventures ,4029.0,8230000.0
+Dutchess Opportunity Fund,20139.0,8225000.0
+National Cancer Institute (NCI),4028.0,8215740.0
+Nypro,2010.0,8200000.0
+Riot Games,2013.0,8200000.0
+Cengage Learning,4028.0,8200000.0
+Harland Financial Solutions,2012.0,8200000.0
+Turnstone Capital Management,2010.0,8200000.0
+Ariba,2015.0,8199999.0
+RightVentures,46269.0,8170000.0
+National Renewable Energy Laboratory,2010.0,8166667.0
+AgFunder,6042.0,8150000.0
+venVelo,6043.0,8100000.0
+Verge Funds,10033.0,8100000.0
+Wasserstein & Co.,4015.0,8100000.0
+Blank Slate Ventures,34216.0,8070000.0
+Go Capital,4029.0,8040775.0
+Victoria Park Capital,6022.0,8032464.0
+Atherton Venture Partners,2006.0,8000000.0
+Shaw Venture Partners,2013.0,8000000.0
+Breakwater Investment Management,2014.0,8000000.0
+Green Spark Ventures,4020.0,8000000.0
+Toucan Capital,2008.0,8000000.0
+Radcliff Group,4022.0,8000000.0
+SoundView Ventures,2003.0,8000000.0
+Liberty Corporation,2002.0,8000000.0
+CBS Radio,2011.0,8000000.0
+Rock Hill Capital Group,6031.0,8000000.0
+Morgan Keegan Ventures,2006.0,8000000.0
+LongueVue Capital,2014.0,8000000.0
+Svoboda Capital,2005.0,8000000.0
+Blueboard,2000.0,8000000.0
+Evergreen Pacific Partners,6033.0,8000000.0
+Ashford Capital,2010.0,8000000.0
+Marcus & Millichap,2006.0,8000000.0
+SIAR Capital,2006.0,8000000.0
+Essex Property Trust,2006.0,8000000.0
+Palisades Technology Partners,2012.0,8000000.0
+Invitrogen,2008.0,8000000.0
+McGraw-Hill Education,4022.0,8000000.0
+Garland Capital Group,2013.0,8000000.0
+Meredith Corporation,2002.0,8000000.0
+Partners for Growth,2014.0,8000000.0
+United Dominion Realty Trust,2006.0,8000000.0
+Cornerstone OnDemand,4028.0,7960000.0
+MissionOG,14093.0,7950000.0
+Cane Investments LLC,6040.0,7950000.0
+North Texas Angel Network,4026.0,7950000.0
+Innovation Fund,18111.0,7919291.0
+Vianovo Ventures,2012.0,7900000.0
+AMD,8048.0,7886220.0
+HVF,6040.0,7800000.0
+Kuzari Group,4025.0,7800000.0
+Empire Ventures,4002.0,7800000.0
+MassChallenge,130746.0,7775400.0
+Portal Capital,6031.0,7750501.0
+Baker Hughes,2009.0,7750000.0
+Inspiration Ventures,10058.0,7750000.0
+zPark Capital,16110.0,7659000.0
+Zapis Capital Group,4026.0,7650501.0
+ClearArc Capital,2005.0,7630000.0
+Rima Management,2005.0,7630000.0
+Balyasny Asset Management,2005.0,7630000.0
+Carpe Diem Capital Management,2005.0,7630000.0
+Michigan Angel Fund,8054.0,7620397.0
+AH Belo,4018.0,7600000.0
+MkII Ventures,4025.0,7599700.0
+NIPR,4016.0,7560000.0
+Good Capital,4024.0,7550000.0
+Caerus Ventures,10069.0,7522414.0
+West End Holdings,2012.0,7500000.0
+Richard L. Scott Investments,2006.0,7500000.0
+Time Inc.,4015.0,7500000.0
+SRA International,2009.0,7500000.0
+Broidy Capital Management,2008.0,7500000.0
+Robert J. Mylod,4027.0,7500000.0
+Bluescape,2013.0,7500000.0
+BDC Capital Corporation,8052.0,7500000.0
+Allergan,2008.0,7500000.0
+Prospector Equity Capital,6021.0,7500000.0
+Fidelity Contrafund,2009.0,7500000.0
+Swift River Investments,4024.0,7500000.0
+HamiltonTech Capital Partners,2006.0,7500000.0
+SeriesG,2012.0,7499700.0
+BrightStar Wisconsin Foundation,4030.0,7450000.0
+Albion Investors,6028.0,7430000.0
+International Venture Fund,4016.0,7400000.0
+ICG Ventures,12082.0,7400000.0
+Octane Capital Management,2006.0,7400000.0
+Med-Metrix,4028.0,7400000.0
+NCI,4017.0,7368288.0
+SYNNEX,2005.0,7300000.0
+Noson Lawen Partners,12066.0,7300000.0
+Fidelis Capital,6041.0,7300000.0
+Dallas Venture Partners,4026.0,7300000.0
+Odyssey Investment Partners,4013.0,7250000.0
+Right Side Capital Management,30192.0,7246500.0
+Berwind Private Equity,6032.0,7200000.0
+NewWorld Capital Group LLC,4023.0,7200000.0
+VENTURE CAPITAL POST,2015.0,7200000.0
+"Ransomshire Associates, Inc.",2010.0,7200000.0
+Baltimore Angels,12075.0,7175000.0
+ArchAngels,4027.0,7165203.0
+Anduin Capital,8042.0,7150000.0
+Rockefeller Foundation,8050.0,7067200.0
+SEED Venture,2006.0,7062120.0
+Vogel Ventures,8053.0,7052993.0
+Bedrocket Media Ventures,6038.0,7050000.0
+Life Sciences Greenhouse of Pennsylvania,12053.0,7030000.0
+Odyssey Venture Partners,12081.0,7008994.0
+Junos Innovation Fund,2011.0,7000000.0
+New Mexico Angels,2006.0,7000000.0
+Gladwyne Partners,2007.0,7000000.0
+Orfin Ventures,4029.0,7000000.0
+GlobalFoundries,2015.0,7000000.0
+Chance Technologies,4015.0,7000000.0
+Techfarm Ventures,2005.0,7000000.0
+Rockbridge Growth Equity,4019.0,7000000.0
+Magix,2014.0,7000000.0
+Education Sales Management,2009.0,7000000.0
+Four Seasons Ventures,2008.0,7000000.0
+ALi Corporation,2004.0,7000000.0
+Powerplay Capital Management,2008.0,7000000.0
+Lacuna Gap Capital,2009.0,7000000.0
+AshHill Biomedical,2014.0,7000000.0
+The Case Foundation,2012.0,7000000.0
+Corriente Advisors,2010.0,7000000.0
+Rader Reinfrank Investors,2005.0,7000000.0
+Castille Ventures,2012.0,7000000.0
+Delta Capital Management,8035.0,6995000.0
+Excelerate Health Ventures,4029.0,6955753.0
+True Global Ventures (TGV),8050.0,6927720.0
+LinkedIn,2014.0,6900000.0
+AZ Digital Farm,2013.0,6900000.0
+American City Business Journals,4018.0,6900000.0
+VaynerMedia,8042.0,6900000.0
+TEDCO,44280.0,6870000.0
+Invest Nebraska,34230.0,6865000.0
+Guggenheim Opportunity Fund,2007.0,6861058.0
+Curious Office Partners,10035.0,6850000.0
+gener8tor,72471.0,6830000.0
+IDEO,8048.0,6800000.0
+Iron Yard Ventures,82535.0,6790000.0
+Southern California Public Radio,2005.0,6750000.0
+Oak Street Investments,2009.0,6750000.0
+Gatebridge Investments,8043.0,6750000.0
+Ann Arbor SPARK,28159.0,6729487.0
+New Island Capital,4014.0,6720000.0
+Community Investment Corporation,2006.0,6700000.0
+Georgetown Angels,10065.0,6700000.0
+Techstars Chicago (Formerly Excelerate Labs),62343.0,6620000.0
+LFE Capital,2009.0,6600000.0
+Honeywell Capital Management,2010.0,6600000.0
+Kentucky Science and Technology corp.,10045.0,6560000.0
+Microsoft Ventures,24155.0,6550000.0
+New Ground Ventures,4028.0,6548012.0
+Arnold Capital,10070.0,6528000.0
+Michigan Economic Development Corporation,4029.0,6500000.0
+Sonostar Capital Partners,2010.0,6500000.0
+CAMOFI Master,2005.0,6500000.0
+JGB Management,2005.0,6500000.0
+Various,2011.0,6500000.0
+Pittco Management,2008.0,6500000.0
+Morgenthau Venture Partners,2007.0,6500000.0
+Elara Capital,2014.0,6500000.0
+Encompass Ventures,2005.0,6500000.0
+SCF Arizona,4016.0,6500000.0
+CoMotion Venture Capital,2005.0,6500000.0
+Ensys Capital,2011.0,6500000.0
+Spinnaker Capital,2011.0,6500000.0
+Marker Hill Capital,2012.0,6500000.0
+Piedmont Investment Advisors,12074.0,6468000.0
+"Minerva Capital Group, LLC",4025.0,6454575.0
+Massachusetts Clean Energy Center,4027.0,6450000.0
+Satori Capital,12061.0,6442399.0
+Blackbird Ventures,12060.0,6405155.0
+Country Insurance & Financial Services,4015.0,6400000.0
+Razorback Capital,4023.0,6380000.0
+Strong Ventures,50327.0,6366136.0
+Billiken Angels Network,2013.0,6340000.0
+Rome Development LLC,2011.0,6280000.0
+Red River Ventures,2007.0,6220000.0
+Vesta Labs,2014.0,6200000.0
+Rho West,4026.0,6200000.0
+Delavaco Capital,2014.0,6200000.0
+Mosley Ventures,6042.0,6200000.0
+Supply Chain Ventures,4027.0,6200000.0
+FOUNDER.org,20140.0,6150000.0
+Concur,6039.0,6125000.0
+PALgenesis,14083.0,6122000.0
+CMEA Ventures,2005.0,6100000.0
+Mid-America Angels,6040.0,6050000.0
+State Street Global Investments,4015.0,6040000.0
+BayStar Capital,2000.0,6000000.0
+Blade Ventures,2009.0,6000000.0
+BV Group Ventures,2005.0,6000000.0
+BV-Cornerstone Ventures,2005.0,6000000.0
+Decima Ventures,2006.0,6000000.0
+Canal Partners,4019.0,6000000.0
+The Provident Bank,2010.0,6000000.0
+Newell Rubbermaid,2011.0,6000000.0
+FLIR Systems,2009.0,6000000.0
+Still River Funds,2005.0,6000000.0
+AC Ventures,2008.0,6000000.0
+Ipreo,2013.0,6000000.0
+Northwest Technology Ventures,8032.0,6000000.0
+Rivenrock Capital,2007.0,6000000.0
+Zero Stage Capital,2005.0,6000000.0
+Binary Capital,2014.0,6000000.0
+Starlight Investments,2006.0,6000000.0
+Innoventure Partners,2014.0,6000000.0
+Pacific Wireless Ventures,2012.0,6000000.0
+Datacard Group,2012.0,6000000.0
+Ashby Point Capital,2009.0,6000000.0
+US Army,2008.0,6000000.0
+Providence Health & Services,2014.0,6000000.0
+Milestone Merchant Partners,2006.0,6000000.0
+Southern Farm Bureau,2005.0,6000000.0
+TAG – The Acceleration Group,4015.0,6000000.0
+UnitedBrandWorks,2015.0,6000000.0
+Prism Capital Corporation,2005.0,6000000.0
+University of Nebraska Medical Center,2008.0,6000000.0
+Sprint,4020.0,6000000.0
+Crown Predator Holdings,2014.0,6000000.0
+"University of Nebraska, Lincoln",2008.0,6000000.0
+NASA,2008.0,6000000.0
+Gray Matters Capital,2008.0,6000000.0
+Intuitive Surgical,2014.0,6000000.0
+Susquehanna International Group,2014.0,6000000.0
+Nerveda,2015.0,6000000.0
+Grande Ventures,2007.0,6000000.0
+King Street Partners,2008.0,6000000.0
+S.A.C. Capital Advisors,2010.0,6000000.0
+VOXX International,4028.0,6000000.0
+Netflix,2008.0,6000000.0
+Abell Foundation,6038.0,5977000.0
+Digital Entertainment Ventures (DEV),8051.0,5970000.0
+Cambridge Information Group,2014.0,5956174.0
+Brio Capital,2010.0,5904277.0
+Birchmere Labs,8052.0,5884000.0
+Archer Gray,6041.0,5850000.0
+Brooks Automation,2014.0,5847600.0
+Funk Ventures,6026.0,5800000.0
+Bertram Capital Management,4022.0,5800000.0
+Cyber Capital,2000.0,5733600.0
+Angel Investor Forum,14095.0,5720000.0
+Warson Capital Partners,2013.0,5720000.0
+Triangle Angel Partners,8054.0,5700000.0
+Mid-Atlantic Angel Group,4027.0,5700000.0
+rocketship.vc,4030.0,5700000.0
+Penny Black,4023.0,5700000.0
+TripleTree,2015.0,5700000.0
+Bulger Partners,2012.0,5700000.0
+Harbor Island Equity Partners,4017.0,5676866.0
+Entrepreneurs Roundtable Accelerator,165070.0,5675000.0
+Capital Innovators,88551.0,5669700.0
+Darpa,2014.0,5600000.0
+Emagen Entertainment,4026.0,5600000.0
+Cedar Grove Investments,4019.0,5600000.0
+American Family Ventures,10070.0,5595000.0
+The Mail Room Fund,6026.0,5550000.0
+PanAfrican Investment Co.,4026.0,5550000.0
+Nobska Ventures,8024.0,5530000.0
+CCP Equity Partners,2003.0,5520000.0
+RockWood Equity Partners,2010.0,5500000.0
+Copley Equity Partners,2014.0,5500000.0
+Barshop Ventures,6025.0,5500000.0
+Triton Pacific Capital Partners,2008.0,5500000.0
+Sherwood Brands INC,2013.0,5500000.0
+InvestAmerican Investment Advisors,4006.0,5500000.0
+Colt Ventures,2012.0,5500000.0
+Centripetal Capital Partners,4020.0,5500000.0
+Platinum Montaur Life Sciences,2011.0,5500000.0
+Creation Investments,2011.0,5500000.0
+Promus Equity Partners,2011.0,5500000.0
+Stonehenge Growth Capital,2014.0,5500000.0
+South Ventures,12079.0,5461600.0
+Blue Startups,72487.0,5440000.0
+G20 Ventures,4028.0,5400000.0
+Greenline Ventures,6039.0,5400000.0
+Texas Halo Fund,4028.0,5395500.0
+SeedStep Angels group,10065.0,5360000.0
+The Houston Angel Network,4017.0,5330000.0
+Monet Capital,2006.0,5310000.0
+Persistency Capital,4022.0,5300000.0
+Themis Computer,2009.0,5300000.0
+SurveyMonkey,2014.0,5300000.0
+Helix Fund,4026.0,5300000.0
+Center for Innovative Technology,18110.0,5300000.0
+CircleUp,6039.0,5290000.0
+GlobalSCAPE,2010.0,5277777.0
+R7 Partners,6041.0,5275000.0
+IrishAngels,8056.0,5275000.0
+NStar,4012.0,5273439.0
+Virgin USA,2008.0,5270000.0
+Jaguar Capital Partners,2009.0,5250000.0
+Miller Investment Management,2009.0,5250000.0
+Permit Capital,2009.0,5250000.0
+Better Ventures,28176.0,5235000.0
+Corigin Ventures,14096.0,5200620.0
+Vision Ventures,6030.0,5200000.0
+Aristos Ventures,10069.0,5200000.0
+Monster Venture Partners,10037.0,5200000.0
+Baylor Angel Network,6034.0,5200000.0
+Rimage,2011.0,5200000.0
+Fischer Investment Capital (FIC),2015.0,5200000.0
+Brain Trust Accelerator Fund,2008.0,5200000.0
+Rules-Based Medicine,2008.0,5200000.0
+Green Park & Golf Ventures,8057.0,5200000.0
+SixThirty - FinTech Accelerator,20135.0,5136000.0
+Digital News Ventures,16105.0,5125000.0
+High Street Partners,2005.0,5100000.0
+Corporation for National and Community Service,2013.0,5100000.0
+Salem Halifax Partner,2009.0,5100000.0
+Access National Bank,2009.0,5100000.0
+Bridge Boys Fund,6040.0,5100000.0
+Digital Surgeons,4025.0,5100000.0
+Sabre,2008.0,5100000.0
+Treetop Ventures,6039.0,5050000.0
+Ellis International,4011.0,5030000.0
+National Vision,2014.0,5000000.0
+Brick & Mortar Ventures,2015.0,5000000.0
+Columbus Venture Capital,2007.0,5000000.0
+Riverbed Technology,2014.0,5000000.0
+Riverlake Partners,4021.0,5000000.0
+Fireman Capital Partners,2011.0,5000000.0
+Heidrick & Struggles International,2008.0,5000000.0
+National Institute of Standards and Technology (NIST),4016.0,5000000.0
+TMC Financing,2013.0,5000000.0
+Gilead Group,2008.0,5000000.0
+Heliae,2013.0,5000000.0
+CA Capital,2005.0,5000000.0
+Commerce Bancshares,2006.0,5000000.0
+Sovereign’s Capital,6043.0,5000000.0
+The Mustang Group,2014.0,5000000.0
+Thomson Reuters,2014.0,5000000.0
+Vantage Partners,2008.0,5000000.0
+Founders Capital Partners,2011.0,5000000.0
+Intermountain Healthcare,2014.0,5000000.0
+Pacific Community Ventures,2009.0,5000000.0
+HC2,2014.0,5000000.0
+Highbridge Principal Strategies Growth Equity,2000.0,5000000.0
+Kairos Legacy Partners,2014.0,5000000.0
+Guideline,2006.0,5000000.0
+Palm Beach Capital,8042.0,5000000.0
+Saint Luke’s Health System,2014.0,5000000.0
+BetterWorks (Closed),2012.0,5000000.0
+Gamma Investors,2001.0,5000000.0
+GameStop Digital Ventures,2011.0,5000000.0
+Harrison Street Real Estate Capital,2007.0,5000000.0
+L-3 Communications,2002.0,5000000.0
+ICON Investments,2005.0,5000000.0
+AMN Healthcare,2014.0,5000000.0
+Arkansas Risk Capital Matching Fund,2012.0,5000000.0
+Proctor NBF Capital Partners,2006.0,5000000.0
+Omicron Capital,2007.0,5000000.0
+Trujillo Group,2006.0,5000000.0
+Playdom,2010.0,5000000.0
+United Communications Group,2012.0,5000000.0
+Penton,2013.0,5000000.0
+Berkshire Ventures LLC,4014.0,5000000.0
+Broadhorn Capital,4020.0,5000000.0
+Westwood Ventures,2010.0,5000000.0
+MIssissippi Angel Fund,2006.0,5000000.0
+Taylor,2010.0,5000000.0
+Spyglass Ventures,2008.0,5000000.0
+Telos Venture Partners,2005.0,5000000.0
+Otto Capital,10066.0,5000000.0
+GBP Capital,2007.0,5000000.0
+Vizio,2014.0,5000000.0
+RLB Holdings,2013.0,5000000.0
+LifeMap Sciences,2014.0,5000000.0
+Cooley LLP,8050.0,5000000.0
+Energizer,2006.0,5000000.0
+Arborview Capital,8042.0,4999929.0
+Women's Venture Capital Fund,4027.0,4960000.0
+Carleton Advisors,2011.0,4900501.0
+Lead Dog Ventures,6030.0,4900000.0
+yet2Ventures,2011.0,4900000.0
+StartupAngel,10053.0,4900000.0
+Concept Ventures,4015.0,4900000.0
+Boston Community Capital,6026.0,4900000.0
+The Bergquist Company,2014.0,4900000.0
+Alt Option Return,6034.0,4890000.0
+Zephyr,2010.0,4880000.0
+Bellingham Angel Organization,8035.0,4850000.0
+Orion Healthcare Equity Partners,2014.0,4800000.0
+Cellular Bioengineering,2010.0,4750000.0
+Alten Capital,2008.0,4749900.0
+Rochester Angel Network,4015.0,4740000.0
+Northern Michigan Angels,6040.0,4710000.0
+Paperboy Ventures,2005.0,4700000.0
+Columbia Technology Ventures,2013.0,4700000.0
+Discovery,2014.0,4678569.0
+Cap-Meridian Ventures,8050.0,4675000.0
+Jayhawk Capital,2010.0,4610000.0
+Paragon Capital,2010.0,4610000.0
+Whitebox Advisors,2010.0,4610000.0
+Marketo,2014.0,4600000.0
+Thinktiv,4024.0,4600000.0
+The Phoenix Partners,2005.0,4600000.0
+IMG Media,4026.0,4596695.0
+DFJ Mercury,4025.0,4570866.0
+Angels on the Water,10066.0,4555000.0
+Dorm Room Fund,20135.0,4555000.0
+Vernon & Park Capital,10053.0,4550102.0
+Lamp Post Group,14088.0,4550000.0
+InVenture,4028.0,4530000.0
+Brand Foundry Ventures,4028.0,4520000.0
+San Joaquin Angels,2011.0,4500000.0
+Westfield Labs,2014.0,4500000.0
+Apricot Capital,8044.0,4500000.0
+Caltech,6027.0,4500000.0
+Broken Arrow Venture Capital,2009.0,4500000.0
+Integra LifeSciences Holdings,2014.0,4500000.0
+Sun Capital Partners,2005.0,4500000.0
+SOA Software,2003.0,4500000.0
+Al Shugart International (ASI),4003.0,4500000.0
+Montage Capital,4019.0,4500000.0
+Musicmatch,2012.0,4500000.0
+Penn Venture Partners,2012.0,4500000.0
+Louisiana Ventures,2011.0,4500000.0
+The Musser Group,4014.0,4500000.0
+Andrew Carter Capital,2005.0,4500000.0
+G2T3V,2014.0,4500000.0
+Bright Horizons Family Solutions,2013.0,4500000.0
+Westfield Bank,2014.0,4500000.0
+The Hive,4028.0,4500000.0
+Core Innovation Capital,6038.0,4499997.0
+Magnetar Capital,2006.0,4480000.0
+The Startup Factory,64413.0,4455000.0
+Tango,6033.0,4450000.0
+Think Big Partners,8050.0,4424000.0
+RezVen Partners,2012.0,4400000.0
+Bull City Venture Partners,2013.0,4400000.0
+Geekdom Fund I L.P.,10069.0,4350313.0
+Rough Draft Ventures,16108.0,4321500.0
+STV Group,6037.0,4300000.0
+Eons,2008.0,4300000.0
+Jumpstart New Jersey Angel Network,10049.0,4300000.0
+Cross Atlantic Ventures,2005.0,4280000.0
+Montis Capital,2012.0,4250000.0
+Launch Angels,4028.0,4250000.0
+Clearwell Group,4028.0,4250000.0
+S-Cubed Capital,10063.0,4225000.0
+EIV Capital,2010.0,4220000.0
+Kindler Capital,6038.0,4200000.0
+Nextel Communications,2005.0,4200000.0
+New Jersey Economic Development Authority,8036.0,4200000.0
+TBL Capital,2008.0,4200000.0
+Tice Capital,4022.0,4200000.0
+Unterberg Capital,2010.0,4200000.0
+CEVA,2011.0,4200000.0
+LexisNexis,4018.0,4190000.0
+Sparebanken Vest,10047.0,4130000.0
+Crestlight Ventures,18111.0,4122250.0
+Angel Healthcare Investors,2009.0,4100000.0
+SVASE/Cambridge West Ventures,6030.0,4100000.0
+Beacon Street Capital,2009.0,4100000.0
+RedHouse Associates,2012.0,4100000.0
+Tacoma Angel Network,4022.0,4100000.0
+Griffon Ventures,6040.0,4050000.0
+Project 11,10065.0,4020000.0
+"United Defense, L.P.",2004.0,4000000.0
+Bridge Investments,2015.0,4000000.0
+VKRM Ventures,4025.0,4000000.0
+1to1 Venture Partners,2000.0,4000000.0
+Breton Capital Management,4028.0,4000000.0
+Bainco International Investors,4021.0,4000000.0
+Accelerated Technologies Partners,2009.0,4000000.0
+Arrowroot Capital,4028.0,4000000.0
+Stratum Wealth Management,2006.0,4000000.0
+Arkansas Science & Technology Authority,4020.0,4000000.0
+Univision,2014.0,4000000.0
+Two Sigma Investments,2011.0,4000000.0
+Jemison Investment Company,4019.0,4000000.0
+Papillon Capital,2014.0,4000000.0
+Fletcher International,2011.0,4000000.0
+Cyberonics,2011.0,4000000.0
+Private Equity Info,2014.0,4000000.0
+Quad/Graphics,2014.0,4000000.0
+MHI Energy Partners,2007.0,4000000.0
+MDB Capital Group,2012.0,4000000.0
+Multiplier Capital,2012.0,4000000.0
+Clovis Oncology,2012.0,4000000.0
+Frontier Communications Corporation,2006.0,4000000.0
+SLATE CAPITAL GROUP,2007.0,4000000.0
+Forté Ventures,18115.0,4000000.0
+New Magellan Ventures,2011.0,4000000.0
+NewWest Capital Partners,2007.0,4000000.0
+Massachusetts General Physicians Organization (MGPO),2013.0,4000000.0
+LaunchPad Ventures,2014.0,4000000.0
+Rock Creek Capital,2006.0,4000000.0
+October Capital,2009.0,4000000.0
+OmniCapital Group,6031.0,4000000.0
+Exhilway Global,2014.0,4000000.0
+Environmental Data Resources,2011.0,4000000.0
+Kyriba Corporation,4026.0,4000000.0
+Obvious Corporation,4023.0,4000000.0
+Cronus Ventures,6024.0,3956000.0
+Benjamin Franklin Technology Partners,8035.0,3950000.0
+Aspen Ventures,4014.0,3900000.0
+KI Investment Holdings,6037.0,3900000.0
+JUMP Investors,4027.0,3900000.0
+Tech Wildcatters,36216.0,3895000.0
+Bonsal Capital,2012.0,3880000.0
+Panacea Capital Advisors,4027.0,3800000.0
+Tango Ventures,6034.0,3800000.0
+Arba Seed Investment Group,2005.0,3800000.0
+zulily,4024.0,3800000.0
+Kapyon Ventures,2013.0,3800000.0
+Leasing Technologies International,2009.0,3800000.0
+Harpeth Fund Advisors,2014.0,3800000.0
+Voodoo Ventures,14079.0,3800000.0
+BVM Capital,10061.0,3775000.0
+Atlas Accelerator,6031.0,3775000.0
+Montaur Capital Partners,2007.0,3750000.0
+Kansas Technology,2008.0,3750000.0
+Ogden Capital,6028.0,3710000.0
+Moxie Pictures,4025.0,3700000.0
+Lambert Media Group,4025.0,3700000.0
+ACN.INC,2014.0,3700000.0
+Stonehenge Growth Equity,14098.0,3675000.0
+National Institute for Allergy and Infectious Disease,4022.0,3640000.0
+Nebraska Global,8051.0,3620000.0
+Ziegler HealthVest Partners,4020.0,3610000.0
+Starling Ventures,4025.0,3600000.0
+Second Ave Partners,2012.0,3600000.0
+Iron Mountain,2011.0,3600000.0
+Guild Capital,4027.0,3600000.0
+Tigerlabs,12081.0,3580000.0
+McKenna Management,4022.0,3550000.0
+The Greenspun Corporation,2005.0,3550000.0
+Barracuda Networks,4027.0,3525000.0
+10X Venture Partners,6037.0,3525000.0
+Bonaventure Capital,4027.0,3500000.0
+AEG,2013.0,3500000.0
+"Bitcoin Shop, inc",4028.0,3500000.0
+TWV Capital Management,2014.0,3500000.0
+Centers for Medicare & Medicaid Services,2014.0,3500000.0
+DominateFund,4027.0,3500000.0
+Bayview Capital,2011.0,3500000.0
+DivX,2007.0,3500000.0
+Masimo,2010.0,3500000.0
+Industry Capital,2013.0,3500000.0
+Wafra Partners,2007.0,3500000.0
+CryoLife,2011.0,3500000.0
+Great Oak Capital,2014.0,3500000.0
+Harmonic,2014.0,3500000.0
+Manatt Digital Media,6041.0,3500000.0
+Private Investors Forum,4025.0,3500000.0
+Bridge 37 Ventures,2014.0,3500000.0
+Stratus Technologies,2014.0,3500000.0
+Abundant Ventures LLC,4027.0,3500000.0
+Dispatch,2014.0,3500000.0
+William Morris Agency,4016.0,3500000.0
+Carnegie Mellon University,10062.0,3470000.0
+Lighter Capital,20140.0,3450000.0
+David Shen Ventures,8047.0,3430000.0
+ZINO Society,4017.0,3410000.0
+Puget Sound Venture Club,4022.0,3410000.0
+Social Venture Fund,8051.0,3406000.0
+CAP-idea,2010.0,3400000.0
+UT Horizon Fund,2013.0,3400000.0
+Oxygen Media,2010.0,3400000.0
+Beechwood Ventures,2009.0,3400000.0
+RSH Ventures,4018.0,3350000.0
+Aeneas Ventures,4014.0,3350000.0
+PLSG Accelerator Fund,6040.0,3338000.0
+Missouri Technology Corporation,18119.0,3316000.0
+Atom Factory,6038.0,3300000.0
+Rosetta Partners,2006.0,3300000.0
+BioStratum,2007.0,3300000.0
+Vanderbilt University Office of Investments,2007.0,3300000.0
+Peery Foundation,68379.0,3290000.0
+Health Wildcatters,30209.0,3290000.0
+Unitus Seed Fund,34225.0,3282000.0
+Archimedes Labs,34213.0,3250000.0
+Coronis Medical Ventures,4017.0,3250000.0
+NEOTEC,6030.0,3249380.0
+Murex Investments,2009.0,3200000.0
+Eastside Partners,6037.0,3200000.0
+Midverse Studios,2014.0,3200000.0
+Southern Tier Opportunity Coalitiion,2008.0,3200000.0
+Granite Point Capital,2009.0,3200000.0
+Cthulhu Ventures,4029.0,3200000.0
+Augury Capital,2012.0,3200000.0
+Akamai Technologies,2015.0,3200000.0
+Berkshires Capital Investors,2009.0,3200000.0
+ARPA-E,2013.0,3200000.0
+Crescent Financial Partners,2010.0,3200000.0
+Earthrise Capital Partners,4020.0,3200000.0
+The Tyra Banks Company,4028.0,3200000.0
+Rockbrook Advisors,2008.0,3200000.0
+Sienna Equity Partners,2008.0,3200000.0
+Miller Capital Partners,2010.0,3180000.0
+Invested Development,34202.0,3174000.0
+Brand Ventures,6033.0,3165000.0
+Larsen MacColl Partners,2012.0,3100000.0
+Nanogen,2009.0,3100000.0
+Capital Sports & Entertainment,4022.0,3100000.0
+Trimaran Capital Partners,4022.0,3100000.0
+DaneVest Tech Fund Advisors,6034.0,3100000.0
+Venture Frogs,3999.0,3100000.0
+SURGE Accelerator,72468.0,3061240.0
+Knight Ridder,2006.0,3050000.0
+Atlanta Ventures,8056.0,3050000.0
+Flashstarts,42287.0,3039000.0
+Follett Corporation,6042.0,3015000.0
+Interact for Health,2007.0,3000000.0
+Xchanging,2014.0,3000000.0
+Terrapin Partners,2009.0,3000000.0
+LRG Capital Group,2001.0,3000000.0
+Stripe,2014.0,3000000.0
+StarTec Investments,4015.0,3000000.0
+KiwiTech,2014.0,3000000.0
+The EdTech Fund,4028.0,3000000.0
+EarlyShares,2014.0,3000000.0
+Reveal Imaging Technologies,2014.0,3000000.0
+Diebold,2014.0,3000000.0
+The Broad Foundations,2013.0,3000000.0
+CSR,2014.0,3000000.0
+AET Holdings,2014.0,3000000.0
+Banneker Partners,2014.0,3000000.0
+MRI Ventures,2008.0,3000000.0
+SFX Entertainment,2014.0,3000000.0
+Harmony Investments,4023.0,3000000.0
+Vermont Information Processing,2009.0,3000000.0
+Schoffstall Ventures,2007.0,3000000.0
+Massachusetts Capital Resource Company,2012.0,3000000.0
+Good People Ventures,2014.0,3000000.0
+Cascabel Management,2013.0,3000000.0
+GenePeeks,2014.0,3000000.0
+Trinity Healthcare Development,2006.0,3000000.0
+Arthur Zaske & Associates,2009.0,3000000.0
+AtHoc,2011.0,3000000.0
+National Institute on Drug Abuse (NIDA),2010.0,3000000.0
+Rockwell Automation,2013.0,3000000.0
+SamStella,2012.0,3000000.0
+New York Digital Health Accelerator,8054.0,3000000.0
+Sony Music Entertainment,2014.0,3000000.0
+Cystic Fibrosis Foundation,2014.0,3000000.0
+Airbnb,2015.0,3000000.0
+neuehouse,2015.0,3000000.0
+Red Barn Investments,4023.0,3000000.0
+Centurion Venture Partners,2011.0,3000000.0
+RESOLUTE Partners,2012.0,3000000.0
+RAD Data Communications,2010.0,3000000.0
+PeopleFund,14090.0,2989600.0
+Odyssey Research,4015.0,2950000.0
+California HealthCare Foundation,6037.0,2950000.0
+Deep Creek Capital,6032.0,2945000.0
+Green Tree Equity,4024.0,2916500.0
+Networld,2009.0,2885480.0
+Alliance Acquisitions,4022.0,2875000.0
+Triax Capital,2005.0,2850000.0
+The Michael J. Fox Foundation,6039.0,2830000.0
+Virginia Active Angel Network,4015.0,2830000.0
+Pacific Northwest National Laboratory,2011.0,2800000.0
+Silicom Ventures,4013.0,2800000.0
+Facebook,10059.0,2800000.0
+Gemstar-TV Guide International,2007.0,2800000.0
+Hard Yaka,2014.0,2800000.0
+Cruttenden Partners,4025.0,2800000.0
+Sony BMG Music Entertainment,2008.0,2800000.0
+Plug and Play Tech Center,10066.0,2793088.0
+Capital Bancorp,2014.0,2767387.0
+Five Mill Ventures,6036.0,2750750.0
+U.S. Department of Labor,2013.0,2750000.0
+HouseValues,2008.0,2750000.0
+Frontier Management Group,2006.0,2750000.0
+Tribune Media,2014.0,2750000.0
+BlueTree Capital Group,4015.0,2730000.0
+HealthEquity,2014.0,2718942.0
+LTC Partners,2011.0,2700000.0
+SilkRoad Technology,2011.0,2700000.0
+Fingerhut Ventures,2008.0,2700000.0
+Nitinol Devices & Components,2011.0,2700000.0
+Maywood Capital Partners,2010.0,2700000.0
+Dakota Venture Group,2014.0,2700000.0
+Brightstar,2013.0,2700000.0
+Beamonte Investments,10068.0,2700000.0
+Metropolitan Capital,2012.0,2700000.0
+Intelligent Systems Corporation,2013.0,2650000.0
+BR Ventures,8044.0,2620000.0
+Republic Financial Corporation,2006.0,2600000.0
+Micronet Enertec Technologies,2013.0,2600000.0
+Interlaken Capital,2008.0,2600000.0
+Ironstone Group Inc.,2013.0,2600000.0
+Foundation Venture Capital Group,12071.0,2600000.0
+Privateer Capital,2014.0,2600000.0
+Box,4028.0,2600000.0
+Florida Angel Nexus,4028.0,2600000.0
+Proof Ventures,2013.0,2600000.0
+Accion Labs,2013.0,2600000.0
+Innovation Garden,12077.0,2575000.0
+OpGen,2012.0,2560000.0
+Bend Venture Conference,4022.0,2550000.0
+RMR Capital,6040.0,2545000.0
+New York Daily News,2009.0,2529175.0
+Optimum Asset Management,2004.0,2508870.0
+TNInvestco,2014.0,2500145.0
+Stonewater Captial,2013.0,2500000.0
+Payment Ventures,4025.0,2500000.0
+Peninsula Bank,2010.0,2500000.0
+E.W. Scripps,4024.0,2500000.0
+Blue Tiger Ventures,2011.0,2500000.0
+Tracer Capital,2008.0,2500000.0
+Sapient,4026.0,2500000.0
+Ligand Pharmaceuticals,2014.0,2500000.0
+Merrick Ventures,4029.0,2500000.0
+Talkot Capital,4020.0,2500000.0
+Schottenstein Stores,2013.0,2500000.0
+Mozido,2015.0,2500000.0
+Mosaic Asset Management,2006.0,2500000.0
+Index Capital,4021.0,2500000.0
+NLM Capital Partners,2010.0,2500000.0
+Armory Capital,2014.0,2500000.0
+BioMotiv,4028.0,2500000.0
+Trinity Private Equity Group,2011.0,2500000.0
+Palantir Capital,2013.0,2500000.0
+Wider Wake Networks,2010.0,2500000.0
+Scientific Health Development Partners,2006.0,2500000.0
+CET Capital Partners,2013.0,2500000.0
+Breakwater Ventures,2007.0,2500000.0
+Oaktree Capital Management,6040.0,2500000.0
+Nob Hill Capital Management,2006.0,2500000.0
+Vizrt,2008.0,2500000.0
+MEP Associates,2008.0,2500000.0
+Brunswick,2014.0,2500000.0
+AKQA,2013.0,2500000.0
+MASA Group,2014.0,2500000.0
+Sood Ventures,2014.0,2500000.0
+Continental Investors,2014.0,2500000.0
+Isolventures,2007.0,2500000.0
+SNL Financial,2013.0,2500000.0
+Calvert Research Institute,2006.0,2500000.0
+BroadOak Capital Partners,2012.0,2500000.0
+Autobytel.com,2013.0,2500000.0
+Premiere Global Services,2014.0,2500000.0
+Ephor Group,2008.0,2500000.0
+The Catalyst Group,2005.0,2500000.0
+Solon,2007.0,2500000.0
+KMS Technology,2015.0,2500000.0
+Frog & Peach Investments,2008.0,2500000.0
+New Orleans Startup Fund,4024.0,2450000.0
+Teerlock Partners,6042.0,2450000.0
+Ohio Third Frontier,2013.0,2400000.0
+BufferBox,2013.0,2400000.0
+Costella Kirsch,2011.0,2400000.0
+Grouse Ridge Capital,2013.0,2400000.0
+Snowbird Capital,2006.0,2400000.0
+Shamrock Ventures,2014.0,2400000.0
+Linden Lab,2013.0,2400000.0
+Acta Wireless,6033.0,2400000.0
+Scientific-Atlanta,2009.0,2400000.0
+ideaTree - innovate | mentor | invest,10068.0,2375000.0
+Jumpstart Foundry,54322.0,2355000.0
+K5 Ventures,16109.0,2353500.0
+Physicians Investment Group,2010.0,2350000.0
+Berkshire Hathaway Corp.,2014.0,2350000.0
+Microsoft Accelerator - Tel Aviv,50314.0,2340000.0
+Eyes of Texas Partners,2006.0,2330000.0
+Arizona Bay Technology Ventures,4020.0,2325000.0
+Emergent Growth Fund,4016.0,2300000.0
+Celilo Group Media,2014.0,2300000.0
+Brand Journey Capital,2008.0,2300000.0
+Angel Investor Management Group,2014.0,2300000.0
+CUBRC,4024.0,2300000.0
+Beechwood Capital,2014.0,2300000.0
+PhilQuo Ventures,6034.0,2300000.0
+TYLT Lab,2014.0,2300000.0
+Arc90,2012.0,2300000.0
+Investor's Circle,4026.0,2300000.0
+Frontier Equities VC,4028.0,2250000.0
+HomeAdvisor,4020.0,2250000.0
+Windquest Group,4025.0,2250000.0
+Accelerator Corp.,4024.0,2250000.0
+Pangea's Edge Holdings,4025.0,2250000.0
+Digital Capital Advisors,2013.0,2250000.0
+Detroit Innovate,4029.0,2250000.0
+AOE,4023.0,2250000.0
+Dolgen Ventures,2013.0,2250000.0
+Harvard Business School,2014.0,2250000.0
+Central Coast Angels,4028.0,2235000.0
+Architel LP,6026.0,2200000.0
+Tsai Ventures,2014.0,2200000.0
+Mesa Capital Partners,2006.0,2200000.0
+Automattic,6033.0,2200000.0
+"Kortschak Investments, L.P.",6037.0,2200000.0
+TiE Silicon Valley Angels,2011.0,2200000.0
+Rokk3r Labs,2014.0,2200000.0
+CitareTx Investment Partners I,2012.0,2200000.0
+seedchange,4028.0,2150000.0
+Cedel International Investments,4023.0,2150000.0
+HALO Capital Group,4023.0,2150000.0
+VoiVoda Ventures,14088.0,2135000.0
+Roc Nation,2012.0,2135000.0
+Canrock Ventures,14087.0,2120720.0
+Kaplan EdTech Accelerator,24167.0,2120170.0
+Handmade Ventures,4028.0,2100000.0
+SugarOak,4021.0,2100000.0
+GETCO,2013.0,2100000.0
+Wisconsin Super Angel Fund,12082.0,2100000.0
+Dougery Ventures,4020.0,2100000.0
+Proton Enterprises,2014.0,2100000.0
+ProFounder,4021.0,2080000.0
+Consumer Electronics Association,6026.0,2075000.0
+ValueStream Labs,4028.0,2050000.0
+Northpoint Financial Group,2009.0,2050000.0
+"Hatch Partners, LLC",8047.0,2035000.0
+Media Camp,34214.0,2010000.0
+Medical Capital Corporation,2008.0,2000000.0
+River Valley Investors,2015.0,2000000.0
+Dalai Lama Foundation,4028.0,2000000.0
+ASAP Ventures,2001.0,2000000.0
+Venture Management,2014.0,2000000.0
+Crocs,2013.0,2000000.0
+Indiana's 21st Century Technology Fund,2009.0,2000000.0
+Branford Castle Private Equity,2012.0,2000000.0
+Future Global Corporation,2014.0,2000000.0
+CapitalSouth Partners,4021.0,2000000.0
+National Association of College Stores,2015.0,2000000.0
+Acxiom,2009.0,2000000.0
+Media One Direct,2009.0,2000000.0
+CNN.com,2007.0,2000000.0
+Groundwork Equity,2007.0,2000000.0
+Retrophin,2014.0,2000000.0
+TiE LaunchPad,4028.0,2000000.0
+Marshfield Investment Partners,4016.0,2000000.0
+Senova Systems,2014.0,2000000.0
+The Gramercy Fund,2014.0,2000000.0
+Purdue University Endowment,2009.0,2000000.0
+MEDL Mobile,2013.0,2000000.0
+Haxee Ventures,4028.0,2000000.0
+Longstreet Partners,2005.0,2000000.0
+HolbergFondene,2010.0,2000000.0
+OPKO Health,2010.0,2000000.0
+Ford Foundation,4027.0,2000000.0
+Broadway Video,2015.0,2000000.0
+Catapult Partners,2012.0,2000000.0
+Network-1,2014.0,2000000.0
+Alpine Venture,2008.0,2000000.0
+Century Capital Management,4020.0,2000000.0
+MusclePharm,2013.0,2000000.0
+Manifold Products,2009.0,2000000.0
+Principal Financial Group,2005.0,2000000.0
+Vesta Corporation,2014.0,2000000.0
+National Institute of Justice for research,2015.0,2000000.0
+First Advantage,2009.0,2000000.0
+3taps,2012.0,2000000.0
+Revelry Brands,4028.0,2000000.0
+Garrison Capital Inc,2013.0,2000000.0
+Parcae Capital,2012.0,2000000.0
+In-vivo Ventures,2009.0,2000000.0
+1-800-FLOWERS.COM,2012.0,2000000.0
+SymphonyAlpha Ventures,2014.0,2000000.0
+Crocker Capital,2005.0,2000000.0
+InveStar Capital,4007.0,2000000.0
+Golden Pine Ventures,2009.0,2000000.0
+AWT Private Investments,2008.0,2000000.0
+E! Entertainment,2009.0,2000000.0
+Blackthorne Partners,2010.0,2000000.0
+Race Point Capital Group,4021.0,2000000.0
+Moxie,4026.0,2000000.0
+UST Global,2014.0,2000000.0
+ZetrOZ,2013.0,2000000.0
+Core VC,2011.0,2000000.0
+Midwest Venture Alliance,2014.0,2000000.0
+Denali Venture Partners,2013.0,2000000.0
+INVENT Ventures,2013.0,2000000.0
+Liberty Capital Partners,2010.0,2000000.0
+Blue Water Capital,2005.0,2000000.0
+Warbros Venture Partners,2014.0,1995000.0
+The Clark Estates,2005.0,1970000.0
+CEI Community Ventures,4014.0,1950000.0
+Be Great Partners,4027.0,1950000.0
+Tamiami Angel Fund,6039.0,1950000.0
+Monster Worldwide,2013.0,1950000.0
+The Innovation Group,4023.0,1950000.0
+Clydesdale Ventures,4014.0,1920000.0
+Maine Technology Institute,10038.0,1917300.0
+WellPoint,2013.0,1900000.0
+"NueCura Partners, LLC",2014.0,1900000.0
+McNamara Family Ventures,2013.0,1900000.0
+Crowdfund Capital Advisors,2014.0,1900000.0
+EOS Ventures,2011.0,1900000.0
+Bantam Group,6036.0,1895000.0
+fbFund,46205.0,1850000.0
+Axia Capital,2006.0,1850000.0
+The Untitled Venture Company,6038.0,1850000.0
+Naxuri Capital,2013.0,1840000.0
+Bizdom,50314.0,1835000.0
+Implistic Capital,4018.0,1800000.0
+Launchpad Digital Health,4028.0,1800000.0
+Fannie Mae,2014.0,1800000.0
+M-Group,2006.0,1800000.0
+U.S. Department of Health & Human Services-AHRQ,2014.0,1800000.0
+Carolinas Healthcare System,2014.0,1800000.0
+Desert Angels,4028.0,1800000.0
+Steel Pier Capital Advisors,2011.0,1800000.0
+Vencore Capital,2007.0,1800000.0
+NCT Ventures,4023.0,1776763.0
+Cryptonaut Ventures,4028.0,1775000.0
+Southridge Investment Group,2005.0,1760000.0
+Advanced Laser Materials (ALM),2013.0,1753219.0
+Cedar St Capital,4025.0,1750000.0
+Beanstalk Ventures,6042.0,1750000.0
+Thiel Foundation,12073.0,1750000.0
+77 Ventures,4023.0,1750000.0
+Black Ocean,6038.0,1750000.0
+Coolhouse Labs,34235.0,1715000.0
+PepsiCo,2013.0,1700000.0
+mktg,2013.0,1700000.0
+Springboard Capital,2007.0,1700000.0
+Stevens Ventures,2012.0,1700000.0
+Cato BioVentures,2007.0,1700000.0
+Activation Media,2011.0,1700000.0
+Jefferson Corner Group,2007.0,1700000.0
+Rosepaul Investments / RosePaul Ventures,2014.0,1700000.0
+MediaMath,2014.0,1700000.0
+Vendep Oy,2014.0,1663183.0
+FreedomPop,2014.0,1650000.0
+Woodland Partners,2011.0,1650000.0
+RTP Capital Associates,4029.0,1623000.0
+Momentum Accelerator,14098.0,1620000.0
+Maher Capital,6038.0,1615000.0
+LaunchBox Digital,40175.0,1615000.0
+Energy Foundry,8054.0,1614259.0
+Syncarpha Capital,2010.0,1600000.0
+CBRE Group,4027.0,1600000.0
+Maverick Angels,4024.0,1600000.0
+Diamond Ridge Ventures,2011.0,1600000.0
+India Venture Partners,4025.0,1600000.0
+BizCapital,4020.0,1600000.0
+INCISENT Labs,2012.0,1600000.0
+ACI,2010.0,1595230.0
+BioCrossroads,8037.0,1585000.0
+Ruxton Ventures,2007.0,1580000.0
+ErGo Media Capital,2010.0,1550000.0
+Start Co.,38261.0,1522000.0
+Virgin Mobile USA,2006.0,1500000.0
+Freeze L.L.C,2006.0,1500000.0
+Venture Lab,8052.0,1500000.0
+Rady Venture Fund,2013.0,1500000.0
+Medical Marijuana,2013.0,1500000.0
+IDT,4016.0,1500000.0
+Andcor Companies,2005.0,1500000.0
+Trigger Media,2013.0,1500000.0
+Heartland Angels,2014.0,1500000.0
+Auburn Angel Network,4023.0,1500000.0
+Wilmington Pharmatech,2014.0,1500000.0
+Jamestown,2007.0,1500000.0
+United States Department of the Treasury,2010.0,1500000.0
+NewsOrViews,2013.0,1500000.0
+Aspire Ventures,2014.0,1500000.0
+Milliways,2014.0,1500000.0
+HBS Alumni Angels,6040.0,1500000.0
+SERAPH,2014.0,1500000.0
+RTF Management,4011.0,1500000.0
+RBC Dain Rauscher,2007.0,1500000.0
+NewMe Accelerator,54317.0,1500000.0
+Wilbanks Smith & Thomas,2011.0,1500000.0
+Goldin Ventures,2013.0,1500000.0
+HelloWorld,2012.0,1500000.0
+SDVentures,4028.0,1500000.0
+yet2.com,2012.0,1500000.0
+Real Networks,2006.0,1500000.0
+Willamette University,2014.0,1500000.0
+Underdog Ventures,2006.0,1500000.0
+AWE net,2006.0,1500000.0
+Northwest Pipe Company,2012.0,1500000.0
+Park City Angel Network,2014.0,1500000.0
+TSG Equity Partners,4016.0,1500000.0
+Pacific Capital Group,2012.0,1500000.0
+TASC,2011.0,1500000.0
+Pluralsight,2014.0,1500000.0
+Sherpa Partners,2005.0,1500000.0
+Boston Global Ventures,2013.0,1500000.0
+Personal Capital,2012.0,1500000.0
+Brightleaf Capital,2007.0,1500000.0
+Duggal Visual Solutions,2006.0,1500000.0
+Circle P Capital,2012.0,1500000.0
+Elegant Themes,2011.0,1500000.0
+Columbia Records,2012.0,1500000.0
+Disruptor Capital,10069.0,1500000.0
+Portage Capital,2005.0,1500000.0
+Omninet Capital,2014.0,1500000.0
+Oregon Health & Science University,2014.0,1500000.0
+Big Basin Capital,2014.0,1500000.0
+Phoenix IP Ventures,4012.0,1500000.0
+Surdna Foundation,2006.0,1500000.0
+Crossbar Capital,4013.0,1500000.0
+DeltaPoint Capital Management,2005.0,1500000.0
+Boomtown Accelerator,24168.0,1497040.0
+Z80 Labs Technology Incubator,4027.0,1437500.0
+Security Research Associates,2014.0,1400000.0
+U.S. Department of Transportation,2013.0,1400000.0
+All Metal Stamping,2009.0,1400000.0
+Blue Marble Ventures,2010.0,1400000.0
+PEAK6 Investments,2011.0,1400000.0
+Jupiter Partners,4020.0,1400000.0
+Geisinger Health System,2013.0,1400000.0
+K Group,2008.0,1400000.0
+Dove Capital Partners,2011.0,1400000.0
+THQ,2011.0,1400000.0
+NewRoad Ventures,2014.0,1400000.0
+SLO Seed Ventures,2014.0,1400000.0
+Tapit Partners,2004.0,1350000.0
+Five Ventures,4017.0,1340300.0
+Long Island Angel Network,6040.0,1300000.0
+Finn Capital Partners,4028.0,1300000.0
+Altair Engineering,2014.0,1300000.0
+Accelerate Ventures,4027.0,1300000.0
+Blue Angels Ventures,2014.0,1300000.0
+Adaptive Path,2007.0,1300000.0
+DreamHost,2010.0,1290000.0
+Tierra Del Oro,2009.0,1280000.0
+Seed Equity Ventures,8056.0,1275000.0
+Mimosa Tree Capital Partners,4018.0,1275000.0
+Headwaters Holdings,2007.0,1265000.0
+StartFast Venture Accelerator,40265.0,1263000.0
+Lis Ventures,2013.0,1253277.0
+Bi3 Solutions,2008.0,1251285.0
+Private Capital Network,2013.0,1250000.0
+Denali Software,2005.0,1250000.0
+Inland TechStart Fund,2013.0,1250000.0
+Clearwater Capital Management,4010.0,1250000.0
+Coalition Ventures,6041.0,1245000.0
+Kiva,2013.0,1200000.0
+Empower Investment Group,4028.0,1200000.0
+Allen Angel Capital Education Program (AACE),6039.0,1200000.0
+Startl,4021.0,1200000.0
+365 Retail Markets,2014.0,1200000.0
+The CapStreet Group,2005.0,1200000.0
+DoubleRock,2012.0,1200000.0
+Economic Development Corporation (NYCEDC),4021.0,1200000.0
+eVisibility,2012.0,1200000.0
+Eureka Capital Management,2012.0,1200000.0
+TiE Oregon,2014.0,1200000.0
+Rockies Venture Club,2013.0,1200000.0
+Anzalone Liszt Research,2011.0,1200000.0
+Brazos Group,2009.0,1200000.0
+BLACKSTONE ASIA,2013.0,1200000.0
+Provo Labs,2007.0,1200000.0
+American International Group,2011.0,1200000.0
+Small Ventures USA,2009.0,1200000.0
+Microsoft Dynamics,2013.0,1200000.0
+Quickbooks,2013.0,1200000.0
+Tenex Capital Management,4026.0,1200000.0
+Los Angeles Syndicate of Technology,2012.0,1200000.0
+Neyer Holdings Corporation,2009.0,1200000.0
+Level 10 Capital,2008.0,1190000.0
+R/GA,4027.0,1190000.0
+Equitas Capital Advisors,2010.0,1175000.0
+Blackwood Holdings Group LLC,4025.0,1175000.0
+First Beverage Group,2014.0,1169330.0
+Prosper,12087.0,1150000.0
+Piedmont Angel Network,4026.0,1150000.0
+Bing Fund,2012.0,1130000.0
+Mandelbrot Ventures,2006.0,1130000.0
+DataArt,2009.0,1125000.0
+First Light Ventures,18097.0,1114000.0
+Zimmerman Ventures,2012.0,1100000.0
+42 Ventures,20096.0,1100000.0
+National Institute of Environmental Health and Safety,2009.0,1100000.0
+USAID,4026.0,1100000.0
+Defense.Net,2014.0,1100000.0
+WoodGen LLC,2013.0,1100000.0
+Tech Square Ventures,2014.0,1100000.0
+Midtown Partners,2009.0,1100000.0
+Mount Hood Equity Partners,4014.0,1100000.0
+500 Hats,2010.0,1100000.0
+Broadmark Capital,2014.0,1100000.0
+White Birch Capital,2011.0,1100000.0
+Denny Hill Capital,2013.0,1100000.0
+FinistÃ¨re Business Angels,2009.0,1090000.0
+Disney Accelerator,22154.0,1080000.0
+Highway1,4028.0,1064999.0
+VentureSpur,16110.0,1060000.0
+Socialatom Ventures,6041.0,1052500.0
+Merced Partners,4027.0,1050000.0
+The Impact Engine,32209.0,1025000.0
+Mass Clean Energy Center,2010.0,1025000.0
+Altaris Capital Partners,6037.0,1020000.0
+Epiphany Health Ventures,2014.0,1006361.0
+IDEAS Ventures,4020.0,1000000.0
+West Virginia Jobs Investment Trust Board,4013.0,1000000.0
+Post Investment Group,2014.0,1000000.0
+Cascade Angels Fund,2015.0,1000000.0
+e.Republic Ventures,2014.0,1000000.0
+Scholastic,2013.0,1000000.0
+Liahona Ventures,2012.0,1000000.0
+Zilker Ventures,2012.0,1000000.0
+Microsoft Research,2012.0,1000000.0
+INROADS Capital Partners,2006.0,1000000.0
+Arizona Technology Investor Forum,2010.0,1000000.0
+HopeLab,2010.0,1000000.0
+StepStone Angels,2010.0,1000000.0
+AppFund,2011.0,1000000.0
+Daring Journey Ventures,2013.0,1000000.0
+"Archimede Ventures, Inc.",2011.0,1000000.0
+Partnership Capital Growth Investors,34163.0,1000000.0
+StockTwits,2014.0,1000000.0
+Prairie Angels,2001.0,1000000.0
+Eaglebrook School,2007.0,1000000.0
+Synetro Group,6022.0,1000000.0
+Shuttleworth,2012.0,1000000.0
+Data Elite,2014.0,1000000.0
+Stratus Ventures,2006.0,1000000.0
+String Ventures,2015.0,1000000.0
+Golden Angels Investors,2014.0,1000000.0
+Arrowhead Research,2011.0,1000000.0
+Think Food Group,2014.0,1000000.0
+Spire,2015.0,1000000.0
+Holdings Industries,20140.0,1000000.0
+NameMedia,2009.0,1000000.0
+Scale Capital,2013.0,1000000.0
+Silicon Laboratories,2006.0,1000000.0
+Yesmail,2001.0,1000000.0
+Richmond Management,2013.0,1000000.0
+Indo-US Venture Partners,2012.0,1000000.0
+Xtreme Labs,2010.0,1000000.0
+Makeover Solutions,2011.0,1000000.0
+Bellwether,2014.0,1000000.0
+Procyon Ventures,8056.0,1000000.0
+Maker Studios,2014.0,1000000.0
+Klein Venture Partners,4017.0,1000000.0
+Europlay Capital Advisors,2013.0,1000000.0
+SM Ventures,2012.0,1000000.0
+Banyan Ventures,2013.0,1000000.0
+Barron Partners,2011.0,1000000.0
+Ingram Content Group,4027.0,1000000.0
+Mountaineer Capital,4013.0,1000000.0
+Far West Capital,2011.0,1000000.0
+Cuban Council,2012.0,1000000.0
+TIBCO Software,2013.0,1000000.0
+K2 Media,2011.0,1000000.0
+Xcel Group,2008.0,1000000.0
+Marin Venture Capital,2007.0,990000.0
+Greenstart,4024.0,970000.0
+Institute for the Commercialization of Public Research,8054.0,950000.0
+Palm Ventures,2010.0,950000.0
+Kentucky Seed Capital Fund,2006.0,930000.0
+ventureblue Capital,4019.0,927417.0
+Greer Capital Advisors,2007.0,925000.0
+Startup Minds,6038.0,920000.0
+Microsoft Ventures Accelerator Seattle,18126.0,915000.0
+Arch Grants,28179.0,910000.0
+Seedline,2009.0,908000.0
+Originate,2013.0,900000.0
+Net Element,2011.0,900000.0
+Joyce,6041.0,900000.0
+D2M,2013.0,900000.0
+Menlo Incubator,2011.0,900000.0
+Com2uS Corp.,2010.0,900000.0
+Healthbox,96611.0,896700.0
+Tradecraft,2014.0,880000.0
+3Degrees,2014.0,880000.0
+RAIN Source Capital,2008.0,860000.0
+Center for Innovation,2014.0,857750.0
+Monumental Venture Partners,2013.0,850000.0
+U.S. Department of Education,2007.0,850000.0
+Academic Partnerships,2012.0,850000.0
+Fundable,6040.0,846800.0
+Educational Development Corporation,6035.0,840000.0
+F50,2015.0,830000.0
+Franklin Wireless,2009.0,830000.0
+7-Eleven,2013.0,820000.0
+Palermo Venture Capital,6040.0,810000.0
+Great Lakes Angels,2007.0,800000.0
+Go4Funding,2008.0,800000.0
+Global Telesat,2009.0,800000.0
+RockThePost,4028.0,800000.0
+Vaux les Ventures,4018.0,800000.0
+AVG Technologies,4024.0,800000.0
+Rees Capital,2013.0,800000.0
+Booster,2014.0,800000.0
+Neoforma,2006.0,800000.0
+Vodia Ventures,2013.0,800000.0
+Swiftwing Ventures,2014.0,792132.0
+NMotion,40274.0,780000.0
+Mitchell Martin,2015.0,750000.0
+Ohio Innovation Fund,2013.0,750000.0
+Outlier Capital,2014.0,750000.0
+Pixafy,2013.0,750000.0
+Creeris Ventures,2008.0,750000.0
+CB Alliance,2014.0,750000.0
+Sacramento AQMD,2008.0,750000.0
+Onevest,2014.0,750000.0
+2x Consumer Products Growth Partners,2010.0,750000.0
+OnPoint Media,2011.0,750000.0
+Evermore Investments,2005.0,750000.0
+Recoleta Ventures,4027.0,750000.0
+a>m ventures,8046.0,750000.0
+KaveriCTD LLC,4024.0,750000.0
+Zell Lurie Commercialization Fund,2014.0,750000.0
+Good Works Ventures,2012.0,750000.0
+Fotolia,2011.0,750000.0
+Mantra Information Services,2014.0,750000.0
+Geocapital Partners,2005.0,750000.0
+New Media Ventures,2014.0,750000.0
+Wieden + Kennedy,2012.0,750000.0
+Wearable World,2013.0,750000.0
+SDR Ventures,2005.0,750000.0
+Computime Equity Ventures,2013.0,730000.0
+Brooklyn Incubator,2013.0,700000.0
+BELLE Capital,2011.0,700000.0
+Huntsville Angel Network,2012.0,700000.0
+National Science Foundation- SBIR/STTR Program,2014.0,700000.0
+AD Gilhart & Co,2008.0,700000.0
+Calim Private Equity,2008.0,700000.0
+Sustainable Resource Ventures,2008.0,660000.0
+Curious Pictures,2013.0,660000.0
+iSelectFund,14096.0,652500.0
+Cherub Fund,2014.0,650000.0
+Fox Ventures,2014.0,650000.0
+Ambistia Ventures,12045.0,650000.0
+Bit Angels,4026.0,650000.0
+Startup Next,2014.0,645000.0
+Luminary Labs,8053.0,643300.0
+ATX Seed Ventures,4029.0,640750.0
+El Paso Corporation,2013.0,635000.0
+Spinnaker Trust,2011.0,630000.0
+Lakshmi Capital,2011.0,625000.0
+National Space Biomedical Research Institute,2014.0,625000.0
+Monthly Ventures,6041.0,616000.0
+Frontier Angel Fund,4028.0,602400.0
+3D Systems,2013.0,600000.0
+MTC Software,2013.0,600000.0
+D2M - Direct 2 Manufacturer,2013.0,600000.0
+"Spafinder® Wellness, Inc.",2007.0,600000.0
+Minority Angel Investor Network,2010.0,600000.0
+Loeb Enterprises,2011.0,600000.0
+MedioStream,2004.0,600000.0
+World Wide Web Hosting,2013.0,600000.0
+Augustine Capital,2012.0,600000.0
+"9mmedia, LLC",2012.0,600000.0
+Yuxi Pacific,2011.0,600000.0
+Whittier Trust,2013.0,600000.0
+Bose International Investement Fund,4021.0,600000.0
+Upstart Labs,2013.0,600000.0
+Seattle Angel Conference,2013.0,600000.0
+DeNA Global,2014.0,580000.0
+Quintus Ventures,4026.0,575000.0
+New England Clean Energy Council,2008.0,569311.0
+Continental Capital,2006.0,560000.0
+SproutBox,4020.0,560000.0
+USC Viterbi Startup Garage,34228.0,550000.0
+Columbia University - Columbia Business School,4024.0,550000.0
+Mediastay,2008.0,547000.0
+InCrowd Capital,2014.0,541851.0
+Curious Minds,6040.0,530000.0
+BioInspire,2013.0,520000.0
+AdmitOne Security,2006.0,510000.0
+HCA,14091.0,510000.0
+Fledge,58386.0,507000.0
+ProtectCELL,2010.0,500000.0
+Rhxo Technology Group,4019.0,500000.0
+Meidlinger Partners,2010.0,500000.0
+Charlotte Angel Fund,2014.0,500000.0
+"Spektra Capital, LLC.",2013.0,500000.0
+Oxygen Biotherapeutics,2014.0,500000.0
+Orrick,2014.0,500000.0
+eCoast,2013.0,500000.0
+Intellecap,2014.0,500000.0
+Northwest Georgia Bank,2003.0,500000.0
+RhoWest,2014.0,500000.0
+FacePaint,2013.0,500000.0
+South Coast Angel Fund,2011.0,500000.0
+Foley & Lardner,2013.0,500000.0
+Erie County Industrial Development Agency,2009.0,500000.0
+Tennessee Technology Development Corporation,2012.0,500000.0
+Texas Entrepreneur Networks,2012.0,500000.0
+GO Ventures,2011.0,500000.0
+Cytyc,2009.0,500000.0
+TNB Financial Services,2012.0,500000.0
+Western New York Venture Association,2009.0,500000.0
+Grassmere Partners,2010.0,500000.0
+Pluto TV,2014.0,500000.0
+CAP Partners,2011.0,500000.0
+LiveOps,2010.0,500000.0
+414 Media Advisors,2014.0,500000.0
+Distinguished Gentlemen Group,2010.0,500000.0
+Accelerate Long Island,10070.0,500000.0
+Accelerant Capital Partners,2012.0,500000.0
+"Mayfly Capital, LLC",2013.0,500000.0
+U.S. Small Business Administration,2011.0,500000.0
+CrossCoin Ventures,2014.0,500000.0
+TBJ Investments,2008.0,500000.0
+Trilibis,2010.0,500000.0
+Monument Capital Partners,2006.0,500000.0
+Gaiacom,1999.0,500000.0
+GW Holdings LLC,2014.0,500000.0
+Small World Group,2011.0,483333.0
+Deming Center for Entrepreneurship,2014.0,480000.0
+StartUp PHL,4027.0,470000.0
+1apeiron,2014.0,456000.0
+Monarch Ventures,2011.0,450000.0
+Rock & Hammer Ventures,8048.0,450000.0
+2500 Bachman Ventures,2014.0,450000.0
+Compuware,2011.0,450000.0
+Points International,2014.0,450000.0
+Envy Capital,2011.0,450000.0
+StubHub,2011.0,450000.0
+Operating Venture Capital,2012.0,450000.0
+i2E Immersion,26173.0,450000.0
+Abstraction Ventures,2012.0,450000.0
+Threadless,2013.0,450000.0
+Hattery,6040.0,450000.0
+Concept2Company Ventures,2004.0,440000.0
+Startup Monthly,4027.0,438000.0
+LaunchHouse,78467.0,430000.0
+Fund for Arkansas' Future,2013.0,428333.0
+9Mile Labs,40271.0,427000.0
+Discovery Alliance LLC,2013.0,425000.0
+Acceleprise San Francisco,16112.0,410000.0
+Capsalus,2010.0,400000.0
+Rocket Venture Fund,2013.0,400000.0
+Angel Capital Group,6041.0,400000.0
+Analytics Ventures,6040.0,400000.0
+Tribal Ventures,2014.0,400000.0
+Kinetic,2014.0,400000.0
+Ingram Book Group,4023.0,400000.0
+Mind the Seed - MTS Fund,6038.0,387500.0
+Student-Run Venture Funds,2014.0,385000.0
+MKS Instruments,2015.0,382000.0
+ArcView Group,4027.0,375000.0
+Inara Ventures,2011.0,370000.0
+Inception Micro-Angel Fund - West,2011.0,370000.0
+Charles Schwab,2008.0,370000.0
+Illumina Accelerator,6042.0,360000.0
+Tumml,26179.0,360000.0
+Ark Challenge,52325.0,358333.0
+Breakout Labs,10068.0,350000.0
+37 Angels,4028.0,350000.0
+Mbloom,2014.0,350000.0
+Sirti Technology Growth Fund,2008.0,350000.0
+Capital Bank,2014.0,342500.0
+inQbation Labs,8053.0,340000.0
+TechLaunch,16102.0,340000.0
+Fluid Innovation Group,2012.0,325000.0
+StartLabs,10068.0,320827.0
+White Sand Group,2008.0,320000.0
+Columbia Business School,2013.0,320000.0
+A&M Investments,2008.0,301000.0
+Leo Burnett,2014.0,300000.0
+New Ventures Group,2010.0,300000.0
+Bolt,6039.0,300000.0
+Beacon Law Advisors,2006.0,300000.0
+Rubicon,2013.0,300000.0
+Evolve!,2013.0,300000.0
+"Clayton, Dubilier & Rice",2000.0,300000.0
+Wisconsin Economic Development Corporation (WEDC),4027.0,300000.0
+North Shore InnoVentures,2013.0,300000.0
+Chelsea Venture Partners,2011.0,300000.0
+BootstrapLabs,2014.0,300000.0
+Saturday Capital,2013.0,300000.0
+GrubHub,2014.0,300000.0
+Business Growth Center,2013.0,300000.0
+Greentown Labs,2013.0,300000.0
+Simplepitch Ventures,2014.0,300000.0
+Start Engine,64388.0,286000.0
+Havas Worldwide,2014.0,275000.0
+PIE,46279.0,262000.0
+10Xelerator,42259.0,260000.0
+Coed Media Group,2013.0,260000.0
+Shotput Ventures,12054.0,257500.0
+The Entrust Group,2014.0,257000.0
+Forest Giant,2011.0,255000.0
+The Launch Place,2014.0,250000.0
+Lilly Endowment,2013.0,250000.0
+Vegas Valley Angels,2007.0,250000.0
+NYSERDA,2008.0,250000.0
+Film Victoria,4019.0,250000.0
+"Angel Round Capital (""ARC"") Fund",2014.0,250000.0
+Gordon River Capital,2005.0,250000.0
+Arizona Commerce Authority,2012.0,250000.0
+InvisibleCRM,2013.0,250000.0
+Simon School Venture Capital Fund,2013.0,250000.0
+Modea,2011.0,250000.0
+Bluechilli,2012.0,250000.0
+Infinitude Inc,2013.0,250000.0
+Ottoman Ventures,2011.0,250000.0
+Code Particle,2013.0,250000.0
+Stanford Angels and Entrepreneurs,4024.0,245000.0
+Mexican.VC,18100.0,240000.0
+IDEA Northeastern University's Venture Accelerator,4028.0,235000.0
+LearnLaunchX,26176.0,234000.0
+US Government,2010.0,229900.0
+Future Drinks Company,2014.0,227287.0
+CrunchFire Technologies/Ventures,4027.0,225000.0
+Amcref Community Capital,2012.0,225000.0
+U.S. Economic Development Administration,2011.0,211500.0
+The JumpFund,2014.0,200000.0
+Wakie,2014.0,200000.0
+NetAge,2012.0,200000.0
+Nations Advisory Partners,2010.0,200000.0
+reInvention Capital,4019.0,200000.0
+Carol McAtee & Associates,2008.0,200000.0
+Mexican Federal Government,2008.0,200000.0
+"Joey Capital, LLC",4027.0,200000.0
+Underground Printing,2012.0,200000.0
+Helinger Advertisement,2008.0,200000.0
+ApogeeInvent,2009.0,200000.0
+Humanity United,2008.0,200000.0
+Skyway Fund,2013.0,200000.0
+Namecheap.com,2012.0,200000.0
+Raidious,2013.0,200000.0
+Venture Hive,8055.0,195000.0
+Conscious Venture Lab,14098.0,187000.0
+NHS,2012.0,180000.0
+PlanLogix,2008.0,180000.0
+Seed Hatchery,28165.0,165000.0
+MergeLane,16120.0,160000.0
+MAC6,4024.0,160000.0
+Straight Shot,4027.0,155000.0
+midVentures,2013.0,151525.0
+Listen,2011.0,150000.0
+"Lagovent Ventures Group, LLC",2007.0,150000.0
+Virginia's Center for Innovative Technology,4015.0,150000.0
+The Yield Lab,8060.0,150000.0
+Cradle,6032.0,144000.0
+AZ Furnace Accelerator,10060.0,138999.0
+Pivotal Labs,2009.0,135000.0
+Hart Ventures,12060.0,134000.0
+Mint,2012.0,129478.0
+Alfred P. Sloan Foundation,2012.0,125000.0
+DRÆM VENTURES,12078.0,125000.0
+Investment Partners,2013.0,125000.0
+blisce/,2012.0,125000.0
+Bentley Systems,2011.0,125000.0
+Differential,2014.0,120000.0
+Six Degrees Capital,2004.0,120000.0
+Darling Ventures,4028.0,120000.0
+University of Southern California,2014.0,106000.0
+International Coach Federation,2014.0,105000.0
+Encore,2012.0,100000.0
+Empire Media,2004.0,100000.0
+BioAccel,2014.0,100000.0
+Kickstarter,2014.0,100000.0
+Quattro Development,2011.0,100000.0
+Tadlock Enterprises,2011.0,100000.0
+Cumorah Capital,2010.0,100000.0
+Dorsey Wright and Associates,2011.0,100000.0
+Intridea,4023.0,100000.0
+Elauwit,2010.0,100000.0
+KBJ Capital,2010.0,100000.0
+Flora Family Foundation,4023.0,100000.0
+Heartland Bridge Capital,2011.0,100000.0
+UpTech Accelerator,12084.0,100000.0
+Everest Group,2007.0,100000.0
+Idyllic Software,2012.0,100000.0
+ExpertRating Solutions,2013.0,100000.0
+AFC First Financial,2006.0,100000.0
+Wings Fund,2010.0,100000.0
+Founders Factory,4024.0,90000.0
+Harvard University,6037.0,90000.0
+"University at Buffalo, The State University of New York",2009.0,85000.0
+Energy Excelerator,4027.0,75000.0
+Center for the Advancement of Science in Space,2014.0,75000.0
+Mach37,32220.0,75000.0
+Travel Startups Incubator,8057.0,75000.0
+Upward Mobility,2011.0,75000.0
+Project Skyway,14080.0,72000.0
+SI Group,2011.0,70000.0
+BoomStartup,72419.0,65000.0
+Mind The Bridge,4026.0,65000.0
+Park Avenue Equity Partner,2005.0,60000.0
+Civic Innovation Lab,2008.0,60000.0
+Trilogy,2011.0,60000.0
+Mulago Foundation,2009.0,60000.0
+GBS/CIDP Foundation International,2012.0,55000.0
+Providence Economic Development Partnership,2012.0,55000.0
+Red Tree Labs,2014.0,50000.0
+Iowa Dept of Economic Development,2011.0,50000.0
+University of Pennsylvania,2013.0,50000.0
+SeedSumo,2014.0,50000.0
+Cartel Capital,2009.0,50000.0
+Bucknell Venture Plan Competition,2011.0,50000.0
+Global IP Video,2008.0,50000.0
+Penn Medicine,2013.0,50000.0
+St. Louis Economic Development Partnership,2013.0,50000.0
+Matter,2013.0,50000.0
+Venturef0rth,2013.0,50000.0
+RadWebTech,2010.0,50000.0
+Centuria Ventures,2011.0,50000.0
+Palo Alto Venture Science,2012.0,50000.0
+Tejas Technologies,2006.0,50000.0
+Syracuse Center of Excellence,2008.0,48000.0
+Thomson Ventures,2014.0,40860.0
+Flashpoint at Georgia Tech,4027.0,40000.0
+Connecticut Center for Advanced Technology,2011.0,30000.0
+Startup Labs,4024.0,30000.0
+Texas Capital Management,2008.0,30000.0
+Enova,2011.0,29983.0
+Aedeas Group,2009.0,25000.0
+"SaltMines Group, LLC",2014.0,25000.0
+Innovation Lab,2013.0,25000.0
+OneTraction,2014.0,25000.0
+New York University,2008.0,25000.0
+Launch Pad,2011.0,25000.0
+Tides Foundation,2009.0,25000.0
+Indiegogo,2013.0,25000.0
+Privaris,2013.0,22818.0
+LaunchPad Coworking,2011.0,22500.0
+Ballard Center for Economic Self Reliance,2009.0,22000.0
+Awesome Inc,10058.0,20000.0
+Momentum,4019.0,20000.0
+Creative Logic Media,2010.0,20000.0
+SparkLabKC,2013.0,18000.0
+Gangplank,2008.0,15000.0
+Velocity Indiana,2014.0,15000.0
+ESA,2012.0,12611.0
+Arizona State University,4019.0,12000.0
+University of Southern Maine,2008.0,10000.0
+Libra Future Fund,4015.0,10000.0
+Wharton Ventures,2009.0,10000.0
+CRDF Global,2013.0,10000.0
+"CSU, Chico",2012.0,10000.0
+John Templeton Foundation,2009.0,10000.0
+University of Maryland,2013.0,6500.0
+VeeTechnologies USA,2014.0,5000.0
+Kiip,2012.0,5000.0
+StartOut,2012.0,5000.0
+Globo,2012.0,3696.0
+Boston University,4028.0,2500.0
+UW-Eau Claire Office of Research and Sponsored Programs,2011.0,1000.0
+The Vedas Group,2014.0,0.0
+Old City Partners,2006.0,0.0
+137 Ventures,28169.0,
+21 Investimenti,2011.0,
+80Amps,2013.0,
+AG B,2001.0,
+AUA Private Equity Partners,2012.0,
+Abakan,2009.0,
+Aciex Therapeutics,2007.0,
+Akoya Capital Partners,2015.0,
+Aleutian Capital Partners,2013.0,
+Alienware,2010.0,
+Alliance Consumer Growth,4028.0,
+Amazon.com,2014.0,
+Amdocs,2009.0,
+Angel Dough Ventures,2015.0,
+Angel's Lancaster Angel Network,2008.0,
+Angels with Attitude,2003.0,
+AppSense,2012.0,
+Artemis Capital Partners,4022.0,
+Asset Alliance Corporation,2013.0,
+Associated Press,2013.0,
+Astor Capital,4023.0,
+Auster Capital Partners,2012.0,
+"B Train Lab, LLC",2014.0,
+BBH ZAG,2014.0,
+BLADE Network,2014.0,
+Babson Capital Management,2015.0,
+Balance Point Capital Partners,2014.0,
+Batterson Venture Capital,2013.0,
+Bedford Funding,2012.0,
+Beecken Petty O'Keefe & Company,2006.0,
+Bellwether Financial Group,2014.0,
+Berkeley Ventures,4020.0,
+Berkshire Partners,4022.0,
+Biltmore Ventures,2007.0,
+Birri Holdings,4002.0,
+"Blooston, Mordkofsky, Dicken, Duffy & Prendergast",2009.0,
+Blue Ridge Foundation,4025.0,
+Bolt Innovation Group,2013.0,
+Bonnier Corporation,2013.0,
+Bregal Partners,2013.0,
+Broadhaven Capital Partners,4024.0,
+Broadsword Partners,2007.0,
+Brooklyn NY Holdings,2007.0,
+"Bruckmann, Rosser, Sherrill & Co.,",2014.0,
+C & G Capital Partners,2010.0,
+C5 Partners,2013.0,
+CDC Software,2010.0,
+Campus Televideo,2014.0,
+Canopy Capital Partners,2011.0,
+Capella Education Company,2011.0,
+Cerium Technology,2015.0,
+Cerner Capital,2013.0,
+Channel Mark Ventures,2014.0,
+Chelsea Management,2011.0,
+Christina Ventures,2014.0,
+Citysearch,2010.0,
+Clearlake Capital Group,8052.0,
+Coca-Cola Founders,12083.0,
+Colbeck Capital,2012.0,
+Colchester Capital,2013.0,
+Columbia Partners Private Capital,38155.0,
+Cornell University,2012.0,
+Crucial Point,2010.0,
+Cummins,2013.0,
+CustomInk,4025.0,
+DC Capital Partners,2003.0,
+DIRECTV,4026.0,
+DST Systems,2015.0,
+Dangerbox,2011.0,
+Darby Private Equity,2014.0,
+Datran Media,2008.0,
+Dauk/Wagner Investments,2013.0,
+Dhillon Capital,4015.0,
+Digital First Ventures,2013.0,
+Digital Sandbox KC,2013.0,
+Doll Capital Management,2014.0,
+Dotsub,2012.0,
+E*Trade Financial Corporation,1999.0,
+EBITDA,2008.0,
+EDG Partners,2014.0,
+EPIC Companies,2013.0,
+"East-West Capital Partners, LLC",2008.0,
+Ellis Energy Investments,2013.0,
+EnerNOC,2014.0,
+Enlightenment Capital,4028.0,
+Envisage Equity,2014.0,
+EquityZen,8056.0,
+Euronet Worldwide,2011.0,
+Excellere Partners,6039.0,
+Exium Partners,2013.0,
+Falfurrias Capital Partners,2011.0,
+Fidus Investment Corporation.,2015.0,
+First Reserve Corporation,4025.0,
+Flextronics,2014.0,
+Friedman Fleischer & Lowe (FFL),2014.0,
+FusionX,2010.0,
+Future US,2008.0,
+GDF SUEZ Energy North America,2013.0,
+GMH Ventures,2011.0,
+Gazelle Lab,12067.0,
+GenNx360 Capital Partners,2014.0,
+GfK,2013.0,
+Gilfus Venture Partners,2007.0,
+Glenwood Group,2008.0,
+Global Bay Mobile,2002.0,
+Goldman Sachs Specialty Lending Group,2014.0,
+Grand Oaks Capital,4027.0,
+Graycliff Partners,2014.0,
+Grey Mountain Partners,2013.0,
+Guardian Capital Partners,2011.0,
+H&R Block,2011.0,
+H.I.G. Growth Partners,4028.0,
+HDC 4Point Dynamics,2006.0,
+HFF Investments,2008.0,
+HRJ Capital,2007.0,
+Harry & David Holdings,2000.0,
+Hastings Equity Partners,4024.0,
+High Tech Rochester,2009.0,
+Highmark Blue Shield,2008.0,
+Hopen Therapeutics,2008.0,
+Housatonic Partners,2011.0,
+Huron Capital,2013.0,
+IDG Partners,2006.0,
+Incline Equity Partners,2015.0,
+Incubate Miami,14086.0,
+Ingenology,2014.0,
+Instinet,1999.0,
+Integrated Silicon Solution,2012.0,
+InterDigital Communications,2009.0,
+InterMedia Partners,2009.0,
+International Securities Exchange Holdings,2009.0,
+Internet Real Estate Group,2007.0,
+Intertrust,2011.0,
+Intertrust Technologies,2012.0,
+InvestorLoft,2011.0,
+Iowa Startup Accelerator,20140.0,
+Irving Place Capital,2013.0,
+JH Partners,4023.0,
+JMP Group,2014.0,
+JWI Capital,2011.0,
+KAYWEB Angels,2011.0,
+KRG Capital Partners,2012.0,
+Kensey Nash Corporation,2011.0,
+Khalda Development,2007.0,
+KickLabs,10051.0,
+Kormeli,4023.0,
+Kroger,2006.0,
+Levine Leichtman Capital Partners,2013.0,
+Lexalytics,2011.0,
+Light Beam Capital,2014.0,
+Link-age Ventures,2012.0,
+Littlejohn & Co,2013.0,
+London Bay Capital,2009.0,
+LoopNet,2010.0,
+Los Angeles Times Media Group,2007.0,
+Lumis Partners,2013.0,
+MDC Partners,2008.0,
+MKN Web Solutions,4022.0,
+MLB Advanced Media,2014.0,
+Magellan Health Services,2013.0,
+Magna International,2014.0,
+"Mantra, Inc.",2013.0,
+Match,2011.0,
+Maxim Integrated Products,2012.0,
+McCarthy Capital,4023.0,
+McCulloch Capital Advisors,2014.0,
+Med-Pharmex,2009.0,
+Metalmark Capital,2011.0,
+Metro Global Ventures,2013.0,
+MidOcean Partners,4024.0,
+Moelis Capital Partners,2014.0,
+Momentum Equity Partners,2013.0,
+Monument Capital Group,2012.0,
+Move,2014.0,
+NCLUSIVE,4026.0,
+NYC SeedStart,2014.0,
+Najafi Companies,2013.0,
+Naples Ventures,2010.0,
+National Association of REALTORS®,2014.0,
+National Geographic,4018.0,
+NetScientific,2012.0,
+New Energy Fund,2008.0,
+"New Europe Ventures, LLC",2013.0,
+New Evolution Ventures (NeV),2011.0,
+New Mountain Capital,2011.0,
+New State Capital Partners,2014.0,
+New York City Economic Development Corporation - NYCEDC,2012.0,
+NextStart,8036.0,
+Nielsen,2013.0,
+Nike+ Fuel Lab,2013.0,
+Norseman Capital,2010.0,
+OSIX,2014.0,
+Oblix,2002.0,
+Obvious,4020.0,
+Omphalos Venture Partners,2013.0,
+OptiJob,2015.0,
+Outpoint Capital Management,2011.0,
+Packet Design,2002.0,
+Paine & Partners,2014.0,
+Palladium Equity Partners,4028.0,
+Palmetto Partners,2013.0,
+Peery Partners,2013.0,
+Periscope Equity,2015.0,
+Pet360,2014.0,
+Photobucket,2009.0,
+Pine Street Capital Partners,2014.0,
+Platinum Equity,2014.0,
+Platte River Ventures,2012.0,
+Plexus Capital,2014.0,
+Plug and Play Accelerator,2014.0,
+Primus Capital Partners,2014.0,
+Pritzker Group Private Capital,20101.0,
+Pylon Capital,2013.0,
+R.W. Pressprich & Co,2009.0,
+RLJ Credit Management,2014.0,
+Raptor Consumer Partners,2012.0,
+Red Oak Growth Partners,2013.0,
+Revelstoke Capital Partners,4030.0,
+Revolution Capital Partners,4017.0,
+Rexyo,2010.0,
+Rhapsody,2014.0,
+Rhône Group,2011.0,
+Richert Funding,2011.0,
+Ridgemont Equity Partners,6035.0,
+Roark Capital Group,2014.0,
+Rock Financial Partners,2010.0,
+Rotunda Capital Partners,4028.0,
+SC Greentech Ventures,2007.0,
+SEED Venture Finance,2007.0,
+SEKO Logistics,2013.0,
+SFW Capital Partners,4027.0,
+SK Capital Partners,2015.0,
+SKTA Innopartners,8054.0,
+Samsung Global Innovation Center,2014.0,
+Saugatuck Capital,2014.0,
+Select Capital Ventures,2002.0,
+Sentinel Capital Partners,2010.0,
+Sharkey Goldstein Capital,2008.0,
+Shore Points Capital,2013.0,
+Social Sector Ventures,2013.0,
+Solera Holdings,2010.0,
+Solis Capital Partners,2014.0,
+Solomon Global Holdings,2011.0,
+Source Capital,2012.0,
+"Spinnaker Capital Partners, LLC",2007.0,
+Springfield Angels,2011.0,
+Stanford Hospital & Clinics,2012.0,
+State Street Corporation,2012.0,
+Superior Capital Partners,2013.0,
+Sverica International,8042.0,
+Swander Pace Capital,4028.0,
+T-Mobile,2008.0,
+T4Media,2007.0,
+TPH Partners,2015.0,
+TSG Consumer Partners,2012.0,
+Tamarisc,2014.0,
+Tampa Bay WaVE,6042.0,
+Tapinator,2014.0,
+Teakwood Capital,4026.0,
+Tengram Capital Partners,2012.0,
+The Bollard Group,2000.0,
+The Gores Group,2014.0,
+The Paliwoda Group,12072.0,
+The Start Project,2010.0,
+The Walt Disney Company,2009.0,
+Topspin LBO,2012.0,
+Transition Capital Partners,2013.0,
+Transom Capital Group,2011.0,
+Trinity Hunt Partners,4026.0,
+TripAdvisor,2008.0,
+Tune,2014.0,
+UCSD vonLiebig Center,2008.0,
+Union First Market Bank,2014.0,
+United Community Banks,2014.0,
+United Technologies,2009.0,
+University of Washington,2014.0,
+Venture Farm,2008.0,
+VeraSun Energy,2007.0,
+Virgo Capital,2011.0,
+WFA Global Investments,2012.0,
+Walnut St. Labs,4028.0,
+WebAction,2012.0,
+West Partners,4028.0,
+WestMill Capital,2012.0,
+Whitespace Labs,2013.0,
+Wynnchurch Capital,2013.0,
+YellowBot,2011.0,
+Yukon Partners,2014.0,
+ZJ Innopark,2001.0,
+ZoomInfo,2008.0,
+angelMD,2014.0,
+brands4friends,2010.0,
+caltius equity partners,2014.0,
+eHarmony,2010.0,
+edX,2014.0,
+for; to (do),4017.0,
+genYcapital,2013.0,
+glendonTodd Capital,2011.0,
+iEurope Capital,2014.0,

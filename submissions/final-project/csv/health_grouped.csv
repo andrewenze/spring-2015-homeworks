@@ -1,0 +1,978 @@
+,city,country_code,founded_year,funding_total_usd,region,state_code
+87,Philadelphia,USA,2011.0,0,Philadelphia,PA
+228,Chattanooga,USA,2014.0,7500,Chattanooga,TN
+600,Dallas,USA,,2012700,Dallas,TX
+606,Tempe,USA,2009.0,1500000,Phoenix,AZ
+607,Minneapolis,USA,2000.0,583000000,Minneapolis,MN
+608,New York,USA,2008.0,9000000,New York City,NY
+647,Minnetonka,USA,2009.0,132500,Minneapolis,MN
+658,Knoxville,USA,2006.0,28364818,Knoxville,TN
+683,San Diego,USA,,101385000,San Diego,CA
+694,Pittsburgh,USA,2012.0,25000,Pittsburgh,PA
+702,Tucson,USA,2004.0,63016244,Tucson,AZ
+705,Guilford,USA,,150000,Hartford,CT
+734,Mountain View,USA,2002.0,13793098,SF Bay Area,CA
+738,Lake Mary,USA,1997.0,46900000,Orlando,FL
+745,San Diego,USA,2004.0,21376001,San Diego,CA
+762,Plymouth Meeting,USA,2007.0,53744444,Philadelphia,PA
+807,Redwood City,USA,,93654902,SF Bay Area,CA
+811,St Louis,USA,2013.0,600000,St. Louis,MO
+821,South San Francisco,USA,2004.0,100905707,SF Bay Area,CA
+832,San Francisco,USA,2012.0,0,SF Bay Area,CA
+836,New Haven,USA,1998.0,50100000,Hartford,CT
+924,Indianapolis,USA,2009.0,950000,Indianapolis,IN
+926,Newton,USA,2010.0,16000000,Boston,MA
+972,East Hartford,USA,2009.0,550000,Hartford,CT
+982,Irvine,USA,2001.0,86000000,Anaheim,CA
+984,Minneapolis,USA,1998.0,1500321,Minneapolis,MN
+993,San Francisco,USA,2011.0,10000000,SF Bay Area,CA
+997,Lafayette,USA,2007.0,2000000,Denver,CO
+1012,Laguna Hills,USA,2011.0,6637111,Los Angeles,CA
+1017,Emeryville,USA,2000.0,82000000,SF Bay Area,CA
+1025,Colorado Springs,USA,,225000,Colorado Springs,CO
+1062,Roswell,USA,1988.0,34358700,Atlanta,GA
+1073,San Francisco,USA,2014.0,1800000,SF Bay Area,CA
+1077,Brentwood,USA,,3800000,Nashville,TN
+1091,Palatine,USA,1979.0,1240000,Chicago,IL
+1142,Moorpark,USA,,458912,Santa Barbara,CA
+1195,Austin,USA,2010.0,1990000,Austin,TX
+1295,Carlsbad,USA,1997.0,836778,San Diego,CA
+1312,St Louis,USA,2004.0,10500500,St. Louis,MO
+1336,Hingham,USA,2008.0,200000,Boston,MA
+1348,Pasadena,USA,2008.0,250000,Los Angeles,CA
+1427,Bridgewater,USA,2005.0,19814760,Newark,NJ
+1481,San Diego,USA,1999.0,11681234,San Diego,CA
+1482,Pittsburgh,USA,2001.0,21309215,Pittsburgh,PA
+1615,San Francisco,USA,2011.0,2000000,SF Bay Area,CA
+1635,Cambridge,USA,2008.0,86823937,Boston,MA
+1691,Edmond,USA,,900000,Oklahoma City,OK
+1721,Goodlettsville,USA,2005.0,250000,Nashville,TN
+1787,San Antonio,USA,2004.0,65000000,San Antonio,TX
+1844,Cambridge,USA,2007.0,83100000,Boston,MA
+1938,Lisle,USA,2002.0,14000000,NY - Other,NY
+1941,Burlington,USA,2004.0,7791560,Boston,MA
+1946,Bethesda,USA,2014.0,4500000,"Washington, D.C.",MD
+1970,Mountain View,USA,,68730309,SF Bay Area,CA
+2015,Jacksonville,USA,,0,Jacksonville,FL
+2016,San Jose,USA,,72299357,SF Bay Area,CA
+2023,Irvine,USA,2013.0,125000000,Anaheim,CA
+2027,Alpharetta,USA,2003.0,179300000,Atlanta,GA
+2073,New York,USA,2011.0,0,New York City,NY
+2081,Chicago,USA,,1415000,Chicago,IL
+2105,Logan,USA,2002.0,14300000,Salt Lake City,UT
+2149,Wellesley,USA,2009.0,4469794,Boston,MA
+2150,Menlo Park,USA,,6400000,SF Bay Area,CA
+2169,Cambridge,USA,,710000000,Boston,MA
+2188,Hayward,USA,,3092294,SF Bay Area,CA
+2204,Carlsbad,USA,1990.0,58950000,San Diego,CA
+2234,Chicago,USA,,1000000,Chicago,IL
+2243,Fremont,USA,2005.0,23000000,SF Bay Area,CA
+2291,Menlo Park,USA,2008.0,39999999,SF Bay Area,CA
+2333,Las Vegas,USA,2011.0,0,Las Vegas,NV
+2357,Rochester,USA,2014.0,1185800,"Rochester, Minnesota",MN
+2380,Salt Lake City,USA,2009.0,129625000,Salt Lake City,UT
+2433,Billerica,USA,1958.0,4500000,Boston,MA
+2446,Palm Beach Gardens,USA,1996.0,0,Palm Beaches,FL
+2467,Cranbury,USA,2002.0,74866943,Newark,NJ
+2519,San Francisco,USA,2011.0,1500000,SF Bay Area,CA
+2524,Nashville,USA,1979.0,6706000,Nashville,TN
+2553,Mountain View,USA,2012.0,255000,SF Bay Area,CA
+2572,Palo Alto,USA,2000.0,191500000,SF Bay Area,CA
+2586,Chicago,USA,2007.0,38550000,Chicago,IL
+2656,Nashville,USA,,0,Nashville,TN
+2670,Shrewsbury,USA,2001.0,27750000,Newark,NJ
+2689,Wheat Ridge,USA,2005.0,30150000,Denver,CO
+2704,San Diego,USA,2008.0,4486000,San Diego,CA
+2727,Los Gatos,USA,,13593104,SF Bay Area,CA
+2782,Franklin,USA,2004.0,4800000,Nashville,TN
+2783,Hayward,USA,2004.0,31500000,SF Bay Area,CA
+2840,Orlando,USA,2004.0,4041700,Orlando,FL
+2917,Saint Paul,USA,2006.0,44000000,Minneapolis,MN
+2930,Glendale,USA,,14155000,Los Angeles,CA
+2935,New York,USA,2004.0,31000000,New York City,NY
+2938,Greenville,USA,,20000,Greenville - Spartanburg,SC
+3238,San Francisco,USA,2013.0,120000,SF Bay Area,CA
+3247,Sunnyvale,USA,2002.0,40000000,SF Bay Area,CA
+3308,Palo Alto,USA,2005.0,25000000,SF Bay Area,CA
+3316,Kansas City,USA,2010.0,76750000,Kansas City,KS
+3328,Ann Arbor,USA,2011.0,8300000,Detroit,MI
+3402,Mountain View,USA,2003.0,64080000,SF Bay Area,CA
+3430,Durham,USA,1997.0,118352074,Raleigh,NC
+3566,Redwood City,USA,2006.0,53999998,SF Bay Area,CA
+3640,Carlsbad,USA,2007.0,500000,San Diego,CA
+3675,Winter Park,USA,,6025000,Orlando,FL
+3795,Sunnyvale,USA,2003.0,50000000,SF Bay Area,CA
+3846,Orinda,USA,1996.0,2000000,SF Bay Area,CA
+3853,Menlo Park,USA,2006.0,37673932,SF Bay Area,CA
+3991,Washington,USA,2010.0,55894778,"Washington, D.C.",DC
+4046,Waltham,USA,2008.0,20900000,Boston,MA
+4104,La Jolla,USA,2001.0,98817742,San Diego,CA
+4179,San Francisco,USA,2007.0,55000000,SF Bay Area,CA
+4204,Menlo Park,USA,2008.0,44025440,SF Bay Area,CA
+4249,Sunnyvale,USA,2004.0,49761910,SF Bay Area,CA
+4255,Belmont,USA,2008.0,552300,Grand Rapids,MI
+4264,Waltham,USA,2007.0,104300002,Boston,MA
+4289,Cambridge,USA,2012.0,113249997,Boston,MA
+4329,Redwood City,USA,2007.0,125796572,SF Bay Area,CA
+4339,Farmington,USA,2011.0,350000,Hartford,CT
+4417,Kalamazoo,USA,,3694598,Kalamazoo,MI
+4440,Cleveland,USA,2001.0,41123143,Cleveland,OH
+4450,Boston,USA,2002.0,4970000,Boston,MA
+4457,Kalamazoo,USA,2011.0,4000000,Kalamazoo,MI
+4787,Goleta,USA,2006.0,41300000,Santa Barbara,CA
+4793,Sunnyvale,USA,2003.0,15000000,SF Bay Area,CA
+4859,San Jose,USA,2005.0,31200000,SF Bay Area,CA
+4860,Raleigh,USA,2002.0,10000000,Raleigh,NC
+4924,Newton,USA,2008.0,10335613,Boston,MA
+5130,Mountain View,USA,,4500000,SF Bay Area,CA
+5169,San Diego,USA,2004.0,35513893,San Diego,CA
+5193,Santa Clara,USA,2004.0,149465921,SF Bay Area,CA
+5227,San Francisco,USA,2009.0,2100000,SF Bay Area,CA
+5235,Boston,USA,1989.0,65500000,Boston,MA
+5295,San Francisco,USA,2011.0,13125000,SF Bay Area,CA
+5308,Urbandale,USA,2010.0,550000,Des Moines,IA
+5337,Walnut Creek,USA,2009.0,461500,SF Bay Area,CA
+5365,San Antonio,USA,2006.0,40271141,San Antonio,TX
+5514,Cambridge,USA,2006.0,121847684,Boston,MA
+5515,Miami,USA,2009.0,685000,Miami,FL
+5552,Berkeley,USA,2012.0,650000,SF Bay Area,CA
+5559,San Diego,USA,,17102999,San Diego,CA
+5579,Danbury,USA,,48500002,Hartford,CT
+5605,Santa Monica,USA,2011.0,0,Los Angeles,CA
+5644,South San Francisco,USA,,12149999,SF Bay Area,CA
+5656,Memphis,USA,2012.0,140000,Memphis,TN
+5685,Durham,USA,2004.0,1500000,Raleigh,NC
+5689,Mansfield Center,USA,2007.0,486000,Hartford,CT
+5750,Hercules,USA,,302568,SF Bay Area,CA
+5757,Newbury,USA,2009.0,225000,Boston,MA
+5980,Ann Arbor,USA,2006.0,200000,Detroit,MI
+6039,Irvine,USA,2011.0,7010959,Anaheim,CA
+6076,Minneapolis,USA,2009.0,5000000,Minneapolis,MN
+6598,Clearwater,USA,1970.0,10000002,Tampa,FL
+6784,Burlingame,USA,2012.0,4600000,SF Bay Area,CA
+6839,Plymouth,USA,2005.0,35301007,Minneapolis,MN
+6939,Chicago,USA,2012.0,1000000,Chicago,IL
+6973,Mountain View,USA,,0,SF Bay Area,CA
+7411,La Jolla,USA,2006.0,59463635,San Diego,CA
+7419,Pasadena,USA,1999.0,26375917,Los Angeles,CA
+7484,Seattle,USA,,60369484,Seattle,WA
+7501,Framingham,USA,,9105809,Boston,MA
+7503,Tewksbury,USA,1990.0,7200000,Boston,MA
+7521,San Clemente,USA,2001.0,121000000,Anaheim,CA
+7586,San Antonio,USA,,9000000,San Antonio,TX
+7622,Menlo Park,USA,2006.0,2000000,SF Bay Area,CA
+7665,Palo Alto,USA,1999.0,22219087,SF Bay Area,CA
+7685,Saratoga,USA,2005.0,28216178,SF Bay Area,CA
+7724,Shelton,USA,,38800003,Hartford,CT
+7748,Palo Alto,USA,2005.0,30999999,SF Bay Area,CA
+7760,Seattle,USA,2010.0,41535988,Seattle,WA
+7772,Redwood City,USA,1997.0,13797958,SF Bay Area,CA
+7787,Cleveland,USA,2006.0,36050344,Cleveland,OH
+7795,Raynham,USA,2005.0,27205437,MA - Other,MA
+7796,West Bridgewater,USA,2006.0,11300000,New Bedford,MA
+7808,Sunnyvale,USA,2002.0,32930335,SF Bay Area,CA
+7827,Nashville,USA,2010.0,980000,Nashville,TN
+7828,Providence,USA,2011.0,525000,Providence,RI
+7854,Moorestown,USA,2010.0,7000000,NJ - Other,NJ
+7860,Seattle,USA,2000.0,17334450,Seattle,WA
+7861,Fort Lee,USA,,1300000,Newark,NJ
+7863,Horsham,USA,,1657428,Philadelphia,PA
+7864,Portland,USA,2004.0,60000000,"Portland, Oregon",OR
+7866,Bayonne,USA,2007.0,375000,Newark,NJ
+7872,San Francisco,USA,2012.0,0,SF Bay Area,CA
+7877,Chicago,USA,,0,Chicago,IL
+7882,Chicago,USA,2012.0,1210332,Chicago,IL
+7883,Seattle,USA,2010.0,13000000,Seattle,WA
+7952,Bothell,USA,,3035000,Seattle,WA
+7968,Alpharetta,USA,2005.0,30000000,Atlanta,GA
+7994,Branford,USA,,16925000,Hartford,CT
+8144,Scottsdale,USA,,27768738,Phoenix,AZ
+8232,Seattle,USA,1991.0,85060000,Seattle,WA
+8256,Eden Prairie,USA,1999.0,14424979,Minneapolis,MN
+8263,Mountain View,USA,2013.0,5000000,SF Bay Area,CA
+8270,Newark,USA,2008.0,12800000,SF Bay Area,CA
+8316,Chapel Hill,USA,2006.0,108119996,Raleigh,NC
+8360,Dallas,USA,,20000000,Dallas,TX
+8384,Westminster,USA,,55340328,Denver,CO
+8392,Mountain View,USA,2012.0,5924066,SF Bay Area,CA
+8427,Cambridge,USA,2006.0,116700000,Boston,MA
+8428,Hillsboro,USA,2003.0,30000000,"Portland, Oregon",OR
+8431,Redwood City,USA,2008.0,26899999,SF Bay Area,CA
+8546,Newington,USA,,41250,"Manchester, New Hampshire",NH
+8566,Greenville,USA,2012.0,2950000,Greenville - Spartanburg,SC
+8569,Richardson,USA,1995.0,8790112,Dallas,TX
+8615,Cleveland,USA,,8816166,Cleveland,OH
+8644,Mountain View,USA,1997.0,80540000,SF Bay Area,CA
+8664,Menlo Park,USA,,7800000,SF Bay Area,CA
+8670,San Ramon,USA,2003.0,360000,SF Bay Area,CA
+8694,Dallas,USA,1913.0,19000000,Dallas,TX
+8698,Durham,USA,2002.0,217200000,Raleigh,NC
+8819,Philadelphia,USA,2008.0,10000,Philadelphia,PA
+8846,Aliso Viejo,USA,2007.0,41250002,Anaheim,CA
+8853,New York,USA,,10000000,New York City,NY
+8963,Teaneck,USA,,74000000,Newark,NJ
+8974,Denver,USA,2012.0,1503386,Denver,CO
+9146,Miami,USA,,4000000,Miami,FL
+9242,Pittsburgh,USA,,19560275,Pittsburgh,PA
+9248,Bend,USA,2007.0,17970587,Eugene,OR
+9618,Boulder,USA,2009.0,356962756,Denver,CO
+9708,Maple Grove,USA,1999.0,21500000,Minneapolis,MN
+9740,Richmond,USA,,2000000,Richmond,VA
+9832,Boston,USA,2007.0,1000000,Boston,MA
+9869,Pittsburgh,USA,,78310709,Pittsburgh,PA
+9873,Salt Lake City,USA,2003.0,33000000,Salt Lake City,UT
+9918,Scottsdale,USA,2012.0,3716163,Phoenix,AZ
+9928,Broomfield,USA,,5655000,Denver,CO
+10118,Clovis,USA,,700000,Fresno,CA
+10214,Memphis,USA,2014.0,50000,Memphis,TN
+10251,San Diego,USA,,33501551,San Diego,CA
+10264,Lexington,USA,2006.0,99500000,Boston,MA
+10327,Atlanta,USA,1995.0,46500000,Atlanta,GA
+10530,Park City,USA,,3000000,Salt Lake City,UT
+10606,Atlanta,USA,2011.0,375000,Atlanta,GA
+10617,Alameda,USA,,11250000,SF Bay Area,CA
+10670,Saint Paul,USA,2010.0,255000,Minneapolis,MN
+10672,Miamisburg,USA,2010.0,1060000,Dayton,OH
+10706,Sunnyvale,USA,,5685000,SF Bay Area,CA
+10727,Menlo Park,USA,,40000000,SF Bay Area,CA
+10732,Houston,USA,,1000000,Houston,TX
+10733,Bridgewater,USA,2006.0,6469973,Newark,NJ
+10743,Seattle,USA,2006.0,62758534,Seattle,WA
+10762,Waltham,USA,,6550000,Boston,MA
+10778,Chevy Chase,USA,2009.0,60000,"Washington, D.C.",MD
+10818,Hackensack,USA,2013.0,3700000,Newark,NJ
+11277,San Diego,USA,,500000,San Diego,CA
+11281,Cleveland,USA,2008.0,250000,Cleveland,OH
+11307,Lutherville Timonium,USA,1993.0,46500000,Baltimore,MD
+11371,Memphis,USA,,50000,Memphis,TN
+11438,Chicago,USA,2012.0,375000,Chicago,IL
+11443,Fremont,USA,,13200000,SF Bay Area,CA
+11510,Fremont,USA,2008.0,32676154,SF Bay Area,CA
+11550,Menlo Park,USA,,15765989,SF Bay Area,CA
+11626,Boulder,USA,1998.0,978637,Denver,CO
+11632,Ann Arbor,USA,,47686876,Detroit,MI
+11732,San Clemente,USA,,3344715,Anaheim,CA
+11944,Austin,USA,,50000000,Austin,TX
+11980,Littleton,USA,2010.0,2973267,Denver,CO
+11984,Andover,USA,2009.0,44736836,Boston,MA
+12191,Plymouth,USA,2010.0,19000000,Detroit,MI
+12283,Oklahoma City,USA,,1500000,Oklahoma City,OK
+12347,Los Angeles,USA,1999.0,18500000,Los Angeles,CA
+12385,San Diego,USA,1999.0,3964019,San Diego,CA
+12408,Minnetonka,USA,2008.0,8130645,Minneapolis,MN
+12487,Watertown,USA,2007.0,217050628,Boston,MA
+12697,White Plains,USA,2010.0,6927500,New York City,NY
+12705,East Palo Alto,USA,2009.0,240000,SF Bay Area,CA
+12706,Santa Rosa,USA,2004.0,107347607,Napa Valley,CA
+12909,Mountain View,USA,2009.0,0,SF Bay Area,CA
+12911,New York,USA,2010.0,1000000,New York City,NY
+12922,Santa Monica,USA,2004.0,1500000,Los Angeles,CA
+12926,San Francisco,USA,2012.0,24000000,SF Bay Area,CA
+12928,New York,USA,2008.0,105000,New York City,NY
+12949,Sioux Falls,USA,2000.0,28301362,Sioux Falls,SD
+13140,San Mateo,USA,2011.0,81800000,SF Bay Area,CA
+13192,Cedar Grove,USA,2012.0,100000,Newark,NJ
+13230,San Jose,USA,2009.0,350000,SF Bay Area,CA
+13428,Nashville,USA,,15000,Nashville,TN
+13441,Chicago,USA,2012.0,250000,Chicago,IL
+13565,Woodcliff Lake,USA,,12348194,Newark,NJ
+13643,Conshohocken,USA,2006.0,0,Philadelphia,PA
+13673,Denver,USA,2008.0,5493124,Denver,CO
+13718,Houston,USA,2004.0,0,Houston,TX
+13721,New York,USA,2000.0,3500000,New York City,NY
+13758,Boerne,USA,2011.0,310000,San Antonio,TX
+14116,Bothell,USA,1995.0,44000000,Seattle,WA
+14148,San Francisco,USA,,0,SF Bay Area,CA
+14174,Morris Plains,USA,2005.0,50500000,Newark,NJ
+14203,Roanoke,USA,2008.0,27329746,Roanoke,VA
+14223,Cambridge,USA,2010.0,75000000,Boston,MA
+14242,Santa Barbara,USA,2006.0,202049,Santa Barbara,CA
+14250,Sunnyvale,USA,2004.0,5299700,SF Bay Area,CA
+14335,Wayne,USA,,6700000,Philadelphia,PA
+14354,Austin,USA,1988.0,10296959,Austin,TX
+14356,Rockville,USA,1998.0,2000000,"Washington, D.C.",MD
+14387,San Francisco,USA,,2982624,SF Bay Area,CA
+14388,Torrance,USA,2000.0,11215079,Los Angeles,CA
+14455,Cincinnati,USA,2011.0,2000000,Cincinnati,OH
+14460,Watertown,USA,1998.0,9200000,Boston,MA
+14523,West Lafayette,USA,1996.0,49100000,Indianapolis,IN
+14525,Raynham,USA,2009.0,8300000,MA - Other,MA
+14526,San Mateo,USA,2002.0,156250914,SF Bay Area,CA
+14545,Columbus,USA,,6148584,"Columbus, Ohio",OH
+14717,Brooklyn,USA,2013.0,500000,New York City,NY
+14751,Plymouth,USA,2006.0,92000000,Minneapolis,MN
+14840,Saint Paul,USA,1995.0,19378591,Minneapolis,MN
+14860,Seattle,USA,2000.0,293925,Seattle,WA
+14951,Reston,USA,2011.0,75000,"Washington, D.C.",VA
+15065,Olathe,USA,,0,Kansas City,KS
+15071,Plymouth,USA,2008.0,55750000,Detroit,MI
+15094,San Ramon,USA,1996.0,39122000,SF Bay Area,CA
+15227,Menlo Park,USA,1999.0,60000000,SF Bay Area,CA
+15232,Farmington,USA,2008.0,27700000,Hartford,CT
+15290,Foster City,USA,2004.0,319943,SF Bay Area,CA
+15307,Kirkland,USA,1972.0,5850000,Seattle,WA
+15310,Minneapolis,USA,2009.0,150000,Minneapolis,MN
+15319,Nashville,USA,2012.0,3815114,Nashville,TN
+15400,San Diego,USA,2007.0,10500001,San Diego,CA
+15562,Prior Lake,USA,2008.0,2430200,Minneapolis,MN
+15575,Indianapolis,USA,,349992,Indianapolis,IN
+15587,Boston,USA,2009.0,0,Boston,MA
+15605,Mountain View,USA,1995.0,55499998,SF Bay Area,CA
+15613,Cleveland,USA,2009.0,14050000,Cleveland,OH
+15640,Chicago,USA,1995.0,16000000,Chicago,IL
+15691,Conshohocken,USA,,797439,Philadelphia,PA
+15807,Hopkinton,USA,,26321710,Boston,MA
+15819,Palo Alto,USA,2013.0,0,SF Bay Area,CA
+16203,Dallas,USA,2013.0,25000,Dallas,TX
+16238,Chicago,USA,2010.0,875000,Chicago,IL
+16295,Culver City,USA,2010.0,2000000,Los Angeles,CA
+16297,Palo Alto,USA,2009.0,3159998,SF Bay Area,CA
+16303,Austin,USA,2013.0,1155000,Austin,TX
+16458,Flower Mound,USA,,0,Dallas,TX
+16498,Broomfield,USA,,3767162,Denver,CO
+16537,Philadelphia,USA,2011.0,200000,Philadelphia,PA
+16568,San Francisco,USA,2002.0,145540487,SF Bay Area,CA
+16643,New York,USA,2012.0,139443000,New York City,NY
+16688,Derwood,USA,2005.0,4062155,MD - Other,MD
+16691,Woburn,USA,2007.0,107000000,Boston,MA
+16694,Seattle,USA,2011.0,2570000,Seattle,WA
+16812,Sunnyvale,USA,2002.0,30000000,SF Bay Area,CA
+16823,Fremont,USA,2002.0,15000000,SF Bay Area,CA
+16825,Budd Lake,USA,,65000000,Newark,NJ
+16848,Amesbury,USA,2002.0,35772451,Boston,MA
+17034,Grand Junction,USA,2007.0,250000,Grand Junction,CO
+17139,Madison,USA,2009.0,6028000,Madison,WI
+17163,Cambridge,USA,2010.0,96500000,Boston,MA
+17264,San Diego,USA,2006.0,9910004,San Diego,CA
+17411,San Antonio,USA,2012.0,655000,San Antonio,TX
+17582,Roselle,USA,2000.0,200000,Chicago,IL
+17600,New Concord,USA,2004.0,2056092,OH - Other,OH
+17704,Saint Paul,USA,1996.0,52000000,Minneapolis,MN
+17792,Northridge,USA,,14000000,Los Angeles,CA
+17846,Bedford,USA,2003.0,6230757,Boston,MA
+17897,Schenectady,USA,,4000000,"Albany, New York",NY
+18039,Minneapolis,USA,,1830000,Minneapolis,MN
+18058,Phoenix,USA,2010.0,0,Phoenix,AZ
+18116,Carlsbad,USA,,39803794,San Diego,CA
+18192,Cambridge,USA,2012.0,0,Boston,MA
+18226,San Francisco,USA,2012.0,50000,SF Bay Area,CA
+18247,Miami,USA,2013.0,600000,Miami,FL
+18507,Laguna Hills,USA,2001.0,121000392,Los Angeles,CA
+18524,New York,USA,2008.0,1000000,New York City,NY
+18675,Bloomfield Hills,USA,2005.0,19184620,Detroit,MI
+18694,Irvine,USA,,30596045,Anaheim,CA
+18701,Gaithersburg,USA,2003.0,76979412,"Washington, D.C.",MD
+18919,Santa Monica,USA,2011.0,1500000,Los Angeles,CA
+19007,Atlanta,USA,2013.0,750000,Atlanta,GA
+19099,Bethlehem,USA,,100000,Allentown,PA
+19149,Seattle,USA,2011.0,800379,Seattle,WA
+19445,Worcester,USA,,8850000,Worcester,MA
+19578,Santa Clara,USA,2001.0,29999998,SF Bay Area,CA
+19648,Redwood City,USA,,51896441,SF Bay Area,CA
+19729,Blue Bell,USA,2000.0,4850000,Philadelphia,PA
+19752,Brentwood,USA,2004.0,93890518,SF Bay Area,CA
+19781,Memphis,USA,2012.0,50000,Memphis,TN
+19810,Mountain View,USA,2002.0,80971347,SF Bay Area,CA
+19860,Eden Prairie,USA,1993.0,550000,Minneapolis,MN
+19928,San Antonio,USA,2013.0,20000,San Antonio,TX
+19998,Irving,USA,,3500000,Dallas,TX
+20028,New York,USA,2007.0,9450000,New York City,NY
+20040,Overland Park,USA,2010.0,15748632,Kansas City,KS
+20044,New York,USA,2012.0,1849999,New York City,NY
+20053,New York,USA,,3000000,New York City,NY
+20060,Nashville,USA,,65000,Nashville,TN
+20080,New York,USA,2013.0,500000,New York City,NY
+20083,San Francisco,USA,2002.0,63500002,SF Bay Area,CA
+20085,Omaha,USA,2008.0,0,Omaha,NE
+20093,Norwalk,USA,2009.0,8532000,Hartford,CT
+20106,Palo Alto,USA,2010.0,38250000,SF Bay Area,CA
+20152,Columbia,USA,2000.0,16980998,Baltimore,MD
+20155,Chapel Hill,USA,2008.0,15599800,Raleigh,NC
+20223,New York,USA,,21500000,New York City,NY
+20287,Charlottesville,USA,2004.0,2289747,"Washington, D.C.",VA
+20288,Kennesaw,USA,,9300000,Atlanta,GA
+20299,Detroit,USA,2011.0,3000000,Detroit,MI
+20412,Cheyenne,USA,,120000,Cheyenne,WY
+20535,Exton,USA,,2750000,Philadelphia,PA
+20631,Sunnyvale,USA,2003.0,9500000,SF Bay Area,CA
+20639,Somerville,USA,2011.0,20000,Boston,MA
+20758,Northbrook,USA,2005.0,462000000,Chicago,IL
+20847,Houston,USA,,2200000,Houston,TX
+21019,Chicago,USA,2012.0,500000,Chicago,IL
+21068,Durham,USA,2003.0,12557041,Raleigh,NC
+21077,South San Francisco,USA,2006.0,165961509,SF Bay Area,CA
+21336,Irving,USA,2006.0,1664500,Dallas,TX
+21356,Cambridge,USA,,132000000,Boston,MA
+21478,San Diego,USA,2011.0,101500000,San Diego,CA
+21493,Honolulu,USA,,1384000,Honolulu,HI
+21495,San Leandro,USA,2010.0,7795000,SF Bay Area,CA
+21496,Dallas,USA,2011.0,4310000,Dallas,TX
+21535,Dallas,USA,2012.0,1075000,Dallas,TX
+21560,East Providence,USA,,33400000,Providence,RI
+21587,Littleton,USA,1999.0,10600000,Boston,MA
+21612,Santa Monica,USA,,5000000,Los Angeles,CA
+21737,Seattle,USA,2008.0,3470389,Seattle,WA
+21765,Minnetonka,USA,1999.0,3003000,Minneapolis,MN
+21826,Bridgeport,USA,2014.0,450000,Hartford,CT
+21844,Aliso Viejo,USA,2011.0,4700000,Anaheim,CA
+21882,Lincoln,USA,,5119660,Providence,RI
+21890,Tukwila,USA,2007.0,8800000,Seattle,WA
+22105,Burlington,USA,1998.0,91625000,Boston,MA
+22117,Morrisville,USA,2013.0,3200000,Raleigh,NC
+22164,Chicago,USA,1994.0,31000000,Chicago,IL
+22270,Austin,USA,2008.0,100000,Austin,TX
+22293,Plano,USA,2002.0,18000000,Dallas,TX
+22320,Goleta,USA,2001.0,29645996,Santa Barbara,CA
+22334,Beaverton,USA,,920000,"Portland, Oregon",OR
+22350,Hackensack,USA,2011.0,597001,Newark,NJ
+22422,Newark,USA,,13881227,SF Bay Area,CA
+22437,Maple Grove,USA,2007.0,57000000,Minneapolis,MN
+22444,Chicago,USA,,350000,Chicago,IL
+22524,Wayne,USA,2011.0,21437496,Philadelphia,PA
+22564,Milwaukee,USA,2008.0,3000000,Milwaukee,WI
+22633,Sarasota,USA,,0,Sarasota - Bradenton,FL
+22704,New York,USA,2002.0,55000000,New York City,NY
+22724,Framingham,USA,2006.0,20000000,Boston,MA
+22774,Plymouth,USA,,20900000,Minneapolis,MN
+22779,Menlo Park,USA,,79328131,SF Bay Area,CA
+22790,Grand Rapids,USA,,10700000,Grand Rapids,MI
+22822,Santa Barbara,USA,2002.0,24100000,Santa Barbara,CA
+22834,Sunnyvale,USA,,7200000,SF Bay Area,CA
+22847,Woburn,USA,2000.0,46856490,Boston,MA
+22911,Waltham,USA,2001.0,163400000,Boston,MA
+22962,Nashville,USA,,3812244,Nashville,TN
+22991,San Francisco,USA,2004.0,96200000,SF Bay Area,CA
+23062,Alpharetta,USA,2004.0,35400000,Atlanta,GA
+23143,Chicago,USA,1979.0,0,Chicago,IL
+23169,Greenville,USA,2011.0,750000,Greenville - Spartanburg,SC
+23179,Cambridge,USA,1998.0,265000014,Boston,MA
+23204,Cordova,USA,2009.0,10443323,Memphis,TN
+23205,Durham,USA,2014.0,400000,Raleigh,NC
+23397,San Francisco,USA,,9500000,SF Bay Area,CA
+23398,Montvale,USA,,2500000,Newark,NJ
+23460,Santa Barbara,USA,,1125007,Santa Barbara,CA
+23572,Palo Alto,USA,2003.0,126999998,SF Bay Area,CA
+23784,Loveland,USA,2008.0,130000,Cincinnati,OH
+23952,Pleasanton,USA,,7500000,SF Bay Area,CA
+23958,Seattle,USA,2013.0,310000000,Seattle,WA
+24017,Minnetonka,USA,,5024796,Minneapolis,MN
+24100,Campbell,USA,2010.0,0,SF Bay Area,CA
+24106,South San Francisco,USA,2001.0,29000000,SF Bay Area,CA
+24113,Mendota,USA,2006.0,8375000,MN - Other,MN
+24170,Minneapolis,USA,2006.0,18916000,Minneapolis,MN
+24205,Natick,USA,,248700000,Boston,MA
+24337,Chapel Hill,USA,2011.0,2525000,Raleigh,NC
+24373,Edmond,USA,2012.0,100000,Oklahoma City,OK
+24411,Carlsbad,USA,,6835500,San Diego,CA
+24472,Atlanta,USA,2013.0,1200000,Atlanta,GA
+24516,Boulder,USA,2010.0,1625000,Denver,CO
+24526,San Francisco,USA,2012.0,6309755,SF Bay Area,CA
+24531,Emeryville,USA,2001.0,33737640,SF Bay Area,CA
+24592,Minneapolis,USA,,750000,Minneapolis,MN
+24848,Bellevue,USA,2009.0,63657688,Seattle,WA
+24877,Orlando,USA,2007.0,98400000,Orlando,FL
+24992,San Francisco,USA,2011.0,350000,SF Bay Area,CA
+25021,Lynnwood,USA,2001.0,2638581,Seattle,WA
+25069,Boston,USA,2010.0,38750000,Boston,MA
+25071,Calabasas,USA,2005.0,98400000,Los Angeles,CA
+25130,Medford,USA,2014.0,350000,Medford,OR
+25364,Austin,USA,2004.0,9722866,Austin,TX
+25587,Orlando,USA,2004.0,169521818,Orlando,FL
+25588,Irvine,USA,2011.0,2749995,Anaheim,CA
+25591,Aliso Viejo,USA,,22360000,Anaheim,CA
+25738,New York,USA,2011.0,600000,New York City,NY
+25766,Boston,USA,2012.0,312500,Boston,MA
+25767,Newton,USA,2008.0,67677994,Boston,MA
+25774,Alameda,USA,2014.0,5000000,SF Bay Area,CA
+25809,San Francisco,USA,,2900000,SF Bay Area,CA
+25828,Bellevue,USA,1994.0,139861674,Seattle,WA
+25990,Cambridge,USA,2005.0,64800003,Boston,MA
+26131,Bellevue,USA,2013.0,100000,Seattle,WA
+26218,Verona,USA,2004.0,1616176,Newark,NJ
+26702,Providence,USA,,250000,Providence,RI
+26779,Albuquerque,USA,2001.0,17199997,Albuquerque,NM
+26794,Memphis,USA,,11000000,Memphis,TN
+26806,Austin,USA,,14000000,Austin,TX
+26907,Boulder,USA,,1338000,Denver,CO
+26982,Rockville,USA,2000.0,57016500,"Washington, D.C.",MD
+26991,Hummelstown,USA,2004.0,10125301,Harrisburg,PA
+27024,Highland Park,USA,2013.0,17000000,Chicago,IL
+27073,Inglewood,USA,2003.0,11668997,Los Angeles,CA
+27091,Raleigh,USA,2006.0,100000,Raleigh,NC
+27294,Valencia,USA,,200000000,Los Angeles,CA
+27375,Isabella,USA,,452550,MO - Other,MO
+27569,San Francisco,USA,2007.0,1000000,SF Bay Area,CA
+27591,Chicago,USA,2014.0,4400000,Chicago,IL
+27716,Santa Monica,USA,2012.0,2800000,Los Angeles,CA
+27736,Fort Lauderdale,USA,2006.0,23600000,Ft. Lauderdale,FL
+27738,Brentwood,USA,2012.0,7900000,Nashville,TN
+27760,San Jose,USA,2003.0,9549115,SF Bay Area,CA
+27791,Boulder,USA,2013.0,700000,Denver,CO
+27794,West Hills,USA,,3741000,CA - Other,CA
+27798,Arlington,USA,2010.0,280000,"Washington, D.C.",VA
+27806,New York,USA,1971.0,6300000,New York City,NY
+27808,Tulsa,USA,,40000,Tulsa,OK
+27810,Oklahoma City,USA,2005.0,2096674,Oklahoma City,OK
+27813,Morgantown,USA,2001.0,0,WV - Other,WV
+27900,Port Washington,USA,1984.0,115000000,Long Island,NY
+27902,Nashville,USA,,7000000,Nashville,TN
+27904,Lexington,USA,1988.0,1524519,Lexington,KY
+27911,Tucson,USA,2010.0,1700000,Tucson,AZ
+27912,Franklin,USA,1999.0,7500000,Nashville,TN
+27919,Wayland,USA,2007.0,1631710,Boston,MA
+27922,Palo Alto,USA,2013.0,1940000,SF Bay Area,CA
+27930,New York,USA,2010.0,0,New York City,NY
+27937,Seattle,USA,2011.0,2300000,Seattle,WA
+27938,Plano,USA,2002.0,40257500,Dallas,TX
+27953,Tampa,USA,,27000000,Tampa,FL
+27958,Bothell,USA,2002.0,43654112,Seattle,WA
+27974,Orlando,USA,2012.0,10000,Orlando,FL
+27978,Miami,USA,2011.0,100000,Miami,FL
+27988,Durham,USA,2013.0,250000,Raleigh,NC
+27990,Bothell,USA,1999.0,10750000,Seattle,WA
+27991,Lewisville,USA,,12000000,Dallas,TX
+27992,Needham,USA,,1850000,Boston,MA
+27993,Cupertino,USA,,0,SF Bay Area,CA
+27997,Parsippany,USA,,2250000,Newark,NJ
+28004,Little Falls,USA,,2100000,Newark,NJ
+28010,Guilford,USA,,5200000,Hartford,CT
+28018,Bellaire,USA,,8000000,Houston,TX
+28019,Atlanta,USA,,36004847,Atlanta,GA
+28021,St Louis,USA,2012.0,849000,St. Louis,MO
+28022,Franklin,USA,,300000000,Nashville,TN
+28027,Boston,USA,2013.0,200000,Boston,MA
+28034,Cortlandt Manor,USA,2011.0,0,New York City,NY
+28035,Lafayette,USA,2010.0,100000,IN - Other,IN
+28134,Irvington,USA,1989.0,12000000,NY - Other,NY
+28191,New York,USA,,90000000,New York City,NY
+28307,Cambridge,USA,2000.0,79440000,Boston,MA
+28396,Plymouth,USA,2009.0,1918184,Minneapolis,MN
+28443,San Antonio,USA,,662833,San Antonio,TX
+28462,Laguna Hills,USA,2009.0,4800147,Los Angeles,CA
+28518,Irvine,USA,,22538940,Anaheim,CA
+28543,Newtown,USA,2010.0,3850000,Philadelphia,PA
+28554,Bedford,USA,1999.0,25712500,Boston,MA
+28605,Dallas,USA,2007.0,8079068,Dallas,TX
+28719,Marietta,USA,2008.0,36755000,Atlanta,GA
+28755,North Andover,USA,2008.0,1736831,Boston,MA
+28879,Bothell,USA,2004.0,10000000,Seattle,WA
+28897,Sunnyvale,USA,2006.0,90058213,SF Bay Area,CA
+29033,Los Angeles,USA,,33859,Los Angeles,CA
+29066,Kelayres,USA,1997.0,100000,Scranton,PA
+29124,Palo Alto,USA,2012.0,0,SF Bay Area,CA
+29228,Redmond,USA,2009.0,4200000,Seattle,WA
+29405,Georgetown,USA,,33509621,Austin,TX
+29413,Long Beach,USA,1980.0,3114157,"Orange County, California",CA
+29423,Cambridge,USA,2009.0,5000000,Boston,MA
+29531,Bloomington,USA,,1800000,Indianapolis,IN
+29540,Philadelphia,USA,2010.0,999984,Philadelphia,PA
+29659,Palo Alto,USA,2010.0,3450000,SF Bay Area,CA
+29744,Birmingham,USA,,700754,Birmingham,AL
+29780,Madison,USA,,100000,Madison,WI
+29820,Austin,USA,,14000000,Austin,TX
+29826,Memphis,USA,1998.0,30527571,Memphis,TN
+29827,King Of Prussia,USA,2002.0,0,Philadelphia,PA
+30012,Billerica,USA,2008.0,2420000,Boston,MA
+30206,Brentwood,USA,2014.0,13600000,Nashville,TN
+30304,San Francisco,USA,2009.0,2850000,SF Bay Area,CA
+30432,Franklin Furnace,USA,,2300000,OH - Other,OH
+30481,Houston,USA,2002.0,2197973,Houston,TX
+30482,Northbrook,USA,1999.0,30200000,Chicago,IL
+30486,Sunnyvale,USA,2007.0,38000903,SF Bay Area,CA
+30500,Lafayette,USA,,4700000,SF Bay Area,CA
+30547,Peoria,USA,2012.0,2341899,Phoenix,AZ
+30573,Deerfield Beach,USA,2011.0,55000,Ft. Lauderdale,FL
+30639,Newark,USA,2013.0,870000,Newark,NJ
+30674,Morrisville,USA,2005.0,51954587,Raleigh,NC
+30685,Cleveland,USA,2002.0,22108725,Cleveland,OH
+30755,Palo Alto,USA,,6500000,SF Bay Area,CA
+30788,Taunton,USA,2009.0,34299994,New Bedford,MA
+30825,Mountain View,USA,2004.0,125964844,SF Bay Area,CA
+30829,Newark,USA,,130003458,SF Bay Area,CA
+30834,Princeton,USA,,16300000,Newark,NJ
+31023,Sunnyvale,USA,2002.0,8623022,SF Bay Area,CA
+31049,Waltham,USA,1996.0,18680003,Boston,MA
+31064,Willoughby,USA,2008.0,12785029,Cleveland,OH
+31085,Madison,USA,2004.0,32433301,Madison,WI
+31116,New York,USA,2011.0,40000,New York City,NY
+31180,Ames,USA,1999.0,45214105,Des Moines,IA
+31184,San Francisco,USA,,2070000,SF Bay Area,CA
+31337,San Diego,USA,2008.0,10100000,San Diego,CA
+31369,San Diego,USA,,9000000,San Diego,CA
+31475,Cambridge,USA,,82000000,Boston,MA
+31503,Fremont,USA,1991.0,40000000,SF Bay Area,CA
+31559,Lincoln,USA,2012.0,370000,Omaha,NE
+31566,Fountain Valley,USA,2009.0,398914,"Orange County, California",CA
+31644,Stanford,USA,2012.0,0,SF Bay Area,CA
+31704,Corvallis,USA,,830000,"Salem, Oregon",OR
+31761,,USA,2009.0,0,IN - Other,IN
+31785,Newark,USA,1991.0,7200000,SF Bay Area,CA
+31786,Cupertino,USA,1999.0,16000000,SF Bay Area,CA
+31796,Newark,USA,,45447308,SF Bay Area,CA
+31802,New Haven,USA,2010.0,4370000,Hartford,CT
+32027,Nashville,USA,2007.0,30479384,Nashville,TN
+32058,San Diego,USA,,40462984,San Diego,CA
+32069,Seattle,USA,2012.0,535016,Seattle,WA
+32099,Maple Grove,USA,2008.0,46600000,Minneapolis,MN
+32120,Los Altos,USA,,7144321,SF Bay Area,CA
+32144,Carlsbad,USA,2008.0,68899998,San Diego,CA
+32149,Burlingame,USA,2014.0,100000,SF Bay Area,CA
+32166,Newberry,USA,2012.0,2300000,Gainesville,FL
+32232,Nashville,USA,2014.0,150000,Nashville,TN
+32241,New York,USA,2013.0,599970,New York City,NY
+32261,Ashburn,USA,2002.0,3060000,"Washington, D.C.",VA
+32444,Seattle,USA,,132800000,Seattle,WA
+32540,Redwood City,USA,2004.0,196249996,SF Bay Area,CA
+32541,Newtown,USA,1998.0,87966477,Philadelphia,PA
+32549,Durham,USA,2006.0,3648148,Raleigh,NC
+32550,San Diego,USA,2011.0,31163000,San Diego,CA
+32635,Honolulu,USA,2006.0,2770750,Honolulu,HI
+32724,Cleveland,USA,2008.0,14133008,Cleveland,OH
+32838,San Francisco,USA,2011.0,1500000,SF Bay Area,CA
+32905,Cambridge,USA,2013.0,50000,Boston,MA
+32919,Princeton,USA,2007.0,246700000,Newark,NJ
+32955,Chicago,USA,2013.0,1950000,Chicago,IL
+32971,Alachua,USA,2005.0,265299,Gainesville,FL
+33022,Fremont,USA,2003.0,10500000,SF Bay Area,CA
+33055,Minneapolis,USA,2007.0,5269376,Minneapolis,MN
+33067,Indianapolis,USA,2003.0,37684819,Indianapolis,IN
+33193,Irvine,USA,2008.0,24170000,Anaheim,CA
+33201,New Brunswick,USA,,25000000,Newark,NJ
+33203,Akron,USA,2003.0,2202375,Akron - Canton,OH
+33214,Fort Lauderdale,USA,2009.0,71988600,Ft. Lauderdale,FL
+33251,Minnetonka,USA,2005.0,14000000,Minneapolis,MN
+33256,Santa Rosa,USA,2007.0,16249935,Napa Valley,CA
+33287,Cambridge,USA,,40000,Boston,MA
+33574,Raleigh,USA,2012.0,700000,Raleigh,NC
+33587,Cranbury,USA,,65000000,Newark,NJ
+33600,Fremont,USA,2008.0,29128000,SF Bay Area,CA
+33644,Auburndale,USA,,4933640,Boston,MA
+33715,Sunnyvale,USA,1999.0,44000000,SF Bay Area,CA
+33724,New York,USA,,122652310,New York City,NY
+33934,Austin,USA,2009.0,1307617,Austin,TX
+33940,Washington,USA,2010.0,191000000,"Washington, D.C.",DC
+33941,Atlanta,USA,2009.0,3750000,Atlanta,GA
+33942,Nashville,USA,2008.0,1045000,Nashville,TN
+34069,Lebanon,USA,,0,"Manchester, New Hampshire",NH
+34077,Nashville,USA,,225000,Nashville,TN
+34096,Palo Alto,USA,,29000000,SF Bay Area,CA
+34294,Palo Alto,USA,2011.0,6017616,SF Bay Area,CA
+34304,Columbus,USA,2007.0,2985000,"Columbus, Ohio",OH
+34341,Providence,USA,,0,Providence,RI
+34344,Cranbury,USA,1995.0,11400000,Newark,NJ
+34512,San Diego,USA,2013.0,20000,San Diego,CA
+34557,Miami,USA,2011.0,5000,Miami,FL
+34613,Montgomeryville,USA,,4257250,Philadelphia,PA
+34618,Highland,USA,,2080000,IN - Other,IN
+34633,Saint Paul,USA,2008.0,3815251,Minneapolis,MN
+34653,Toledo,USA,2011.0,0,Toledo,OH
+34659,Cary,USA,2010.0,473000,Raleigh,NC
+34663,Seattle,USA,,7848830,Seattle,WA
+34798,Cambridge,USA,2013.0,12800000,Boston,MA
+34850,Southaven,USA,2006.0,1500000,MS - Other,MS
+34931,Sunnyvale,USA,,42725003,SF Bay Area,CA
+35178,Franklin,USA,2008.0,1125000,Nashville,TN
+35223,Franklin,USA,1987.0,17290000,Boston,MA
+35301,Charlottesville,USA,1970.0,3378194,"Washington, D.C.",VA
+35322,San Francisco,USA,1999.0,0,SF Bay Area,CA
+35329,Mountain View,USA,2004.0,33000000,SF Bay Area,CA
+35392,San Carlos,USA,1996.0,29300000,SF Bay Area,CA
+35409,San Mateo,USA,2011.0,6865000,SF Bay Area,CA
+35599,Delray Beach,USA,2001.0,122476,Palm Beaches,FL
+35721,Belmont,USA,2002.0,86500000,SF Bay Area,CA
+35778,Chevy Chase,USA,2011.0,150000000,"Washington, D.C.",MD
+35974,Boulder,USA,,1350000,Denver,CO
+35976,Pleasanton,USA,,14250000,SF Bay Area,CA
+35982,Dallas,USA,2009.0,15000000,Dallas,TX
+36147,Pittsburgh,USA,2008.0,12500000,Pittsburgh,PA
+36217,Cambridge,USA,2013.0,1215000,Boston,MA
+36296,Louisville,USA,,300000,Louisville,KY
+36303,Fairfax,USA,2012.0,0,"Washington, D.C.",VA
+36316,Madison,USA,2007.0,28365200,Madison,WI
+36363,Saint Paul,USA,,3000000,Minneapolis,MN
+36376,Chandler,USA,,8000000,Phoenix,AZ
+36430,Cambridge,USA,,6000000,Boston,MA
+36455,Menlo Park,USA,,0,SF Bay Area,CA
+36456,Roanoke,USA,,500000,Roanoke,VA
+36507,San Diego,USA,2013.0,1000000,San Diego,CA
+36518,South Plainfield,USA,1998.0,177100000,Newark,NJ
+36520,Brecksville,USA,2006.0,1500000,Cleveland,OH
+36583,St Louis,USA,,6050000,St. Louis,MO
+36678,Maple Grove,USA,2009.0,5103987,Minneapolis,MN
+36785,Bloomington,USA,2010.0,200000,Minneapolis,MN
+36887,Alpharetta,USA,2007.0,66017760,Atlanta,GA
+36903,Rolling Meadows,USA,,990000,Chicago,IL
+36931,Miami,USA,2012.0,1085000,Miami,FL
+37091,Neshkoro,USA,2013.0,1300000,WI - Other,WI
+37280,Watertown,USA,,3450000,Boston,MA
+37297,Manhattan Beach,USA,,476680,Los Angeles,CA
+37318,New York,USA,2007.0,0,New York City,NY
+37395,Asheboro,USA,1928.0,350000,Greensboro,NC
+37414,San Antonio,USA,2012.0,1426094,San Antonio,TX
+37478,Columbia,USA,2000.0,1091663,Baltimore,MD
+37500,Cambridge,USA,,24000000,Boston,MA
+37532,Alpharetta,USA,2006.0,18540271,Atlanta,GA
+37579,Chicago,USA,,50000,Chicago,IL
+37596,Pittsburgh,USA,2011.0,435000,Pittsburgh,PA
+37669,Cambridge,USA,2009.0,100000,Boston,MA
+37705,New York,USA,2011.0,3300000,New York City,NY
+37890,Portland,USA,2012.0,1040000,"Portland, Oregon",OR
+37911,San Francisco,USA,2011.0,420000,SF Bay Area,CA
+37924,Westborough,USA,,500000,Worcester,MA
+37947,Durham,USA,2001.0,177000000,Raleigh,NC
+37966,San Diego,USA,,1000000,San Diego,CA
+37971,Scottsdale,USA,,5300000,Phoenix,AZ
+37980,Brentwood,USA,2012.0,4537001,Nashville,TN
+37991,Carlsbad,USA,2007.0,34999992,San Diego,CA
+37996,Baltimore,USA,2012.0,100000,Baltimore,MD
+38058,Redwood City,USA,2007.0,357129887,SF Bay Area,CA
+38129,San Jose,USA,2009.0,1810000,SF Bay Area,CA
+38250,San Clemente,USA,,50250000,Anaheim,CA
+38290,Waltham,USA,2010.0,6581289,Boston,MA
+38307,Sacramento,USA,2013.0,50000,Sacramento,CA
+38322,Memphis,USA,2012.0,4100000,Memphis,TN
+38330,Franklin,USA,,0,Nashville,TN
+38388,New York,USA,,116000000,New York City,NY
+38406,Newark,USA,2002.0,113620000,SF Bay Area,CA
+38492,Syracuse,USA,2011.0,12000,Syracuse,NY
+38539,Carlsbad,USA,2004.0,29620000,San Diego,CA
+38572,Burlington,USA,2004.0,14700000,Boston,MA
+38684,Rocklin,USA,2003.0,1002743,Sacramento,CA
+38720,Crozet,USA,,50000,VA - Other,VA
+38727,Naples,USA,2001.0,33620000,"Naples, Florida",FL
+38788,Boulder,USA,2013.0,50000,Denver,CO
+38827,San Francisco,USA,2010.0,5000000,SF Bay Area,CA
+38878,Denver,USA,2010.0,350000,Denver,CO
+38995,Philadelphia,USA,,8493751,Philadelphia,PA
+39055,San Clemente,USA,2004.0,10000000,Anaheim,CA
+39102,New York,USA,2013.0,1300000,New York City,NY
+39194,Mclean,USA,2011.0,4612000,"Washington, D.C.",VA
+39225,San Jose,USA,,3000000,SF Bay Area,CA
+39245,Scranton,USA,,500000,SC - Other,SC
+39265,Campbell,USA,2003.0,62000000,SF Bay Area,CA
+39334,Schaumburg,USA,2007.0,70000000,Chicago,IL
+39399,Portsmouth,USA,1999.0,15000000,Portsmouth,NH
+39476,Pleasanton,USA,1999.0,15000000,SF Bay Area,CA
+39493,Livermore,USA,2012.0,1555000,SF Bay Area,CA
+39539,Alpharetta,USA,,24055629,Atlanta,GA
+39547,Santa Rosa,USA,2007.0,35771750,Napa Valley,CA
+39561,Houston,USA,2011.0,50000,Houston,TX
+39585,Palo Alto,USA,2000.0,62800000,SF Bay Area,CA
+39595,Cambridge,USA,2005.0,47315000,Boston,MA
+39612,Tampa,USA,2010.0,250000,Tampa,FL
+39622,Bountiful,USA,2012.0,0,Salt Lake City,UT
+39784,Lafayette,USA,,120000000,"Lafayette, Louisiana",LA
+39803,Atlanta,USA,2003.0,4551630,Atlanta,GA
+39944,Durham,USA,1999.0,11449343,Raleigh,NC
+39981,Santa Fe,USA,2011.0,3000000,Albuquerque,NM
+40044,Sylmar,USA,1998.0,14500000,Los Angeles,CA
+40210,Ponte Vedra Beach,USA,2005.0,625000,Jacksonville,FL
+40370,New York,USA,2012.0,2000000,New York City,NY
+40376,San Francisco,USA,2013.0,1278000,SF Bay Area,CA
+40404,Atlanta,USA,2008.0,1000000,Atlanta,GA
+40450,Cambridge,USA,2010.0,475000,Boston,MA
+40458,Redwood City,USA,,26000000,SF Bay Area,CA
+40478,Fremont,USA,,2700000,SF Bay Area,CA
+40490,Aliso Viejo,USA,2007.0,65100000,Anaheim,CA
+40500,Philadelphia,USA,2013.0,890000,Philadelphia,PA
+40592,Decatur,USA,,0,Atlanta,GA
+40616,Tempe,USA,,0,Phoenix,AZ
+40698,San Francisco,USA,2012.0,4125000,SF Bay Area,CA
+40869,Lucerne Valley,USA,,12500000,CA - Other,CA
+41060,San Jose,USA,2008.0,61120000,SF Bay Area,CA
+41103,Santa Barbara,USA,2007.0,150000000,Santa Barbara,CA
+41228,Sunnyvale,USA,2007.0,56625793,SF Bay Area,CA
+41293,San Carlos,USA,2006.0,27000000,SF Bay Area,CA
+41334,New York,USA,2013.0,1300000,New York City,NY
+41368,San Francisco,USA,2012.0,750000,SF Bay Area,CA
+41428,Boulder,USA,2011.0,10168014,Denver,CO
+41474,Cambridge,USA,2004.0,82000000,Boston,MA
+41523,Scottsville,USA,,0,NY - Other,NY
+41677,Eagan,USA,2002.0,3101676,Minneapolis,MN
+41734,Boston,USA,1997.0,1045984,Boston,MA
+41736,Glen Burnie,USA,,20000000,Baltimore,MD
+41787,Richmond,USA,2001.0,125000,Richmond,VA
+41792,Morrisville,USA,2009.0,244000000,Philadelphia,PA
+42050,Glendale,USA,2013.0,600000,Los Angeles,CA
+42283,New York,USA,2010.0,5875000,New York City,NY
+42326,New Haven,USA,2008.0,19633619,Hartford,CT
+42374,Framingham,USA,,7000000,Boston,MA
+42488,Hayward,USA,1995.0,21950000,SF Bay Area,CA
+42489,Newport News,USA,1999.0,12335839,"Washington, D.C.",VA
+42508,Chandler,USA,2009.0,25000,Phoenix,AZ
+42511,Waltham,USA,2000.0,9074000,Boston,MA
+42582,San Mateo,USA,2006.0,67641704,SF Bay Area,CA
+42587,Reno,USA,2000.0,7086011,Reno - Sparks,NV
+42620,Boulder,USA,2009.0,8523998,Denver,CO
+42645,Natick,USA,2004.0,10850948,Boston,MA
+42646,San Diego,USA,2004.0,91510000,San Diego,CA
+42707,Wallingford,USA,,16000000,Hartford,CT
+42893,Kansas City,USA,1978.0,1553266,Kansas City,MO
+42912,Tampa,USA,2007.0,5000000,Tampa,FL
+42958,Philadelphia,USA,2013.0,0,NY - Other,NY
+42996,Sunnyvale,USA,2003.0,39300000,SF Bay Area,CA
+42998,Austin,USA,2004.0,27999998,Austin,TX
+42999,Lenexa,USA,2008.0,3855156,Kansas City,KS
+43002,Mountain View,USA,2004.0,500000,SF Bay Area,CA
+43010,Shelton,USA,2001.0,17500000,Hartford,CT
+43011,San Jose,USA,2005.0,8800000,SF Bay Area,CA
+43012,Cincinnati,USA,2004.0,1083695,Cincinnati,OH
+43014,San Francisco,USA,,10200000,SF Bay Area,CA
+43039,Redwood City,USA,2007.0,71300000,SF Bay Area,CA
+43281,Indianapolis,USA,,1205000,Indianapolis,IN
+43400,Fort Collins,USA,,14745580,Fort Collins,CO
+43401,Saint Paul,USA,2010.0,2572000,Minneapolis,MN
+43405,Philadelphia,USA,,420000,Philadelphia,PA
+43508,Oakmont,USA,,7429362,Pittsburgh,PA
+43565,Denver,USA,,0,Denver,CO
+43594,Fort Worth,USA,2010.0,3075000,Dallas,TX
+43641,New York,USA,2003.0,15090000,New York City,NY
+43695,Orono,USA,,1150000,ME - Other,ME
+43946,Norwell,USA,2009.0,0,Boston,MA
+43949,San Francisco,USA,2013.0,0,SF Bay Area,CA
+44157,Red Bank,USA,2013.0,5246759,Newark,NJ
+44183,South San Francisco,USA,1998.0,43500000,SF Bay Area,CA
+44184,San Diego,USA,2009.0,80199996,San Diego,CA
+44248,Minneapolis,USA,1995.0,35800000,Minneapolis,MN
+44264,Rockville,USA,,72000000,"Washington, D.C.",MD
+44312,Lawrence,USA,,0,Kansas City,KS
+44340,Birmingham,USA,1982.0,25745170,Birmingham,AL
+44346,Hillside,USA,2007.0,120377,Chicago,IL
+44347,Orange,USA,2006.0,55333100,Hartford,CT
+44409,New Providence,USA,2007.0,74558621,Newark,NJ
+44426,Bigfork,USA,2005.0,5684658,MT - Other,MT
+44560,Chicago,USA,2012.0,0,Chicago,IL
+44582,Miami,USA,2012.0,250000,Miami,FL
+44596,Lexington,USA,2010.0,32400000,Boston,MA
+44599,Oberlin,USA,2002.0,3103358,Cleveland,OH
+44614,Tucson,USA,2005.0,59406234,Tucson,AZ
+44623,New York,USA,2013.0,100000,New York City,NY
+44661,Sacramento,USA,2009.0,11500000,Sacramento,CA
+44674,Lexington,USA,2000.0,26850000,Boston,MA
+44737,Lexington,USA,2006.0,83500000,Boston,MA
+44800,Minneapolis,USA,,11400000,Minneapolis,MN
+44905,Boston,USA,2011.0,700000,Boston,MA
+44962,New York,USA,2012.0,0,New York City,NY
+44991,San Diego,USA,2008.0,100689125,San Diego,CA
+45001,Ann Arbor,USA,,26999992,Detroit,MI
+45011,Austin,USA,2009.0,10173807,Austin,TX
+45122,Winston Salem,USA,1997.0,91021474,Winston-Salem,NC
+45349,Austin,USA,,3175000,Austin,TX
+45438,Iowa City,USA,2012.0,2500000,Cedar Rapids,IA
+45526,Mountain View,USA,2004.0,28277366,SF Bay Area,CA
+45563,Lexington,USA,1998.0,29942849,Boston,MA
+45632,Somerset,USA,,5546715,Newark,NJ
+45637,Waltham,USA,2010.0,252000000,Boston,MA
+45670,Malvern,USA,,73000000,Philadelphia,PA
+45671,Watertown,USA,,70000000,Boston,MA
+45869,Menlo Park,USA,,3000000,SF Bay Area,CA
+46162,Seattle,USA,2004.0,27084603,Seattle,WA
+46180,Mill Valley,USA,2011.0,6300000,SF Bay Area,CA
+46186,San Francisco,USA,2004.0,9000000,SF Bay Area,CA
+46187,Somerville,USA,2006.0,105080,Boston,MA
+46188,South San Francisco,USA,1996.0,129375000,SF Bay Area,CA
+46204,Pittsburgh,USA,2006.0,3508462,Pittsburgh,PA
+46218,Irvine,USA,1994.0,40269499,Anaheim,CA
+46240,San Francisco,USA,2012.0,225000,SF Bay Area,CA
+46369,South San Francisco,USA,2001.0,55000000,SF Bay Area,CA
+46432,Moffett Field,USA,2002.0,18038630,CA - Other,CA
+46644,Miami,USA,2001.0,22790000,Miami,FL
+46701,Washoe Valley,USA,,550000,NV - Other,NV
+46784,Gainesville,USA,2009.0,18750,Gainesville,FL
+46842,Saint Paul,USA,2002.0,75699997,Minneapolis,MN
+46858,New York,USA,2010.0,4665000,New York City,NY
+47131,Menlo Park,USA,2005.0,80267917,SF Bay Area,CA
+47142,Durham,USA,2006.0,335891470,Raleigh,NC
+47384,San Leandro,USA,,150000,SF Bay Area,CA
+47533,Pleasanton,USA,2005.0,57554997,SF Bay Area,CA
+47544,Lexington,USA,2004.0,49325793,Boston,MA
+47589,Chicago,USA,,2500000,Chicago,IL
+47599,Salt Lake City,USA,2010.0,300000,Salt Lake City,UT
+47611,Boston,USA,2010.0,3000000,Boston,MA
+47707,Gainesville,USA,2011.0,0,Gainesville,FL
+47719,Durham,USA,2003.0,86267224,Raleigh,NC
+47854,Provo,USA,2012.0,3800000,Salt Lake City,UT
+47926,Menlo Park,USA,2009.0,36576043,SF Bay Area,CA
+48002,Morristown,USA,2012.0,0,Newark,NJ
+48194,Mesa,USA,2004.0,34150150,Phoenix,AZ
+48205,Novato,USA,,135100005,SF Bay Area,CA
+48206,Newark Valley,USA,1990.0,3000000,NY - Other,NY
+48306,York,USA,2002.0,75328948,Harrisburg,PA
+48340,San Antonio,USA,2009.0,0,San Antonio,TX
+48619,Thiensville,USA,2009.0,150000,Milwaukee,WI
+48668,San Clemente,USA,2001.0,45048169,Anaheim,CA
+48689,Sandy,USA,,313250,Salt Lake City,UT
+48776,Maple Grove,USA,2002.0,24411767,Minneapolis,MN
+48785,Durham,USA,2010.0,5858500,Raleigh,NC
+48837,Washington,USA,2003.0,54000000,"Washington, D.C.",DC
+48841,Nashville,USA,,6900000,Nashville,TN
+48887,New York,USA,,100000,New York City,NY
+48918,Sunnyvale,USA,,3494340,SF Bay Area,CA
+48942,Cambridge,USA,2011.0,4750000,Boston,MA
+49090,Everett,USA,2012.0,6861000,Seattle,WA
+49096,New York,USA,2005.0,2725000,New York City,NY
+49139,South San Francisco,USA,2008.0,70950000,SF Bay Area,CA
+49142,Albuquerque,USA,,7733333,Albuquerque,NM
+49143,St Louis,USA,,40232804,St. Louis,MO
+49145,Boston,USA,,70000000,Boston,MA
+49161,Mount Pleasant,USA,2001.0,8745000,"Charleston, South Carolina",SC
+49221,Menlo Park,USA,2008.0,144499999,SF Bay Area,CA
+49250,San Clemente,USA,,42000000,Anaheim,CA
+49276,Laguna Hills,USA,2003.0,27700000,Los Angeles,CA
+49279,Irvine,USA,2002.0,6225932,Anaheim,CA
+49295,Fort Collins,USA,2010.0,3413113,Fort Collins,CO
+49313,Nashua,USA,2007.0,10322726,"Manchester, New Hampshire",NH
+49334,Wilmington,USA,1999.0,19009671,Boston,MA
+49370,Palo Alto,USA,2006.0,18750000,SF Bay Area,CA
+49389,The Woodlands,USA,,1320000,Houston,TX
+49550,California,USA,,2500000,PA - Other,PA
+49610,Birmingham,USA,,850000,Birmingham,AL
+49760,Irvine,USA,2001.0,40000000,Anaheim,CA
+49766,Kingwood,USA,1991.0,108000000,Houston,TX
+49772,Saratoga,USA,1997.0,50000000,SF Bay Area,CA
+49777,Littleton,USA,2007.0,10300000,Boston,MA
+49837,Lakewood,USA,,7400000,Newark,NJ
+49843,San Francisco,USA,2014.0,1000000,SF Bay Area,CA
+49845,Salt Lake City,USA,,8507451,Salt Lake City,UT
+49857,Richmond,USA,2002.0,1000000,Richmond,VA
+49919,Dallas,USA,2003.0,8367135,Dallas,TX
+49934,Pine Bluff,USA,2006.0,216000,Little Rock,AR
+49998,Sarasota,USA,2008.0,37700000,Sarasota - Bradenton,FL
+50092,Chandler,USA,2004.0,10200000,Phoenix,AZ
+50171,Redwood City,USA,2006.0,46415000,SF Bay Area,CA
+50229,Plano,USA,2001.0,22356219,Dallas,TX
+50240,San Francisco,USA,2009.0,2000000,SF Bay Area,CA
+50267,Sunnyvale,USA,2006.0,66377963,SF Bay Area,CA
+50303,Fort Lauderdale,USA,2009.0,130000,Ft. Lauderdale,FL
+50461,West Palm Beach,USA,2008.0,40290236,Palm Beaches,FL
+50504,Littleton,USA,2003.0,18818374,Boston,MA
+50506,Waltham,USA,2004.0,502512,Boston,MA
+50775,San Francisco,USA,2013.0,0,SF Bay Area,CA
+50777,Austin,USA,2014.0,75000,Austin,TX
+50784,Madison,USA,2009.0,4225000,Madison,WI
+50787,Roswell,USA,2005.0,15249999,Atlanta,GA
+50809,Seattle,USA,2012.0,176097,Seattle,WA
+50810,Chicago,USA,2013.0,4625000,Chicago,IL
+51134,Riverside,USA,2008.0,4364162,Ontario - Inland Empire,CA
+51167,Somerville,USA,,1494500,Boston,MA
+51275,Washington,USA,2008.0,19453775,"Washington, D.C.",DC
+51490,Culver City,USA,,2300000,Los Angeles,CA
+51530,Salt Lake City,USA,1996.0,32606439,Salt Lake City,UT
+51557,Chanhassen,USA,2004.0,2496831,Minneapolis,MN
+51669,Seattle,USA,2010.0,18023021,Seattle,WA
+51670,Seattle,USA,,4570000,Seattle,WA
+51741,Monrovia,USA,1997.0,21097653,Los Angeles,CA
+51837,Mountain View,USA,2008.0,46922681,SF Bay Area,CA
+52189,San Diego,USA,2004.0,2000000,San Diego,CA
+52451,Cambridge,USA,2000.0,8500000,Boston,MA
+52492,Cambridge,USA,2012.0,2000000,Boston,MA
+52597,Los Angeles,USA,2012.0,100000,Los Angeles,CA
+52650,Berkeley,USA,2013.0,1860000,SF Bay Area,CA
+52829,Campbell,USA,2007.0,16000000,SF Bay Area,CA
+52836,Minneapolis,USA,,1700000,Minneapolis,MN
+52837,San Francisco,USA,2010.0,3528000,SF Bay Area,CA
+52876,New York,USA,2007.0,97940002,New York City,NY
+52884,San Diego,USA,2006.0,167062156,San Diego,CA
+52903,Mountain View,USA,1999.0,45693276,SF Bay Area,CA
+52967,Tempe,USA,,10000000,Phoenix,AZ
+53021,Middleton,USA,2010.0,11146457,Madison,WI
